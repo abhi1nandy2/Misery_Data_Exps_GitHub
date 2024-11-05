@@ -1,0 +1,122 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: Ruptured Your Bladder Jumping a Fence. Misery Rating = 80
+## Hypothetical Situation 2: See Your Dad in a Vintage Porno. Misery Rating = 55
+## Story: You Get Run Over by a Boat
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Given the two hypothetical situations, Ruptured Your Bladder Jumping a Fence has a misery rating of 80 and See Your Dad in a Vintage Porno has a misery rating of 55. The story You Get Run Over by a Boat likely involves significant physical pain and potential emotional trauma, which could suggest a relatively high misery rating. However, without additional details, it seems plausible that this situation might fall between the two ratings provided, taking into account the long-term psychological impact and severe physical pain. Therefore, my final answer is:
+
+{{{between}}}
+
+Host: You are CORRECT! The rating for the story was 69. Let's go to the next question. 
+## Story: You Flash Everyone at Your Wedding
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: The story "You Flash Everyone at Your Wedding" likely involves significant embarrassment and potential emotional trauma, but it doesn't seem to have severe physical pain or long-term psychological impact similar to the other situations. Compared to "Ruptured Your Bladder Jumping a Fence" with a rating of 80 and "See Your Dad in a Vintage Porno" with a rating of 55, this situation seems like it would have a lower overall misery rating. Considering these factors, my final answer is:
+
+{{{below}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 59. Let's start the Round 2, More or Less Miserable.
+## Story 1: A Potato Is Growing in Your Vagina. Misery Rating = 60
+## Story 2: A Python Bites Your Penis while you are sitting on a toilet
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Given Story 1, "A Potato Is Growing in Your Vagina," has a misery rating of 60, it involves significant embarrassment and possibly some physical discomfort.
+
+Story 2, "A Python Bites Your Penis while you are sitting on a toilet," seems to involve more immediate and severe physical pain, significant shock, and potential long-term psychological impact.
+
+Considering these factors, Story 2 likely has a higher misery rating than Story 1. Therefore, my final answer is:
+
+{{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 83. Let's go to the next question.
+## Story 1: Your Car is Kangarooed. Misery Rating = 38
+## Story 2: A Cow Kicks Your Ass
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: The phrase "Your Car is Kangarooed" has a misery rating of 38 and seems to indicate damage or inconvenience related to a car incident involving a kangaroo, which might be annoying or financially frustrating but not physically harmful.
+
+Story 2, "A Cow Kicks Your Ass," suggests an event that may involve physical pain and potential embarrassment. Considering the possibility of physical injury and shock, Story 2 might have a higher misery rating than Story 1.
+
+Taking these factors into account, my final answer is:
+
+{{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 56. Let's start the Round 3, Master of Misery.
+## Story: You Lose Your Eyebrows
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: Losing your eyebrows can be a distressing experience, primarily due to the emotional impact and possible social embarrassment. However, it does not involve significant physical pain or a considerable long-term psychological impact compared to many other situations. Given that, I would estimate a moderately low misery rating.
+
+Taking these factors into account, my final answer is:
+
+{{{40}}}
+
+Host: The rating for the story was 36. You were off by 4 points! Let's start the Bonus Round, Margin of Misery.
+## Story: You Poop so Hard You Forget a Decade
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Losing a decade of memories due to such an extreme physical event can be deeply unsettling, involving significant physical strain and emotional trauma. Given this context, it's likely to have a high misery rating. However, the humor and absurdity might take away some severity for some people. Here's how I would reasonably guess:
+
+Considering the range possibilities, I would guess within a 30-point range around a moderately high rating.
+
+Taking these factors into account, my final answer is:
+
+{{{60 - 90}}}
+
+Host: You are CORRECT! The rating for the story was 63. Let's go to the next question.
+## Story: A Cliff Falls on You
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Being caught in an event where a cliff falls on you involves extreme physical danger and likely severe injuries, along with significant emotional trauma and potentially long-term psychological impact. It seems logical to assume this situation would have a very high misery rating due to the severity and life-threatening nature of the event. Here's my guess for a 20-point range:
+
+Considering these factors, my final answer is:
+
+{{{80 - 100}}}
+
+Host: You are CORRECT! The rating for the story was 81. Let's go to the next question.
+## Story: Dentures are Lodged In Your Throat eight days after surgery
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Having dentures lodged in your throat for eight days after surgery suggests significant physical discomfort and potential danger. There's likely a mix of physical pain, ongoing difficulty breathing or swallowing, and considerable emotional stress. This situation involves more immediate physiological distress and anxiety. Given the serious nature of this scenario, I would estimate a high misery rating.
+
+Here's my guess for a 10-point range:
+
+{{{70 - 80}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 61. Thank you for playing!

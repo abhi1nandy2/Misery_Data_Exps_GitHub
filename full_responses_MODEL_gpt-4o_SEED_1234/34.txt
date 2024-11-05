@@ -1,0 +1,155 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: You're Stuck Behind a Garbage Truck for 15 Miles. Misery Rating = 32
+## Hypothetical Situation 2: You Call Your Boss Mommy During All-Staff Meeting. Misery Rating = 50
+## Story: You jumped onto a trampoline and then crashed into the Side of a Pool missing the water
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: To determine where the story falls:
+
+- The first hypothetical situation (stuck behind a garbage truck) has a misery rating of 32.
+- The second hypothetical situation (calling your boss "mommy") has a misery rating of 50.
+
+The story involves jumping onto a trampoline and crashing into the side of a pool. This incident likely involves significant physical pain and possibly emotional embarrassment, which may result in a higher rating than being called "mommy" by your boss, but it still might not be as impactful as situations with long-term effects. 
+
+Considering these factors, it's likely that the rating of the trampoline incident falls above 50. Therefore, the final answer is:
+
+{{{above}}}
+
+Host: You are CORRECT! The rating for the story was 67. Let's go to the next question. 
+## Story: Kid Crawls into Your Bathroom Stall
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: To determine where the story falls:
+
+- The first hypothetical situation (stuck behind a garbage truck) has a misery rating of 32.
+- The second hypothetical situation (calling your boss "mommy") has a misery rating of 50.
+
+The story involves a kid crawling into your bathroom stall. This situation can be awkward and embarrassing, but it likely involves less physical pain and long-term psychological impact compared to the previous story and the "mommy" incident.
+
+Considering these factors, it's likely that the rating for a kid crawling into your bathroom stall falls somewhere between the ratings of 32 and 50. Therefore, the final answer is:
+
+{{{between}}}
+
+Host: You are CORRECT! The rating for the story was 38. Let's start the Round 2, More or Less Miserable.
+## Story 1: Your Knee Is Crushed by the Knee Splitter. Misery Rating = 91
+## Story 2: Your Groin is Split by the Wooden Horse
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To determine whether Story 2 has a higher or lower rating compared to Story 1:
+
+- Story 1 involves a knee being crushed by the knee splitter, which has a high misery rating of 91. This suggests severe physical pain and potentially long-term psychological impact.
+- Story 2 involves the groin being split by the wooden horse, which also suggests immense physical pain, possibly even higher due to the sensitivity of the area and potential for long-term consequences.
+
+Given the severity of physical pain and possible long-term trauma associated with the groin injury, it's plausible that Story 2 could have an even higher rating than Story 1.
+
+Therefore, my final answer is:
+
+{{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 95. Let's go to the next question.
+## Story 1: You Spend a Day Wearing the Shame Flute. Misery Rating = 62
+## Story 2: You Spend a Day in the Scold's Bridle that includes an iron mask with a metal tongue depressor
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To determine whether Story 2 has a higher or lower rating compared to Story 1:
+
+- Story 1 involves spending a day wearing the Shame Flute, which has a misery rating of 62. This suggests significant emotional embarrassment and discomfort.
+- Story 2 involves spending a day in the Scold's Bridle with an iron mask and metal tongue depressor. This likely involves not only emotional discomfort and embarrassment but also physical discomfort and potential pain.
+
+Given the additional element of physical discomfort and the severity associated with the Scold's Bridle, it's reasonable to expect Story 2 to have a higher rating compared to Story 1.
+
+Therefore, my final answer is:
+
+{{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 77. Let's start the Round 3, Master of Misery.
+## Story: You Get Dragged by a Horse
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: To determine the misery rating for the story:
+
+- The story involves being dragged by a horse, which implies a combination of significant physical pain due to the dragging itself, potential for severe injuries, and possible long-term psychological impact. Such an experience is likely to be very traumatic.
+
+Considering these factors, I would estimate that the misery rating is quite high, but not necessarily as high as some of the extremely severe physical injuries or tortures.
+
+Therefore, my estimated misery rating is:
+
+{{{82}}}
+
+Host: The rating for the story was 47. You were off by 35 points! Let's start the Bonus Round, Margin of Misery.
+## Story: Your Stretcher Tips Over
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: You need to guess the misery rating of the story "Your Stretcher Tips Over" within a 30-point interval. Considering this scenario:
+
+- The incident likely involves a sudden and potentially startling experience, with moderate physical discomfort or embarrassment.
+- It's not likely to be as painful or traumatic as some of the more severe stories we've seen.
+
+Given this, a reasonable estimation might be somewhere in the lower half of the scale. To choose the 30-point range that covers the potential rating:
+
+{{{35 - 65}}}
+
+Host: You are CORRECT! The rating for the story was 61. Let's go to the next question.
+## Story: No One Comes to Your Loneliness Seminar
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To determine the misery rating for the story "No One Comes to Your Loneliness Seminar":
+
+- This situation involves a significant emotional impact related to feelings of rejection and embarrassment.
+- However, it lacks the physical pain or long-term physical consequences seen in some other stories.
+
+Given the emphasis on emotional trauma without severe physical pain, it's likely that the misery rating falls in a moderate range. To choose a 20-point interval that covers the potential rating:
+
+{{{40 - 60}}}
+
+Host: You are CORRECT! The rating for the story was 41. Let's go to the next question.
+## Story: A Toaster Toasts You
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To determine the misery rating for the story "A Toaster Toasts You":
+
+- This scenario likely involves some degree of physical pain due to burns from the toaster, but it may not carry the same level of emotional trauma or long-term psychological impact as more severe incidents.
+- Considering the likely severity of the burns and assuming they are not life-threatening, the rating might fall on the lower to moderate end of the scale.
+
+Given these factors and needing to guess within a 10-point interval, I would choose a range toward the lower end, but mindful of significant discomfort.
+
+My final answer is:
+
+{{{25 - 35}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 62. Thank you for playing!

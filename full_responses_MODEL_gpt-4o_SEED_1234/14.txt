@@ -1,0 +1,132 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: You Fall off a Cruise Ship Taking a Selfie. Misery Rating = 80
+## Hypothetical Situation 2: You Live Below a Tap Dance Studio. Misery Rating = 55
+## Story: Your Plane Hits a Plane
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Considering the two hypothetical situations and their respective misery ratings: falling off a cruise ship taking a selfie (80) and living below a tap dance studio (55), the story "Your Plane Hits a Plane" seems to involve significant emotional trauma and potentially long-term psychological impact. 
+
+However, it may not reach the level of physical danger or life disruption associated with falling off a cruise ship, which is rated 80. 
+
+It's likely more disruptive and traumatic than living below a tap dance studio, rated at 55. Thus, the misery rating for "Your Plane Hits a Plane" probably falls between these two values.
+
+My final answer is {{{between}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 93. Let's go to the next question. 
+## Story: A Dog Crashes Into Your Store
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Considering the two hypothetical situations and their respective misery ratings—falling off a cruise ship taking a selfie (80) and living below a tap dance studio (55)—the story "A Dog Crashes Into Your Store" seems to be less intense than both. 
+
+While it might involve some physical damage or chaos, it likely lacks the life-threatening aspect of falling off a cruise ship or the sustained annoyance of living below a tap dance studio. 
+
+The incident of a dog crashing into a store is probably more inconvenient than deeply traumatic or painful. Therefore, the misery rating for this story likely falls below both situations.
+
+My final answer is {{{below}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 63. Let's start the Round 2, More or Less Miserable.
+## Story 1: You're Accidentally Circumcised at 70 due to hospital mix-up. Misery Rating = 77
+## Story 2: You and Your Family Accidentally Join ISIS
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Considering the two stories, being accidentally circumcised at 70 due to a hospital mix-up is certainly traumatic, with significant physical pain and emotional impact, given the nature and age-related factors involved. This story has a misery rating of 77.
+
+However, the second story, "You and Your Family Accidentally Join ISIS," likely involves severe long-term psychological impacts, including potential fear for safety, legal issues, and extreme emotional distress, not only affecting the individual but the entire family.
+
+Given these factors, "You and Your Family Accidentally Join ISIS" likely has a higher misery index rating due to the broader scope of consequences and the intensity of emotional and psychological trauma involved.
+
+My final answer is {{{higher}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 62. Let's go to the next question.
+## Story 1: You Freeze on Live TV. Misery Rating = 44
+## Story 2: You Stab Yourself on Live TV on Shop at Home Network
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Considering the two stories:
+
+Story 1 involves freezing on live TV, which would be embarrassing and stressful, but it is primarily an emotional inconvenience with a misery rating of 44. 
+
+Story 2, which involves stabbing yourself on live TV, introduces a significant physical element, along with the potential for severe emotional trauma and long-term psychological impact due to the nature of the accident and its public setting.
+
+Given the physical harm and the greater potential for lasting effects compared to simply freezing, Story 2 likely has a higher misery index rating.
+
+My final answer is {{{higher}}}.
+
+Host: You are CORRECT! The rating for the story was 63. Let's start the Round 3, Master of Misery.
+## Story: You're a Cow's Midwife
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: As a cow's midwife, the situation involves a unique combination of physical labor and emotional dynamic, along with the potential for discomfort or unfamiliarity with the task. However, it might not have a high scoring in terms of long-term psychological impact or emotional trauma compared to other miseries described in the previous rounds. It seems more of an unusual and awkward situation than a deeply traumatic one.
+
+Considering the range of misery ratings in similar stories, my estimation for this situation falls around the mid-range. Therefore, I guess the misery rating to be:
+
+{{{45}}}
+
+Host: The rating for the story was 28. You were off by 17 points! Let's start the Bonus Round, Margin of Misery.
+## Story: You Walk Into a Streetlight
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Walking into a streetlight is an unfortunate and potentially embarrassing incident, but it likely doesn't result in severe physical injury or long-lasting emotional trauma. Based on this light level of inconvenience and minor physical pain, it seems plausible to assume a lower misery rating. For my estimate:
+
+{{{10 - 40}}}
+
+Host: You are CORRECT! The rating for the story was 22. Let's go to the next question.
+## Story: 26 Cockroaches Are Living In Your Ear
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Having 26 cockroaches living in your ear is a horrifying experience with both significant physical discomfort and emotional distress. This situation likely involves severe revulsion, continual physical discomfort, and potential long-term psychological effects due to the invasive nature of the incident.
+
+Given these factors, I would expect a relatively high misery rating, reflecting both immediate and lasting impacts. 
+
+For my estimate:
+
+{{{60 - 80}}}
+
+Host: You are CORRECT! The rating for the story was 60. Let's go to the next question.
+## Story: You Rip Out all your eyelashes off because of an eyelash curler
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Ripping out all your eyelashes with an eyelash curler would involve significant physical pain, as well as emotional distress due to the immediate physical impact and potential changes to appearance. However, it might not have extensive long-term psychological impacts compared to some more traumatic events.
+
+Considering the focus on physical pain and immediate distress, but less on long-term effects, my estimate will account for a moderate to high range of ratings.
+
+Therefore, for this story, my estimation of the misery rating is:
+
+{{{50 - 60}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 36. Thank you for playing!

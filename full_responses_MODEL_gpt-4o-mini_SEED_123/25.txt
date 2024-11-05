@@ -1,0 +1,143 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: Your Nose Job Gets Botched. Misery Rating = 75
+## Hypothetical Situation 2: You Are the Ugly Twin. Misery Rating = 51
+## Story: Your Daughter Can Only Fall in Love with Objects in San Francisco
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Based on the comparison between the hypothetical situations, we have:
+
+- Hypothetical Situation 1: Your Nose Job Gets Botched (Rating = 75)
+- Hypothetical Situation 2: You Are the Ugly Twin (Rating = 51)
+
+The given story involves emotional trauma related to your daughter's inability to form healthy romantic relationships, which could indicate significant emotional distress but may not be as physically painful or traumatic as the botched nose job. 
+
+Considering these factors, I would assess that the story likely falls between the two situations.
+
+Final answer: {{{between}}}
+
+Host: You are CORRECT! The rating for the story was 61. Let's go to the next question. 
+## Story: You're Thrown From a Carnival Ride
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: To evaluate the story "You're Thrown From a Carnival Ride," I will compare it to the two hypothetical situations:
+
+- Hypothetical Situation 1: Your Nose Job Gets Botched (Rating = 75)
+- Hypothetical Situation 2: You Are the Ugly Twin (Rating = 51)
+
+The story about being thrown from a carnival ride likely involves a significant level of physical pain and the potential for emotional trauma, possibly more than the emotional distress of being an ugly twin but perhaps less than the severity of a botched surgery, which could involve long-term consequences.
+
+Considering this, I believe the story likely falls below the botched nose job rating but above the situation of being the ugly twin.
+
+Final answer: {{{between}}}
+
+Host: You are CORRECT! The rating for the story was 64. Let's start the Round 2, More or Less Miserable.
+## Story 1: You caught your husband having sex with your identical twin. Misery Rating = 59
+## Story 2: Whoops! You Accidentally Shoot Your Mother-in-Law with bullet after shooting at an armadillo
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To evaluate the two stories for Round 2:
+
+- Story 1: You caught your husband having sex with your identical twin (Misery Rating = 59) involves significant emotional trauma, betrayal, and potential long-term psychological impact.
+- Story 2: Whoops! You accidentally shoot your mother-in-law with a bullet after shooting at an armadillo likely involves a severe incident of physical trauma and may also have emotional consequences, but it could be perceived as less emotionally traumatic than the betrayal experienced in Story 1.
+
+Considering these factors, I believe Story 2 may not have a higher rating given the intensity of the emotional trauma in Story 1.
+
+Final answer: {{{lower}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 70. Let's go to the next question.
+## Story 1: You farted during surgery to set operating room on fire. Misery Rating = 66
+## Story 2: Your audible fart gave away your hiding place (when you are a suspect) which led to your arrest
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To evaluate the two stories for this question:
+
+- Story 1: You farted during surgery to set the operating room on fire (Misery Rating = 66) likely involves a combination of embarrassment and the potential for serious consequences if harm was done during surgery, which could carry both physical and psychological implications.
+  
+- Story 2: Your audible fart gave away your hiding place (when you are a suspect) which led to your arrest seems to be mostly a humorous yet embarrassing scenario. The consequences could involve legal repercussions, but it may be seen as less severe than the repercussions of causing a fire in a surgery room.
+
+Considering the intensity of the scenarios, I believe that Story 2 is likely to have a lower rating compared to the embarrassment and potential danger involved in Story 1.
+
+Final answer: {{{lower}}}
+
+Host: You are CORRECT! The rating for the story was 51. Let's start the Round 3, Master of Misery.
+## Story: Your Best Friend Marries Your Sister
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: To assess the misery rating for the story "Your Best Friend Marries Your Sister," I consider the emotional trauma and psychological impact involved. 
+
+This situation likely involves feelings of betrayal, jealousy, and loss, as it affects both personal relationships and the dynamics between family and friendship. Given those significant emotional implications, I would estimate that the misery rating for this story is quite high, likely above 70.
+
+Final answer: {{{75}}}
+
+Host: The rating for the story was 45. You were off by 30 points! Let's start the Bonus Round, Margin of Misery.
+## Story: You Cliff Dive Into a Boat
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To evaluate the story "You Cliff Dive Into a Boat," I need to assess the potential injuries and emotional traumas that could result from such an activity. Cliff diving in general can be dangerous, and if it results in hitting a boat, it could lead to serious injuries.
+
+Since I do not have a specific misery rating for this story, I will estimate its possible range. Based on similar situations and their seriousness, I would likely place the misery rating within a range that is on the higher end due to the high risk of physical injury involved.
+
+Given the potential severity of injuries and the emotional trauma, I will estimate the rating to fall between 50 and 80.
+
+Final answer: {{{50 - 80}}}
+
+Host: You are CORRECT! The rating for the story was 64. Let's go to the next question.
+## Story: You reported not many rattlesnakes under home but a removal company found 45
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To evaluate the story "You reported not many rattlesnakes under your home but a removal company found 45," I will consider the emotional and psychological impacts of discovering a large number of rattlesnakes in your living environment. The potential for fear, anxiety, and the financial burden of removal would contribute to the misery rating.
+
+Given the shock of the situation and the possible dangers involved, I would estimate that this situation could have a moderate to high misery rating, but I believe it is unlikely to reach the most extreme levels of misery due to the eventual resolution (having the snakes removed).
+
+I would place the estimated misery rating in a range that reflects a significant level of discomfort and fear, perhaps from about 45 to 65.
+
+Final answer: {{{45 - 65}}}
+
+Host: You are CORRECT! The rating for the story was 57. Let's go to the next question.
+## Story: You Get Trapped in a Car Wash
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To evaluate the story "You Get Trapped in a Car Wash," I will consider the potential psychological impacts of feeling trapped, the fear that may arise during the incident, and the physical aspects of being in a car wash environment.
+
+Being trapped could cause significant anxiety and a sense of helplessness, but it is unlikely to result in severe physical harm. However, the emotional distress from the fear of the situation may still score it moderately on the misery scale.
+
+Considering these factors, I would estimate the misery rating to fall within the lower to moderate range. Hence, I would estimate a range of 40 to 50.
+
+Final answer: {{{40 - 50}}}
+
+Host: You are CORRECT! The rating for the story was 50. Thank you for playing!

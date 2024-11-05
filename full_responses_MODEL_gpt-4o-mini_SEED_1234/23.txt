@@ -1,0 +1,152 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: Glass Thermometer Shatters in Your Mouth. Misery Rating = 58
+## Hypothetical Situation 2: Your Feet Appear on a Fetish Website. Misery Rating = 30
+## Story: A Snake Bites Your Face
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Given the two hypothetical situations, I would evaluate the story "A Snake Bites Your Face." 
+
+- The first situation (Glass Thermometer Shatters in Your Mouth, Rating = 58) involves significant physical pain and potential for emotional trauma, which could result in a higher misery rating.
+  
+- The second situation (Your Feet Appear on a Fetish Website, Rating = 30) involves more of an emotional embarrassment than physical pain.
+
+A snake bite would likely involve severe physical pain and potential long-term psychological trauma, possibly falling above both situations. Considering all that, I believe the story "A Snake Bites Your Face" has a higher misery rating than 58.
+
+Therefore, my final answer is {{{above}}}.
+
+Host: You are CORRECT! The rating for the story was 62. Let's go to the next question. 
+## Story: You Pass Out on Live TV
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: To evaluate the story "You Pass Out on Live TV," I need to compare it to the two given situations.
+
+- The first situation (Glass Thermometer Shatters in Your Mouth, Rating = 58) involves severe physical pain and potential emotional repercussions.
+  
+- The second situation (Your Feet Appear on a Fetish Website, Rating = 30) is more about public embarrassment rather than physical pain.
+
+Passing out on live TV can cause a significant amount of emotional trauma, facing public humiliation, and potential long-term effects from the embarrassment. While it lacks the physical pain associated with the first situation, the emotional impact might elevate its misery rating.
+
+However, considering the level of physical suffering associated with the snake bite, the misery might still be less than 58. Thus, I would say "You Pass Out on Live TV" likely falls between the two hypothetical situations.
+
+So, my final answer is {{{between}}}.
+
+Host: You are CORRECT! The rating for the story was 44. Let's start the Round 2, More or Less Miserable.
+## Story 1: You are a patient with bizarre form of amnesia and you feel like you are still in 2005 after a routine dental treatment. Misery Rating = 83
+## Story 2: You're Trapped in a Coma for 12 Years
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To evaluate the two stories, I will compare the misery ratings based on the descriptions.
+
+- **Story 1** is about a patient with a bizarre form of amnesia, feeling like they are still in 2005 after a routine dental treatment. This can involve significant emotional trauma and confusion, and it has a misery rating of 83.
+
+- **Story 2** describes someone who is trapped in a coma for 12 years. A coma is often associated with severe physical and emotional distress, not only for the patient but also for their loved ones. The long-term effects of being in a coma would likely result in a very high misery rating, potentially above 83.
+
+Considering the severity of being in a coma for such a long duration, I would conclude that Story 2 probably has a higher misery rating than Story 1.
+
+Thus, my final answer is {{{higher}}}.
+
+Host: You are CORRECT! The rating for the story was 85. Let's go to the next question.
+## Story 1: You're Addicted to Cat Fur. Misery Rating = 57
+## Story 2: An Octopus is Stuck on Your Face
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To compare the two stories, I will analyze their potential misery ratings.
+
+- **Story 1** describes someone addicted to cat fur, which may involve some emotional discomfort, but it is more unusual and perhaps somewhat humorous rather than deeply traumatic. Its misery rating is 57.
+
+- **Story 2** involves an octopus being stuck on a person's face. This situation likely entails immediate physical pain, embarrassment, and potential long-term psychological effects from the trauma of the incident.
+
+Given the significant physical pain and potential for emotional distress caused by an octopus being stuck on one's face, I would expect the misery rating for Story 2 to be higher than that of Story 1.
+
+So, my final answer is {{{higher}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 49. Let's start the Round 3, Master of Misery.
+## Story: You're Forced to Go Skydiving
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: To evaluate the story "You're Forced to Go Skydiving," I will consider the potential physical, emotional, and psychological factors involved.
+
+- Being forced to go skydiving may involve significant emotional distress due to fear and anxiety. The act of skydiving can also bring about physical stress, but it may not necessarily result in long-term physical pain unless something goes wrong.
+  
+- The emotional trauma of being forced into such a situation can lead to a significant psychological impact, especially if the person has a fear of heights or flying.
+
+Considering these factors, I would estimate the misery rating to be somewhere in the range of 55-70, taking into account both the fear factor and the emotional distress. To be more precise, I will choose a rating of 65 based on the average experience of fear while skydiving.
+
+Therefore, my final answer is {{{65}}}.
+
+Host: The rating for the story was 35. You were off by 30 points! Let's start the Bonus Round, Margin of Misery.
+## Story: You are a woman who has 44 Kids by age 36
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To evaluate the story "You are a woman who has 44 Kids by age 36," I need to consider the potential physical, emotional, and psychological implications of this situation.
+
+Having 44 kids by 36 would entail enormous emotional and physical strain. The challenges of managing such a large family could lead to significant psychological stress, feelings of overwhelm, and potential physical health issues due to the demands of childbirth and childcare.
+
+Given the potential severity of this situation, I would estimate a misery rating that reflects the high level of stress and trauma involved. Since the previous stories have ranged widely, I would guess that this story falls into a higher misery range.
+
+Considering all these factors, I'll estimate a rating between 50 and 80 based on the intensity of the experience. Therefore, I'll choose the interval of:
+
+{{{50 - 80}}}
+
+Host: You are CORRECT! The rating for the story was 74. Let's go to the next question.
+## Story: Your Bus Breaks in Half at the middle while you are standing in the back
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To evaluate the story "Your Bus Breaks in Half at the middle while you are standing in the back," I will consider the potential physical and emotional consequences. 
+
+Experiencing a bus breaking in half could involve significant physical danger, potential injury, and a high level of stress and trauma. The immediate fear and panic would contribute to the emotional impact as well. Both physical pain and emotional trauma could be serious in this scenario. 
+
+Considering these factors, I would estimate this story's misery rating to be relatively high due to the traumatic nature of the incident. I would estimate a range based on the severity of the experience, likely somewhere between 60 and 80, reflecting a significant level of distress tied to both the physical and psychological impacts.
+
+Therefore, my final answer is {{{60 - 80}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 45. Let's go to the next question.
+## Story: You Have a Fork in Your Penis that is surgically removed
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To evaluate the story "You Have a Fork in Your Penis that is surgically removed," I need to consider both the physical pain and the emotional trauma associated with such an experience.
+
+Having a fork in a sensitive area like the penis would result in extreme physical pain and potential long-term psychological impact due to the nature of the injury and the implications of such an incident. The surgical removal, while necessary, would likely involve further pain and recovery challenges, contributing to both the physical and emotional distress.
+
+Given the severity of the physical pain and the significant emotional trauma that could arise from this situation, I would estimate a high misery rating. 
+
+I would predict the misery rating for this story falls within the range of 80 to 90, reflecting the intensity of the experience. Therefore, my final answer is:
+
+{{{80 - 90}}}
+
+Host: You are CORRECT! The rating for the story was 80. Thank you for playing!

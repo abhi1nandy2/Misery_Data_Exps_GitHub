@@ -1,0 +1,178 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: You Win Powerball but you lose the Ticket. Misery Rating = 58
+## Hypothetical Situation 2: Your Pubes are Caught in your Zipper. Misery Rating = 21
+## Story: You Find a Spider Living in Your Ear
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Given the story, "You Find a Spider Living in Your Ear," we need to assess its misery level based on the three pillars: physical pain, emotional trauma, and long-term psychological impact. 
+
+Finding a spider living in your ear would likely score high on emotional trauma due to the fear and shock such an experience would produce. There may also be a significant physical discomfort, and some potential for long-term psychological impact, particularly in terms of fear of insects or paranoia about future occurrences. 
+
+Comparing this to the given situations:
+- Losing a Powerball ticket is certainly a major emotional blow, especially due to the financial implications, but it lacks physical pain and long-term psychological impact may vary.
+- Having pubes caught in a zipper is a situation with high physical pain but perhaps less emotional trauma and long-term psychological effects.
+
+Considering these points, the story of finding a spider in your ear likely has more emotional impact than getting your pubes caught in a zipper, but maybe less than the financial and emotional hit of losing a lottery ticket. Hence, it would fall between the two situations.
+
+The answer is {{{between}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 62. Let's go to the next question. 
+## Story: Surprise! You Were a Surprise
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Considering the story "Surprise! You Were a Surprise," we need to evaluate it based on the three pillars of misery: physical pain, emotional trauma, and long-term psychological impact.
+
+This story is likely to have primarily emotional and psychological components. Being a surprise or unintended could lead to feelings of insecurity or questioning one's value or place in the family, potentially causing long-term psychological impacts. However, it doesn’t involve physical pain.
+
+Comparing this to the hypothetical situations:
+- Losing a Powerball ticket has a high emotional impact and potential psychological repercussions due to the financial loss.
+- Pubes caught in a zipper involves considerable physical pain.
+
+The surprise nature of one's existence might result in moderate emotional trauma and psychological impact, similar to but perhaps less than the financial and personal loss experienced with losing a lottery ticket. It likely has less physical impact than getting pubes caught in a zipper, which is more immediate and acute.
+
+Thus, it would likely have a lower misery rating than losing a Powerball ticket but a higher rating than the physical pain of pubes caught in a zipper.
+
+The answer is {{{below}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 32. Let's start the Round 2, More or Less Miserable.
+## Story 1: Watch Your Parents Filming Sex Scenes. Misery Rating = 52
+## Story 2: Severely Burn Your Junk
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Given the two stories, "Watch Your Parents Filming Sex Scenes" and "Severely Burn Your Junk," we need to assess them based on the three pillars of misery: physical pain, emotional trauma, and long-term psychological impact.
+
+1. **Watching Your Parents Filming Sex Scenes**:
+   - This scenario might have a significant emotional trauma due to the discomfort and awkwardness involved, as well as a potential long-term psychological impact. However, there's no physical pain involved.
+
+2. **Severely Burn Your Junk**:
+   - This scenario has extremely high physical pain due to the severity of the burn. It also could lead to long-term psychological impacts due to potential lasting physical damage and trauma from the incident.
+
+Considering these aspects, "Severely Burn Your Junk" is likely to have a much higher misery index due to its significant physical pain and possible lasting effects, making it overwhelmingly more miserable than the emotional discomfort of watching your parents involved in such scenes.
+
+The final answer is {{{higher}}}.
+
+Host: You are CORRECT! The rating for the story was 80. Let's go to the next question.
+## Story 1: You Give Birth to Twins 87 Days Apart. Misery Rating = 71
+## Story 2: You Get Accidental Man Boobs
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Given the two stories, "You Give Birth to Twins 87 Days Apart" and "You Get Accidental Man Boobs," we need to evaluate them based on the three pillars of misery: physical pain, emotional trauma, and long-term psychological impact.
+
+1. **You Give Birth to Twins 87 Days Apart**:
+   - This scenario involves significant physical pain associated with childbirth and potential complications. It also includes emotional trauma and a long-term psychological impact due to the unusual nature and potential stress of a prolonged birth period.
+
+2. **You Get Accidental Man Boobs**:
+   - This situation probably involves moderate emotional trauma due to unexpected changes in body image and potential social stigma. While it might have some long-term psychological effects, it lacks significant physical pain components compared to childbirth.
+
+Considering these points, "You Give Birth to Twins 87 Days Apart" is likely to have a higher misery index because of the substantial physical, emotional, and psychological components involved, surpassing the mostly psychological impact of having accidental man boobs.
+
+The final answer is {{{lower}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 73. Let's start the Round 3, Master of Misery.
+## Story: You Experience Pains of Labor
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: Given the story, "You Experience Pains of Labor," we need to assess the misery index by considering the physical pain, emotional trauma, and long-term psychological impact.
+
+1. **Physical Pain**: Labor is known to involve intense physical pain, and is often described as one of the most severe pains a person can experience.
+
+2. **Emotional Trauma**: There might be emotional stress related to the fears and uncertainties surrounding labor, though this can vary greatly depending on the individual's circumstances and support system.
+
+3. **Long-Term Psychological Impact**: The long-term impact can also vary, but the relief and joy often associated with the birth of a child can mitigate some of the psychological stress.
+
+Comparing this to other scenarios, the experience of labor pains is likely to rate highly due to the substantial physical pain involved. However, the typical outcome and the anticipation factor may keep it from reaching the very top of the misery scale.
+
+Taking all these factors into account, I would estimate the misery rating for "You Experience Pains of Labor" to be fairly high but not absolute at the top of the scale.
+
+The final answer is {{{85}}}.
+
+Host: The rating for the story was 57. You were off by 28 points! Let's start the Bonus Round, Margin of Misery.
+## Story: You are accused of chicken shack bomb threat; clarified it was a bowel explosion
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Given the story, "You are accused of chicken shack bomb threat; clarified it was a bowel explosion," we need to consider it in terms of the three pillars of misery: physical pain, emotional trauma, and long-term psychological impact.
+
+1. **Physical Pain**: This story likely involves some physical discomfort related to the bowel incident, though it's not the primary source of misery.
+
+2. **Emotional Trauma**: There is considerable potential for emotional trauma due to the embarrassment and misunderstanding involved in the situation, especially if it became public or was witnessed by others.
+
+3. **Long-Term Psychological Impact**: The long-term psychological impact might include ongoing embarrassment or anxiety about similar situations happening in the future.
+
+Considering these points, this situation likely involves a moderate level of misery primarily due to the emotional and psychological aspects rather than physical pain. It isn't as severe as stories with high physical impact but is higher than minor physical discomfort.
+
+Given these factors, I would estimate this story to be in the mid-to-lower range of the misery scale. Let's choose an interval that reflects this level.
+
+The final answer is {{{40 - 70}}}.
+
+Host: You are CORRECT! The rating for the story was 43. Let's go to the next question.
+## Story: Your Wife Changes Your Dating Profile
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Given the story, "Your Wife Changes Your Dating Profile," let's evaluate it based on the three pillars of misery: physical pain, emotional trauma, and long-term psychological impact.
+
+1. **Physical Pain**: There's no physical pain associated with this situation.
+
+2. **Emotional Trauma**: The potential emotional trauma could be significant due to the betrayal of trust and the implications it may have on one's relationship. Additionally, the embarrassment or humiliation factor could play a role if others become aware of the situation.
+
+3. **Long-Term Psychological Impact**: The long-term impact could include trust issues within the marriage or relationship and a possible strain on emotional well-being. It may also lead to anxiety about privacy and personal boundaries in the future.
+
+Considering these factors, this story likely has a moderate to slightly higher misery level due to the emotional and psychological components, but it lacks any physical pain component. It's not as severe as more physically painful experiences but carries significant emotional weight.
+
+Given the context, I would place this story in a slightly higher range of the misery scale, but not at the top. Let's choose an interval that captures this reasoning.
+
+The final answer is {{{50 - 70}}}.
+
+Host: You are CORRECT! The rating for the story was 69. Let's go to the next question.
+## Story: Exploding Vape Breaks Your Jaw
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Given the story, "Exploding Vape Breaks Your Jaw," let's evaluate it based on the three pillars of misery: physical pain, emotional trauma, and long-term psychological impact.
+
+1. **Physical Pain**: This scenario involves significant physical pain due to the injury of a broken jaw. Additionally, there would be recovery time and potential complications involved with such a serious injury.
+
+2. **Emotional Trauma**: The immediate shock and fear from the explosion and subsequent injury could contribute to emotional trauma. There may also be distress over the potential for disfigurement or permanent injury.
+
+3. **Long-Term Psychological Impact**: The long-term impact could include anxiety about using similar products in the future, ongoing pain or discomfort, and possibly a need for surgery or dental work, which adds to the stress.
+
+Considering these factors, this story likely has a high misery level because of the intense physical pain and significant emotional and psychological ramifications. It's likely positioned towards the higher end of the misery scale.
+
+Given the context and the need for a precise range with an interval size of 10, I would place this story in a higher range. Let's choose an interval that reflects this reasoning.
+
+The final answer is {{{80 - 90}}}.
+
+Host: You are CORRECT! The rating for the story was 81. Thank you for playing!

@@ -1,0 +1,164 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: Your Luggage Arrives Soaking Wet. Misery Rating = 37
+## Hypothetical Situation 2: You See Your Mom on an Ad for Escorts. Misery Rating = 62
+## Story: Your Wedding Officiant Pukes Mid-Vows
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: To determine where "Your Wedding Officiant Pukes Mid-Vows" falls on the Misery Index, let's analyze the situations:
+
+- Hypothetical Situation 1: "Your Luggage Arrives Soaking Wet" is rated at 37. This situation would likely cause some inconvenience and frustration.
+
+- Hypothetical Situation 2: "You See Your Mom on an Ad for Escorts" is rated at 62. This situation involves significant emotional trauma due to the personal and social implications.
+
+The story "Your Wedding Officiant Pukes Mid-Vows" could be embarrassing and may cause some distress during an important life event. However, it doesn't seem to involve significant long-term emotional trauma or psychological impact compared to seeing a parent's inappropriate ad. 
+
+Given these considerations, the story is likely not as severe as situation 2 but potentially more impactful than situation 1 due to the social setting and importance of the event. Therefore, it most likely falls between the two situations.
+
+So my final answer is: {{{between}}}
+
+Host: You are CORRECT! The rating for the story was 38. Let's go to the next question. 
+## Story: Your Doctor Disses You During Surgery
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: To determine where "Your Doctor Disses You During Surgery" falls on the Misery Index, let's analyze the situations again:
+
+- Hypothetical Situation 1: "Your Luggage Arrives Soaking Wet," rated at 37, involves inconvenience and frustration.
+
+- Hypothetical Situation 2: "You See Your Mom on an Ad for Escorts," rated at 62, involves significant emotional trauma and social implications.
+
+The story "Your Doctor Disses You During Surgery" is a situation that likely involves vulnerability and emotional distress. Being insulted or disrespected during a time when you are unconscious and entrusting your health to a professional can be quite distressing. It has potential short-term emotional trauma and might impact trust in medical professionals.
+
+Given these points, this situation feels more severe than having luggage spoiled but possibly not as traumatic or socially impactful as seeing your parent in an inappropriate ad. Thus, it most likely falls between the two situations.
+
+So my final answer is: {{{between}}}
+
+Host: You are CORRECT! The rating for the story was 51. Let's start the Round 2, More or Less Miserable.
+## Story 1: Your Kid Drops the Cymbals in their School Assembly while playing the national anthem. Misery Rating = 18
+## Story 2: Your Kid Mocks Your Sex Noises
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To determine whether "Your Kid Mocks Your Sex Noises" has a higher or lower misery rating compared to "Your Kid Drops the Cymbals in their School Assembly while playing the national anthem," let's analyze the situations:
+
+- Story 1: "Your Kid Drops the Cymbals in their School Assembly" is rated at 18. This situation is mildly embarrassing and involves some social discomfort.
+
+- Story 2: "Your Kid Mocks Your Sex Noises" involves personal and potentially embarrassing subject matter that could lead to significant awkwardness and emotional discomfort, especially given the intimate nature and the relationship involved.
+
+Given these considerations, mocking sex noises is likely to have a higher misery index due to the greater potential for emotional distress and personal embarrassment.
+
+Therefore, my final answer is: {{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 36. Let's go to the next question.
+## Story 1: Your Girlfriend removed Her Belly Button and gifted it to you. Misery Rating = 44
+## Story 2: You Discover Your Ex was Living in Your Attic 12 years after breakup
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To determine whether "You Discover Your Ex was Living in Your Attic 12 years after breakup" has a higher or lower misery rating compared to "Your Girlfriend removed Her Belly Button and gifted it to you," let's analyze the situations:
+
+- Story 1: "Your Girlfriend removed Her Belly Button and gifted it to you" is rated at 44. This situation is bizarre and potentially unsettling, involving discomfort and emotional confusion.
+
+- Story 2: "You Discover Your Ex was Living in Your Attic 12 years after breakup" involves shock, a breach of privacy, potential danger, and long-term psychological impact due to feeling violated and stalked. It's a much more severe invasion of personal space and can be frightening.
+
+Given these considerations, discovering that your ex has been living in your attic for years is likely to have a higher misery index due to the extreme privacy violation and potential danger involved.
+
+Therefore, my final answer is: {{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 71. Let's start the Round 3, Master of Misery.
+## Story: You're Tortured With Spiders
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: To determine the misery rating for the story "You're Tortured With Spiders," let's consider the potential impact based on the "Three Pillars of Misery":
+
+1. **Physical Pain**: Being tortured often involves physical pain, and fear of spiders could heighten that distress.
+2. **Emotional Trauma**: This scenario would likely cause significant fear and anxiety, possibly resulting in PTSD or ongoing spider phobia.
+3. **Long-term Psychological Impact**: The experience could deeply affect mental health, resulting in ongoing emotional distress and fear even after the event has ended.
+
+Given the combination of acute physical and psychological trauma, this scenario should score quite high on the misery scale. It's likely much worse than the previously discussed stories, such as discovering an ex living in your attic or mocking sex noises. I would estimate a rating towards the higher end of the scale.
+
+My final answer is: {{{85}}}
+
+Host: The rating for the story was 48. You were off by 37 points! Let's start the Bonus Round, Margin of Misery.
+## Story: Your Head Is Stuck in a Tailpipe
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To determine the misery rating for the story "Your Head Is Stuck in a Tailpipe," let's analyze it in terms of the "Three Pillars of Misery":
+
+1. **Physical Pain**: Being stuck in a tailpipe might not cause significant physical pain but could lead to discomfort or mild injuries.
+2. **Emotional Trauma**: This situation could be embarrassing and lead to panic or anxiety, especially in a public setting.
+3. **Long-term Psychological Impact**: The event might not have long-lasting psychological effects but could cause short-term humiliation or distress.
+
+Considering these factors, the situation is likely to be moderately embarrassing and uncomfortable but not extremely traumatic or impactful long-term. I would place it in a mid-range misery rating but lower than more traumatic scenarios like discovering an ex living in your attic.
+
+Since the first story in the Bonus Round allows a 30-point margin, I would estimate its misery rating is around the mid-range, maybe slightly higher due to the embarrassment factor.
+
+My final answer is: {{{30 - 60}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 64. Let's go to the next question.
+## Story: You discover that you are the Face of  Ukrainian Erectile Dysfunction Pills
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To determine the misery rating for the story "You discover that you are the Face of Ukrainian Erectile Dysfunction Pills," let's evaluate it in terms of the "Three Pillars of Misery":
+
+1. **Physical Pain**: There is no physical pain associated with this situation.
+2. **Emotional Trauma**: This could cause significant embarrassment and social stigma, especially if it was done without your consent or knowledge. It could affect your public image and personal relationships.
+3. **Long-term Psychological Impact**: The potential for ongoing embarrassment and damage to your personal and professional reputation could lead to lasting emotional distress.
+
+Considering these factors, this scenario could have a relatively high misery index due to the emotional and social implications. It is likely to have a higher impact than getting your head stuck in a tailpipe because of the stigma and the potential long-term social and personal repercussions.
+
+Since the second story in the Bonus Round allows a 20-point margin, I estimate its misery rating is relatively high due to the significant embarrassment and potential social impact.
+
+My final answer is: {{{55 - 75}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 39. Let's go to the next question.
+## Story: Flight Takes Off Without Your Baby and has to turn around
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To determine the misery rating for the story "Flight Takes Off Without Your Baby and has to turn around," let's evaluate it using the "Three Pillars of Misery":
+
+1. **Physical Pain**: There is no physical pain involved in this situation.
+
+2. **Emotional Trauma**: This could cause significant distress and panic. The fear and anxiety of being temporarily separated from your baby, combined with the helplessness of the situation, could be intensely traumatic.
+
+3. **Long-term Psychological Impact**: While the immediate trauma could be severe, the long-term emotional impact may not be as lasting as in some other traumatic scenarios. However, it could certainly lead to increased anxiety about travel.
+
+Considering these factors, the scenario is likely to score high on the emotional trauma scale due to the intense distress of separation from a child in a highly stressful situation. It is likely more severe than the embarrassment of being the face of erectile dysfunction pills, so it should have a higher misery index.
+
+Given the 10-point margin allowed for the final story, I estimate the misery rating for this story is quite high due to the emotional trauma involved.
+
+My final answer is: {{{70 - 80}}}
+
+Host: You are CORRECT! The rating for the story was 75. Thank you for playing!

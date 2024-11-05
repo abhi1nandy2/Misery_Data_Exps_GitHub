@@ -1,0 +1,164 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: You're Still a Virgin at 75. Misery Rating = 67
+## Hypothetical Situation 2: Your Plus-One to a Wedding Hijacks the Mic. Misery Rating = 36
+## Story: Your Bungee Cord Snaps
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Given the hypothetical situations:
+
+- You're Still a Virgin at 75 with a Misery Rating of 67 
+- Your Plus-One to a Wedding Hijacks the Mic with a Misery Rating of 36
+
+Now we need to consider the story: Your Bungee Cord Snaps. 
+
+This involves significant physical danger and likely severe emotional trauma, as the event involves a life-threatening situation. These factors suggest a high misery index, likely higher than either hypothetical situation.
+
+Therefore, the story likely falls above both situations. So, the correct answer would likely be:
+
+{{{above}}}
+
+Host: You are CORRECT! The rating for the story was 87. Let's go to the next question. 
+## Story: Your Hide-a-Bed Eats You
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Given the hypothetical situations:
+
+- You're Still a Virgin at 75 with a Misery Rating of 67
+- Your Plus-One to a Wedding Hijacks the Mic with a Misery Rating of 36
+
+Now we need to consider the story: Your Hide-a-Bed Eats You.
+
+This scenario seems somewhat humorous and bizarre, but it could involve physical discomfort and some level of emotional trauma, especially if it is a frightening experience. However, it likely does not involve the severe life-threatening element found in the previous bungee cord snapping story. 
+
+I would assess this story to involve a level of misery that is higher than the mic hijack scenario but likely lower than the lifelong regret or emotional impact implied by the 75-year-old virgin scenario.
+
+Therefore, the correct answer would likely be:
+
+{{{between}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 27. Let's start the Round 2, More or Less Miserable.
+## Story 1: Oops! You Take Your Dog to a Furry Convention. Misery Rating = 28
+## Story 2: You are a Naked sunbatherer and you chased a wild boar after it stole your laptop
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Given the stories:
+
+- Story 1: Oops! You Take Your Dog to a Furry Convention with a Misery Rating of 28
+- Story 2: You are a Naked Sunbather and you Chased a Wild Boar after it Stole your Laptop
+
+Story 2 involves several elements of potential misery: the embarrassment of being naked in a public setting, the stress of having your belongings stolen, and the physical effort involved in chasing a wild animal. This combination may lead to a situation that feels more humiliating and stressful than merely attending a furry convention by mistake with your dog, which might be awkward but not necessarily as publicly embarrassing.
+
+Considering these factors, it seems likely that Story 2 has a higher misery rating than Story 1.
+
+Therefore, the correct answer would be:
+
+{{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 45. Let's go to the next question.
+## Story 1: Ding Dong! Someone licked Your Doorbell for 3 hours. Misery Rating = 41
+## Story 2: You Find Human Tongues in Your House that possibly belonged to a previous owner
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Given the stories:
+
+- Story 1: Ding Dong! Someone licked Your Doorbell for 3 hours with a Misery Rating of 41
+- Story 2: You Find Human Tongues in Your House that possibly belonged to a previous owner
+
+Story 2 involves a deeply disturbing and potentially traumatizing discovery, as finding human tongues in your house suggests a macabre and unsettling situation. This is likely to cause significant emotional trauma and a lasting psychological impact, as opposed to the bizarre, yet relatively benign, experience of someone licking your doorbell.
+
+Considering these elements, it seems likely that Story 2 has a higher misery rating than Story 1.
+
+Therefore, the correct answer would be:
+
+{{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 45. Let's start the Round 3, Master of Misery.
+## Story: You Have to Pick Up Dog poop Barehanded
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: Given the story: "You Have to Pick Up Dog Poop Barehanded."
+
+This scenario involves physical discomfort and a significant "yuck" factor, which can result in temporary emotional distress. However, it does not have the depth of emotional trauma or long-term psychological impact that truly severe situations might entail. It falls into the realm of extreme inconvenience and grossness but is unlikely to be considered a gravely serious issue on the misery scale.
+
+Considering these aspects, the misery index for this situation is likely on the lower end of the scale. A reasonable guess might be around:
+
+{{{32}}}
+
+Host: The rating for the story was 44. You were off by 12 points! Let's start the Bonus Round, Margin of Misery.
+## Story: A Priest Drops Your Baby
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Given the story: "A Priest Drops Your Baby."
+
+This situation likely involves significant emotional trauma due to fear and concern for your baby's well-being, as well as potential physical harm to the baby. The psychological distress of such an event, combined with the shock and possible feelings of guilt or anger, may result in a medium to high level of misery.
+
+Considering these factors, you need to guess an interval that spans 30 points and contain what you think reflects the high misery index such a scenario might generate.
+
+A reasonable guess for the interval might be:
+
+{{{60 - 90}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 49. Let's go to the next question.
+## Story: Your Mom Ruins Your Audition
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Given the story: "Your Mom Ruins Your Audition."
+
+This situation likely involves significant emotional distress due to embarrassment and disappointment. The psychological impact might be moderate, particularly if this was an important audition that held significant personal value or opportunity.
+
+Considering these factors, you need to guess an interval that spans 20 points and is likely to encompass the emotions tied to a ruined audition, which would be somewhere between mild and moderate levels of misery.
+
+A reasonable guess for the interval might be:
+
+{{{40 - 60}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 34. Let's go to the next question.
+## Story: Your Doctor Removes the Wrong testicle and they were unable to reattach it so you being the patient sued them
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Given the story: "Your Doctor Removes the Wrong Testicle and They Were Unable to Reattach It So You Being the Patient Sued Them."
+
+This situation involves severe physical pain, significant emotional trauma, and a major long-term impact, both psychologically and physically. The consequences of such a medical error are devastating, potentially altering one's life permanently, which would contribute to a high misery score. The legal actions involved also add additional stress.
+
+Considering these factors, we need to guess an interval that spans 10 points and reflects a very high level of misery.
+
+A reasonable guess for the interval might be:
+
+{{{85 - 95}}}
+
+Host: You are CORRECT! The rating for the story was 94. Thank you for playing!

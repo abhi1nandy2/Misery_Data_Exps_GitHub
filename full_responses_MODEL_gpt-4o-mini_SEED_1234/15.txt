@@ -1,0 +1,140 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: Poison Ivy in Your Mouth and Throat. Misery Rating = 68
+## Hypothetical Situation 2: You Drop Grandma and She Chips Her last Tooth. Misery Rating = 48
+## Story: You Dive Into the High Dive naked
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Given the two hypothetical situations, I would evaluate the story "You Dive Into the High Dive naked." The rating for "Poison Ivy in Your Mouth and Throat" is 68, indicating a significant level of physical pain and potentially emotional embarrassment, while "You Drop Grandma and She Chips Her last Tooth" has a lower rating of 48, which might suggest a less severe emotional trauma and physical injury.
+
+Diving into a high dive naked could lead to feelings of embarrassment and potential injury from the dive itself, but it seems less severe than the physical pain associated with poison ivy, and more likely to be in line with the emotional trauma of our second situation involving dropping grandma.
+
+Considering all these factors, I believe that the story falls below Situation 1 but above Situation 2. Therefore, my final answer is {{{between}}}.
+
+Host: You are CORRECT! The rating for the story was 53. Let's go to the next question. 
+## Story: You Get Sucked Into the Escalator
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: To evaluate the story "You Get Sucked Into the Escalator," I will consider the two hypothetical situations again. 
+
+The first situation, "Poison Ivy in Your Mouth and Throat," has a misery rating of 68, which suggests a significant amount of physical pain and discomfort. The second situation, "You Drop Grandma and She Chips Her last Tooth," has a lower rating of 48, indicating less severe emotional trauma and physical injury.
+
+Getting sucked into an escalator could result in serious physical injuries, and the trauma associated with that experience could also lead to long-lasting psychological effects. It seems to carry a higher level of physical pain compared to the embarrassment of diving into a high dive naked and is likely to outstrip the emotional fallout of dropping grandma and causing minor damage.
+
+Based on these considerations, I would conclude that the story "You Get Sucked Into the Escalator" falls above both situations.
+
+So my final answer is {{{above}}}.
+
+Host: You are CORRECT! The rating for the story was 75. Let's start the Round 2, More or Less Miserable.
+## Story 1: You End Up Drunk & Pantless on a Train. Misery Rating = 57
+## Story 2: You Drive Your Scooter into a Sinkhole
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To evaluate the two stories, "You End Up Drunk & Pantless on a Train" with a misery rating of 57 and "You Drive Your Scooter into a Sinkhole," I need to consider the potential consequences and levels of misery associated with each situation.
+
+The first story suggests a situation with significant embarrassment and social repercussions due to being drunk and pantless in a public place. This could also lead to emotional trauma, but the physical pain might be minimal unless something else occurs during that scenario.
+
+On the other hand, driving a scooter into a sinkhole could potentially involve serious physical injury depending on the depth of the sinkhole and the circumstances of the fall. Given this context, the physical impact of crashing into a sinkhole could likely result in higher misery.
+
+Considering that driving into a sinkhole can lead to a much higher level of physical pain and possible long-term consequences compared to the embarrassment of being drunk and pantless, I would estimate that "You Drive Your Scooter into a Sinkhole" has a higher rating than the first story.
+
+Therefore, my final answer is {{{higher}}}.
+
+Host: You are CORRECT! The rating for the story was 69. Let's go to the next question.
+## Story 1: You Find Human Remains Outside of a Chili's. Misery Rating = 43
+## Story 2: You Accidentally Eat Hash Cake at a Funeral
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To evaluate the two stories, "You Find Human Remains Outside of a Chili's" with a misery rating of 43 and "You Accidentally Eat Hash Cake at a Funeral," I need to assess the emotional trauma and potential consequences of each situation.
+
+The first story involves a shocking and potentially disturbing experience of finding human remains, which can have significant psychological impacts and long-term emotional trauma. It likely evokes feelings of horror, fear, and distress. 
+
+In contrast, the second story of accidentally eating hash cake at a funeral suggests an embarrassing and socially awkward moment but does not seem to carry the same level of severe emotional trauma as discovering human remains. Although there could be consequences from the mishap at the funeral, it seems less severe than the psychological impact of encountering human remains.
+
+Given these considerations, it appears that "You Find Human Remains Outside of a Chili's" with a rating of 43 is likely to have a higher misery rating than the second story.
+
+Thus, my final answer is {{{lower}}}.
+
+Host: You are CORRECT! The rating for the story was 41. Let's start the Round 3, Master of Misery.
+## Story: You Cause Your Kid to Get Hit by a Car
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: To evaluate the story "You Cause Your Kid to Get Hit by a Car," I need to consider the significant implications of this situation. This story involves both emotional trauma and a potential long-term psychological impact. Causing harm to one's own child would lead to severe guilt, distress, and possibly PTSD for the parent. The physical pain experienced by the child would also be a major consideration, along with the emotional suffering of both parties.
+
+Given the gravity of the situation—associated trauma of an injury to a child and the emotional impact on the parent—it suggests a very high misery rating. Based on what I know, I would estimate the misery rating for this story to be around 85.
+
+Therefore, my final answer is {{{85}}}.
+
+Host: The rating for the story was 89. You were off by 4 points! Let's start the Bonus Round, Margin of Misery.
+## Story: Your Towed Car Rolls into Pool
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To determine the interval of ratings for the story "Your Towed Car Rolls into Pool," I need to consider both the emotional trauma and the physical implications of the scenario. This situation likely involves a sense of embarrassment, frustration, and potential monetary implications from the damage to the car as well as the pool (if there's one) and the additional trouble of retrieving the car.
+
+Considering the context and the potential levels of misery compared to prior stories, I would estimate that the misery rating for this situation might fall in the mid to lower range of the ratings we've encountered. 
+
+Since I know the first story of "You Get Sucked Into the Escalator" had a rating of 75, I would estimate that "Your Towed Car Rolls into Pool" could be lower than that due to the absence of any severe physical injury like being sucked into an escalator.
+
+If I tentatively place the rating at around 50, the interval would therefore be from 20 (50 - 30) to 80 (50 + 30).
+
+Thus, the final answer as an interval of ratings would be {{{20 - 80}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 46. Let's go to the next question.
+## Story: Boiling Butter Poured Down Your Butt and you got burnt
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To determine the interval of ratings for the story "Boiling Butter Poured Down Your Butt and you got burnt," I need to consider the intense physical pain that this situation would likely cause, along with potential emotional trauma associated with such an embarrassing and painful event.
+
+Burns from boiling butter can result in severe physical pain, anxiety about injury and recovery, and possible long-term effects depending on the severity of the burn. Given the nature of burns and the strong physical pain involved, I would estimate the misery rating to be relatively high.
+
+If I estimate the misery rating might be around 70, then the interval of ratings would be from 50 (70 - 20) to 90 (70 + 20).
+
+Therefore, my final answer as an interval of ratings would be {{{50 - 90}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 81. Let's go to the next question.
+## Story: You Find a Clown in Your Bedroom
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To determine the interval of ratings for the story "You Find a Clown in Your Bedroom," I have to consider the psychological implications and emotional trauma that can arise from finding an unexpected clown in such a personal and private space.
+
+The presence of a clown in a bedroom can trigger fear or discomfort, especially if one has a fear of clowns (coulrophobia). While it may not involve physical pain or injury, the emotional distress and potential terror could result in a notable misery rating.
+
+Given the mix of fright, confusion, and embarrassment that could come from such a situation, I would estimate the misery rating to be in the moderate range. If I tentatively estimate the misery rating to be around 40, then the interval of ratings would be from 30 (40 - 10) to 50 (40 + 10).
+
+Thus, the final answer as an interval of ratings would be {{{30 - 50}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 50. Thank you for playing!

@@ -1,0 +1,135 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: Proctologist Tells You They Love You. Misery Rating = 36
+## Hypothetical Situation 2: Your Wife Is having sex with the Weatherman. Misery Rating = 75
+## Story: Your Son has sex with His Car
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: The story about your son has sex with his car sounds like a bizarre and potentially disturbing scenario, but probably not as serious as discovering infidelity of a spouse, which has both significant emotional and potential long-term psychological effects. However, it seems more distressing than a proctologist making an inappropriate comment, which is uncomfortable but not as personally significant.
+
+Considering the given misery ratings, it seems logical to estimate this story falls between the two hypothetical situations.
+
+My final answer is: {{{between}}}
+
+Host: You are CORRECT! The rating for the story was 69. Let's go to the next question. 
+## Story: Your Bump N' Grind Burns You
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Given the two hypothetical situations: 
+
+1. Proctologist Tells You They Love You with a misery rating of 36.
+2. Your Wife Is Having Sex with the Weatherman with a misery rating of 75.
+
+We need to determine the position of the story "Your Bump N' Grind Burns You."
+
+This story likely refers to a moment of physical discomfort or embarrassment during a romantic or sexual encounter. While it's certainly unpleasant, it seems like it wouldn't have the serious emotional impact or long-term consequences of discovering infidelity. However, it is more significant than an awkward comment from a medical professional.
+
+Therefore, it's reasonable to estimate that the rating for "Your Bump N' Grind Burns You" falls between the two given situations.
+
+My final answer is: {{{between}}}
+
+Host: You are CORRECT! The rating for the story was 52. Let's start the Round 2, More or Less Miserable.
+## Story 1: Your Head Gets Stuck in Stair Railing Mid-Railing after you tried to spice things up. Misery Rating = 60
+## Story 2: You mistakenly became a getaway driver after a first date ended with a bank robbery
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: The story of inadvertently becoming a getaway driver after a first date ended with a bank robbery involves more serious consequences than physical discomfort and embarrassment from getting your head stuck in a stair railing. The first scenario, while embarrassing and uncomfortable, is temporary and can likely be resolved without long-term issues.
+
+In contrast, being part of a bank robbery, even inadvertently, can carry significant legal ramifications, potential emotional trauma, and lasting psychological effects due to the stress and fear involved. This makes it reasonable to assume that the misery index rating for the bank robbery scenario would be higher than having one's head stuck in a stair railing.
+
+Therefore, my final answer is: {{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 77. Let's go to the next question.
+## Story 1: Your Boyfriend Slept with Your Mom while on his way to meeting her. Misery Rating = 66
+## Story 2: Your Son is Dating a Cockroach for a year
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: The story of a boyfriend sleeping with your mom has a high emotional impact, involving feelings of betrayal, shattered trust, and deep emotional trauma. It's easy to see why this situation has a high misery rating of 66.
+
+On the other hand, the story of a son dating a cockroach is certainly bizarre and concerning. However, it likely doesn't have the same level of emotional betrayal and trauma compared to the first story. The cockroach scenario might involve social embarrassment, worry for one's child, and general discomfort, but it doesn't seem to reach the same level of personal betrayal and emotional impact.
+
+Given these assessments, it seems reasonable that the misery index rating for the latter scenario would be lower than that of the boyfriend and mom situation.
+
+Therefore, my final answer is: {{{lower}}}
+
+Host: You are CORRECT! The rating for the story was 55. Let's start the Round 3, Master of Misery.
+## Story: An Entire Stadium of People Hates You
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: The story "An Entire Stadium of People Hates You" suggests a situation with significant public humiliation and social stress. The idea of facing a crowd's animosity could have substantial emotional and psychological impacts, but it might not involve physical pain or long-term consequences outside of social anxiety and reputation damage.
+
+Comparing this scenario to some of the previous stories, it seems likely to have a higher misery rating than relatively mild or quirky situations but might not reach the extremes of betrayal or legal troubles. Given the potential for significant emotional trauma from such a large public rejection, I would place the rating somewhere moderately high.
+
+Considering these factors, my guess for the misery rating is:
+
+My final answer is: {{{71}}}
+
+Host: The rating for the story was 42. You were off by 29 points! Let's start the Bonus Round, Margin of Misery.
+## Story: Your Pastor is Caught Having Sexy-Time
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: The story "Your Pastor is Caught Having Sexy-Time" involves a complicated mix of emotional and possibly moral disappointment, feelings of betrayal, and community implications. This could have a moderate to high misery rating, based on the emotional trauma and long-term psychological effects, especially if the pastor is a trusted and respected figure.
+
+Considering the available intervals and the nature of the story, a reasonable guess might be in the midpoint to somewhat higher range. I'm inclined to choose a rating that captures a moderate reflection of shock and emotional impact.
+
+My final answer is: {{{50 - 80}}}
+
+Host: You are CORRECT! The rating for the story was 58. Let's go to the next question.
+## Story: Your Husband Virtually Kills You
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: The story "Your Husband Virtually Kills You" seems to imply a situation where there's a significant emotional impact, likely involving betrayal or emotional abuse within the relationship. While it's virtual and doesn't involve physical harm, the emotional ramifications could still be quite serious, affecting trust, sense of safety, and the relationship's emotional dynamics.
+
+Considering the seriousness of emotional betrayal but also recognizing the fact that this is a virtual scenario with potentially lesser tangible effects compared to physical or legal challenges, the misery rating might be in the moderate to high range but possibly not at the very top.
+
+Given the constraints and aim for an interval size of 20, a plausible guess could be:
+
+My final answer is: {{{60 - 80}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 35. Let's go to the next question.
+## Story: You fell into water & inadvertently got kicked in the face after trying to propose to your girlfriend while she was on a motorboat
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: The story of falling into water and getting inadvertently kicked in the face while trying to propose introduces a mix of physical pain and emotional embarrassment. However, it doesn't necessarily carry severe long-term psychological impacts compared to scenarios involving personal betrayal or public humiliation.
+
+Considering the physical pain and immediate embarrassment, along with the context of a proposal, this might rank somewhat lower on the misery scale. It has the hallmarks of an unfortunate accident rather than a deep emotional or psychological crisis.
+
+With an interval size of 10 and aiming to capture the essence of misfortune coupled with an awkward romantic mishap, my guess would be:
+
+My final answer is: {{{30 - 40}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 51. Thank you for playing!

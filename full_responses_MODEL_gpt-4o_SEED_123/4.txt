@@ -1,0 +1,151 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: Surprise! You're Having Triplets at 50. Misery Rating = 60
+## Hypothetical Situation 2: Your Drunk Mom Complains About her Sex Life. Misery Rating = 27
+## Story: You're Caught Lying on TV
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Given the story "You're Caught Lying on TV," we need to place it relative to the two hypothetical situations:
+
+1. "Surprise! You're Having Triplets at 50" with a Misery Rating of 60
+2. "Your Drunk Mom Complains About her Sex Life" with a Misery Rating of 27
+
+Being caught lying on TV can be quite embarrassing and psychologically impactful, but it would typically have a varying level of misery depending on context. However, it's generally seen as less impactful or miserable than an unexpected pregnancy of triplets at age 50 but potentially more distressing than a conversation with a drunk parent about their sex life. Based on these assessments, I would place this story between these two situations.
+
+Therefore, my final answer is: {{{between}}}
+
+Host: You are CORRECT! The rating for the story was 50. Let's go to the next question. 
+## Story: Your Landlord pees on Your Lunch
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: The story "Your Landlord pees on Your Lunch" clearly involves a significant invasion of privacy and a disgusting violation. This is a distressing situation that would likely have a high misery rating due to the combination of physical disgust (the act itself), emotional trauma (the violation of trust and dignity), and possible long-term psychological impact (feeling unsafe in one’s own home). Let's compare it to the hypothetical situations:
+
+1. "Surprise! You're Having Triplets at 50" with a Misery Rating of 60
+2. "Your Drunk Mom Complains About her Sex Life" with a Misery Rating of 27
+
+Having your landlord pee on your lunch might not reach the level of surprise and lifelong impact as having triplets at age 50, but it seems more severe than listening to a drunk parent discuss their personal life. Thus, it likely falls closer to the higher end of the scale than the lower.
+
+Therefore, my final answer is: {{{between}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 80. Let's start the Round 2, More or Less Miserable.
+## Story 1: Your Breast Implants Make Fart Noises. Misery Rating = 59
+## Story 2: You Have a Permanent Bald Spot
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: In comparing the two stories:
+
+1. "Your Breast Implants Make Fart Noises," which has a Misery Rating of 59, involves a situation that is likely embarrassing and could affect one's self-esteem and body image, potentially leading to emotional distress.
+2. "You Have a Permanent Bald Spot," which affects appearance and can also influence self-esteem, but could be considered less embarrassing or socially awkward compared to the first story.
+
+The impact of these situations can vary widely depending on individual perceptions and societal norms. However, given that the embarrassment from breast implants making noises is directly linked to one's body and could be more socially awkward, it might be considered more miserable than having a permanent bald spot.
+
+Therefore, I will guess that the story with the permanent bald spot has a lower misery rating. 
+
+My final answer is: {{{lower}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 76. Let's go to the next question.
+## Story 1: Your Parents Terrify You. Misery Rating = 53
+## Story 2: You Are Attacked by a Sea Lion
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To determine whether the story "You Are Attacked by a Sea Lion" is more or less miserable compared to "Your Parents Terrify You," let's consider the potential elements involved.
+
+1. "Your Parents Terrify You" has a Misery Rating of 53. This involves ongoing emotional trauma and potential long-term psychological effects due to harmful relationships with one's parents. It's an ongoing source of stress and fear and can significantly affect mental health.
+
+2. "You Are Attacked by a Sea Lion" involves physical danger and immediate fear, but it might not have the same lasting emotional and psychological impact as a difficult relationship with one's parents. The attack could lead to physical pain and short-term trauma, but once the physical injuries heal, the psychological impact might not be as enduring.
+
+Given the information, while a sea lion attack can indeed be frightening and painful, the long-term psychological distress of living in fear of your parents could result in a higher overall misery rating.
+
+Therefore, I will guess that the misery rating for being attacked by a sea lion is lower.
+
+My final answer is: {{{lower}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 69. Let's start the Round 3, Master of Misery.
+## Story: You Go Hang... Gliding
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: The story "You Go Hang... Gliding" seems to be more of an adventurous or thrilling experience rather than a miserable situation. It's possible the misery rating might consider elements such as fear of heights, potential physical danger, or anxiety about the activity. However, in the context of the types of stories provided earlier, this seems to be less related to significant personal distress or long-term impact.
+
+Considering the context that this game is about misery and distress, I'll assess the story on a lower side of the misery scale, as it's an activity chosen for excitement rather than forced upon someone with inherent negativity. Taking into account previous ratings, I would estimate the misery rating to be relatively low.
+
+My final answer is: {{{15}}}
+
+Host: The rating for the story was 75. You were off by 60 points! Let's start the Bonus Round, Margin of Misery.
+## Story: You are Struck by Lightning 3 Times
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Considering the story "You are Struck by Lightning 3 Times," we need to assess the severity across the "Three Pillars of Misery":
+
+1. **Physical Pain**: Being struck by lightning is extremely painful and can cause severe physical injuries each time it occurs.
+2. **Emotional Trauma**: Experiencing this extraordinary event three times could lead to significant emotional distress, including fears or phobias about storms or being outdoors.
+3. **Long-term Psychological Impact**: The repeated nature of the event could lead to a sense of doom or feeling cursed, possibly resulting in lasting anxiety or PTSD.
+
+Given these factors and the potential severity involved, the story will likely have a high misery rating. Because we need to guess this rating within an interval of 30 points and considering past story ratings have gone as high as 80 or more, I would estimate it at the higher end of the scale. 
+
+Therefore, my chosen interval on the scale of 1-100 would be:
+
+My final answer is: {{{70 - 100}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 67. Let's go to the next question.
+## Story: Your Surgeon's Mistake Leaves You Legless
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Given the story "Your Surgeon's Mistake Leaves You Legless," we need to consider the following aspects:
+
+1. **Physical Pain**: The loss of both legs due to a surgical error is a significant physical trauma with serious ramifications on one's health and mobility.
+2. **Emotional Trauma**: Such an unexpected and severe outcome can lead to profound emotional distress, including feelings of anger, betrayal, and grief over the loss of mobility and independence.
+3. **Long-term Psychological Impact**: This life-altering event could result in long-term psychological consequences such as depression, anxiety, and difficulty adjusting to a new way of life.
+
+Considering these points, this story signifies an extremely high level of misery due to its permanent and severe impact on multiple facets of life. Given the severity, it is likely positioned near the high end of the misery scale. The interval required is 20 points, so I will place it near the top of the scale.
+
+My final answer is: {{{80 - 100}}}
+
+Host: You are CORRECT! The rating for the story was 100. Let's go to the next question.
+## Story: You have a Drunken Makeout with an Old Lady
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: For the story "You have a Drunken Makeout with an Old Lady," let's evaluate the potential misery factors:
+
+1. **Physical Pain**: There is likely no physical pain involved, so this aspect is minimal.
+2. **Emotional Trauma**: There could be feelings of embarrassment or regret, especially if the situation was unexpected or socially awkward, but it is unlikely to cause deep emotional trauma.
+3. **Long-term Psychological Impact**: The psychological impact may be minor, possibly involving some short-lived embarrassment or discomfort when recounting the event.
+
+Considering these elements and the types of stories rated previously, this story seems to carry a lower level of misery. It's more of an awkward experience than a traumatic one. The interval for this guess is 10 points, suggesting a need for precision, but overall, I suspect the rating won't be too high.
+
+My final answer is: {{{10 - 20}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 28. Thank you for playing!

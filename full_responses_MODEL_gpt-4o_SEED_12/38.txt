@@ -1,0 +1,177 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: Hockey Puck Bursts Your Implant. Misery Rating = 66
+## Hypothetical Situation 2: You Slide into First & Feel Something Burst. Misery Rating = 43
+## Story: You Get Pummeled by the Vault
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: To determine the placement of "You Get Pummeled by the Vault," you need to consider how its misery could compare to the two given hypothetical situations: "Hockey Puck Bursts Your Implant" at 66 and "You Slide into First & Feel Something Burst" at 43. 
+
+Without specific details on the story's misery components, let's consider the nature of vault-related accidents:
+
+- "You Get Pummeled by the Vault" might involve significant physical pain and possibly some emotional trauma, although it might not have a severe long-term psychological impact.
+
+Comparing it to the provided situations:
+
+1. "Hockey Puck Bursts Your Implant" could cause severe physical pain and emotional stress. 
+2. "You Slide into First & Feel Something Burst" suggests moderate pain and shock.
+
+Given this context, "You Get Pummeled by the Vault" could potentially have a higher impact than simply sliding into first base and feeling something burst, but perhaps not as severe as an implant bursting. Therefore, it seems reasonable to place it between the two scenarios.
+
+Your answer: {{{between}}}
+
+Host: You are CORRECT! The rating for the story was 62. Let's go to the next question. 
+## Story: You are the goalie. After a soccer ball was saved from going into the goal you celebrated prematurely only for the ball to bounce into the goal
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: When evaluating the story "You are the goalie. After a soccer ball was saved from going into the goal you celebrated prematurely only for the ball to bounce into the goal," we need to consider its emotional impact and any potential physical or psychological long-term effects:
+
+1. **Physical Pain:** Likely negligible, as this situation doesn't describe any physical harm.
+2. **Emotional Trauma:** This situation mostly involves embarrassment and disappointment from celebrating prematurely and then failing to prevent a goal, which are short-term emotional impacts.
+3. **Long-term Psychological Impact:** The psychological impact might involve lingering embarrassment or a blow to confidence, but probably not as severe or lasting as severe physical trauma.
+
+Comparing it to the provided situations:
+- "Hockey Puck Bursts Your Implant" involves serious physical pain and emotional trauma due to the nature of the injury, rated at 66.
+- "You Slide into First & Feel Something Burst" involves moderate to significant pain and shock, rated at 43.
+
+The goalie story is likely to be much lower on the misery index, as it primarily involves emotional embarrassment without physical injury. It seems reasonable to place it below both scenarios provided.
+
+Your answer: {{{below}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 44. Let's start the Round 2, More or Less Miserable.
+## Story 1: Nobody Bids on Your Signed Merch at an auction put on by the Anti-Cruelty Society. Misery Rating = 44
+## Story 2: You're Unknowingly the Face of an Erotic Novel
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To determine whether "You're Unknowingly the Face of an Erotic Novel" has a higher or lower misery rating compared to "Nobody Bids on Your Signed Merch at an auction put on by the Anti-Cruelty Society," we need to compare the potential impacts of each situation:
+
+1. **Physical Pain:** Neither story involves physical pain.
+2. **Emotional Trauma:** 
+   - "Nobody Bids on Your Signed Merch" could involve feelings of rejection and embarrassment, but might be short-lived.
+   - "You're Unknowingly the Face of an Erotic Novel" could lead to more intense and prolonged emotional trauma, such as humiliation, privacy invasion, and reputational damage.
+3. **Long-term Psychological Impact:**
+   - The auction could lead to some embarrassment but is unlikely to have lasting effects.
+   - Being the face of an erotic novel without consent could cause significant long-term distress due to public perception and potential effects on personal and professional relationships.
+
+Considering these factors, "You're Unknowingly the Face of an Erotic Novel" seems like it would likely produce a higher level of misery compared to "Nobody Bids on Your Signed Merch."
+
+Your answer: {{{higher}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 37. Let's go to the next question.
+## Story 1: You Dive Through Plate Glass. Misery Rating = 69
+## Story 2: You Are Gored by a Bull
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To determine whether "You Are Gored by a Bull" has a higher or lower misery rating compared to "You Dive Through Plate Glass," we need to consider the potential impacts of each situation:
+
+1. **Physical Pain:**
+   - "You Dive Through Plate Glass" likely involves significant physical pain and injury from the glass, perhaps requiring medical attention.
+   - "You Are Gored by a Bull" could involve even more severe physical injury, such as deep wounds and possibly life-threatening injuries, which could lead to extensive medical treatment.
+
+2. **Emotional Trauma:**
+   - Diving through glass might cause shock and fear, but being gored by a bull could induce greater fear and emotional distress due to the animal attack's aggressive nature.
+
+3. **Long-term Psychological Impact:**
+   - Both incidents could lead to long-term psychological distress or trauma, but fear related to an animal attack might be more pervasive.
+
+Considering the severe physical and emotional trauma associated with being gored by a bull, it's likely that "You Are Gored by a Bull" would have a higher misery rating compared to diving through plate glass.
+
+Your answer: {{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 83. Let's start the Round 3, Master of Misery.
+## Story: You Crap Out During Your Big Interview
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: To estimate the misery rating for the story "You Crap Out During Your Big Interview," we should consider the following factors:
+
+1. **Physical Pain:** This story likely involves no physical pain.
+2. **Emotional Trauma:** This situation is primarily about significant embarrassment, anxiety, and disappointment, which can be intense in the short term, especially if the interview was important for a career opportunity.
+3. **Long-term Psychological Impact:** The long-term impact could involve a lingering sense of embarrassment or regret, especially if the interview was crucial for the person's career goals.
+
+Based on similar stories and common reactions to such incidents, I would estimate that the misery rating might fall within a moderate range due to the high emotional impact but lack of physical harm. Let's estimate the misery rating:
+
+Your answer: {{{55}}}
+
+Host: The rating for the story was 60. You were off by 5 points! Let's start the Bonus Round, Margin of Misery.
+## Story: You Get Traded for Hotel Reservations
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To estimate the misery rating interval for the story "You Get Traded for Hotel Reservations" in the Bonus Round, we need to consider its potential impacts:
+
+1. **Physical Pain:** None.
+2. **Emotional Trauma:** Being traded for hotel reservations is likely to be emotionally distressing and humiliating due to feelings of being undervalued or treated as an object.
+3. **Long-term Psychological Impact:** This could cause lingering feelings of inadequacy and betrayal, particularly if the trade occurs in a personal or professional context.
+
+Given these elements, the misery rating might be significant due to the emotional and psychological impacts. I'd estimate the misery rating could be moderate to high within the range, considering the strong emotional aspects without physical harm.
+
+To cover the actual rating within a 30-point interval, I'll choose an interval that reflects the potential severity of these feelings:
+
+Your answer: {{{50-80}}}
+
+Host: You are CORRECT! The rating for the story was 54. Let's go to the next question.
+## Story: You're Tackled by a Cart
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To estimate the misery rating interval for the story "You're Tackled by a Cart," let's analyze the potential impacts:
+
+1. **Physical Pain:** Receiving an impact from a cart could result in moderate to significant physical pain, possibly bruises or minor injuries.
+2. **Emotional Trauma:** The unexpected nature of being tackled by a cart could lead to embarrassment or shock.
+3. **Long-term Psychological Impact:** The long-term impact might be minimal unless the incident caused serious injury or phobia related to carts or similar scenarios.
+
+Taking these factors into account, the misery rating is likely moderate but not exceedingly high, focusing more on physical discomfort and short-term embarrassment.
+
+To cover the actual rating within a 20-point interval, I'll choose a range that aligns with such moderate impact:
+
+Your answer: {{{40-60}}}
+
+Host: You are CORRECT! The rating for the story was 49. Let's go to the next question.
+## Story: Your Ice Hockey Team Can't Skate and the players fell while getting on the ice
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To estimate the misery rating interval for the story "Your Ice Hockey Team Can't Skate and the players fell while getting on the ice," let's assess the potential impacts:
+
+1. **Physical Pain:** Some potential for minor injuries like bruises or mild impact from falling.
+2. **Emotional Trauma:** This is primarily an embarrassing and humorous incident. The emotional impact might depend on the importance of the game or event, leading to feelings of embarrassment or failure.
+3. **Long-term Psychological Impact:** The long-term impact is likely minimal, as this is more of a comical mishap rather than a traumatic event, unless it has significant repercussions for the team.
+
+Given these considerations, the misery rating for this story would likely be on the lower side, focusing on temporary embarrassment rather than severe impacts.
+
+For a 10-point interval that reflects this relatively low impact, I'd select:
+
+Your answer: {{{30-40}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 25. Thank you for playing!

@@ -1,0 +1,122 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: Hairdresser Sneezes and Gives You Bangs. Misery Rating = 44
+## Hypothetical Situation 2: Your Child Joins an A Cappella Group. Misery Rating = 20
+## Story: A Woman Gives Birth In Your Cab
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Based on the given ratings, the story of "A Woman Gives Birth In Your Cab" likely involves significant emotional trauma and stress for the cab driver, as well as the physical pain of childbirth. Given that the hypothetical situations have ratings of 44 and 20, it seems reasonable to conclude that this story falls above the lower situation but below the higher one.
+
+Therefore, my final answer is {{{between}}}.
+
+Host: You are CORRECT! The rating for the story was 33. Let's go to the next question. 
+## Story: You Faint During Your Friend's Wedding
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Considering the provided ratings of 44 for "Hairdresser Sneezes and Gives You Bangs" and 20 for "Your Child Joins an A Cappella Group," the story "You Faint During Your Friend's Wedding" likely carries some emotional trauma, particularly due to the social context and the pressure of the occasion. However, fainting may not involve significant long-term psychological impacts compared to childbirth.
+
+Given these factors, it seems reasonable that this story would fall below the higher rating of 44 but above the lower rating of 20.
+
+Therefore, my final answer is {{{between}}}.
+
+Host: You are CORRECT! The rating for the story was 32. Let's start the Round 2, More or Less Miserable.
+## Story 1: Your Home is Trashed in a Drug-Fueled Orgy. Misery Rating = 73
+## Story 2: Your Anger Management Classmate Stabs You
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Given the situations, "Your Home is Trashed in a Drug-Fueled Orgy" with a rating of 73 suggests significant physical and emotional trauma, perhaps with long-term psychological effects due to the violation of personal space and property.
+
+On the other hand, "Your Anger Management Classmate Stabs You" would involve extreme physical pain and severe emotional trauma, likely leading to long-term psychological impacts as well. Given the severity of physical harm associated with a stabbing, it's reasonable to infer that this story may have a higher misery rating.
+
+Therefore, my final answer is {{{higher}}}.
+
+Host: You are CORRECT! The rating for the story was 78. Let's go to the next question.
+## Story 1: You are caught after Falling Asleep During Sex in Public in a university hallway. Misery Rating = 52
+## Story 2: Dad Steals Your Girl Scout Cookie Money for an Erotic Massage
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: For this comparison, "You are caught after Falling Asleep During Sex in Public in a university hallway" has a rating of 52. This situation likely carries a significant amount of social embarrassment and emotional trauma but may not have lasting effects.
+
+On the other hand, "Dad Steals Your Girl Scout Cookie Money for an Erotic Massage" suggests a betrayal from a parent, which can lead to substantial emotional trauma and long-term psychological impact due to the feelings of trust being violated.
+
+While the first story involves public embarrassment, the second story seems to have deeper emotional consequences, potentially leading to a higher misery rating. 
+
+Therefore, my final answer is {{{higher}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 50. Let's start the Round 3, Master of Misery.
+## Story: A Creepy Stranger Watches You Workout
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: Given the nature of the story "A Creepy Stranger Watches You Workout," it likely involves a level of discomfort and emotional trauma due to the invasion of personal space and feelings of vulnerability. However, it may not involve significant physical pain or long-term psychological impact. 
+
+Considering these factors, I would estimate the misery rating to be in the lower to mid-range. 
+
+I will go with a rating of 55.
+
+Therefore, my final answer is {{{55}}}.
+
+Host: The rating for the story was 21. You were off by 34 points! Let's start the Bonus Round, Margin of Misery.
+## Story: You Get Bitten by a Snake While Sleeping
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Considering the story "You Get Bitten by a Snake While Sleeping," it involves significant physical pain and may lead to emotional trauma as well, depending on the circumstances. The rating could be quite serious due to the physical danger associated with a snake bite.
+
+Given that snake bites can range vastly depending on the species and severity, I would estimate a rating that is moderately high due to the immediate danger. I will place the interval at a higher range to encompass potential severe reactions.
+
+I will choose an interval of {{{50 - 80}}}.
+
+Host: You are CORRECT! The rating for the story was 70. Let's go to the next question.
+## Story: Your Car is Dragged for Miles
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Given the story "Your Car is Dragged for Miles," this likely involves a high level of physical pain and emotional distress due to the potential danger and life-threatening circumstances associated with such an event. The aftermath could involve both immediate trauma and long-term psychological impact.
+
+Considering these factors, I would estimate a relatively high rating for this story.
+
+I will choose an interval of {{{60 - 80}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 57. Let's go to the next question.
+## Story: You are a doctor who Sucks Out a Passenger's Urine for 37 Minutes Mid-Flight to save his life
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: For the story "You are a doctor who Sucks Out a Passenger's Urine for 37 Minutes Mid-Flight to save his life," this situation involves a high level of stress, emotional trauma, and physical consequences for both the doctor and the passenger. Being in such a life-and-death scenario can create significant emotional distress and could potentially have long-term psychological impacts as well.
+
+Given the extraordinary nature of the scenario and the significant emotional and physical stress it entails, I would estimate this story to have a high misery rating.
+
+I will choose an interval of {{{70 - 80}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 56. Thank you for playing!

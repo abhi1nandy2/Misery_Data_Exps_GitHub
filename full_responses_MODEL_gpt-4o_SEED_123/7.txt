@@ -1,0 +1,146 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: You Wake up Covered in Fire Ants. Misery Rating = 68
+## Hypothetical Situation 2: Your Partner Screams Their Ex's Name During Sex. Misery Rating = 37
+## Story: Your Mom Marries Your Son
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: The story "Your Mom Marries Your Son" seems like it could be more emotionally and psychologically impactful than waking up covered in fire ants and more intense than your partner mistakenly calling out an ex’s name. I would guess that this story falls above the two given situations. So, my answer is {{{above}}}.
+
+Host: You are CORRECT! The rating for the story was 76. Let's go to the next question. 
+## Story: You Are Impaled Ta-Dah!
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: To determine where the story "You Are Impaled Ta-Dah!" falls in terms of misery, let's analyze the scenarios:
+
+1. **Waking up Covered in Fire Ants** (Rating = 68): This scenario involves significant physical pain and considerable emotional distress.
+   
+2. **Partner Screams Ex's Name During Sex** (Rating = 37): This is primarily an emotional mishap, with potential for some longer-term issues, but not much physical pain.
+
+Being impaled suggests extreme physical pain and likely long-term trauma and psychological impact. The severity of being impaled generally suggests it would be rated significantly higher than both situations, especially the one rated 68. Therefore, I would guess the story falls above both situations. My final answer is {{{above}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 64. Let's start the Round 2, More or Less Miserable.
+## Story 1: Your Husband Fakes Death to Avoid Paying You. Misery Rating = 41
+## Story 2: Your Husband Wins lottery and Leaves You
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: In comparing the two stories:
+
+1. **Your Husband Fakes Death to Avoid Paying You** (Rating = 41): This scenario involves deceit and emotional betrayal, which could be quite distressing.
+
+2. **Your Husband Wins the Lottery and Leaves You**: This story involves not only the emotional betrayal of a relationship ending but also the added misery of seeing a partner gain wealth while abandoning you. This could intensify feelings of betrayal and loss.
+
+Given the additional layers of emotional trauma in Story 2, I would suspect it has a higher misery rating compared to Story 1. Therefore, my final answer is {{{higher}}}.
+
+Host: You are CORRECT! The rating for the story was 66. Let's go to the next question.
+## Story 1: Everyone Knows You Hate Babies. Misery Rating = 59
+## Story 2: Yes Even YOU as a Bill Mitchell Can Be Hacked
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: In evaluating the two stories:
+
+1. **Everyone Knows You Hate Babies** (Rating = 59): This scenario likely involves social ridicule and reputational harm, which can be very distressing emotionally and have a significant impact on someone's social interactions and self-perception.
+
+2. **Yes Even YOU as a Bill Mitchell Can Be Hacked**: Being hacked can lead to serious privacy concerns, identity theft, and a sense of personal violation, which might have a significant long-term psychological impact. Depending on the severity of the hack, the impact could be more distressing than social reputational harm.
+
+Considering the potential severity and far-reaching consequences of being hacked, Story 2 might have a higher misery rating compared to Story 1. Therefore, my final answer is {{{higher}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 35. Let's start the Round 3, Master of Misery.
+## Story: You Get a Public Prostate Exam
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: In considering the story "You Get a Public Prostate Exam," we can evaluate the potential misery involved:
+
+- **Physical Pain**: A prostate exam usually involves minimal physical discomfort. 
+- **Emotional Trauma**: The public aspect introduces significant embarrassment and humiliation, which can be quite distressing.
+- **Long-term Psychological Impact**: Depending on one's social fears or concerns, the public exposure might lead to anxiety or stress in future social interactions.
+
+While there is some physical discomfort, the major factors here are the emotional trauma and potential psychological impact. This situation seems more distressing than something like "Everyone Knows You Hate Babies" (Rating = 59) but likely less severe than something involving extreme physical or psychological trauma. 
+
+Therefore, I would guess that the misery rating for this story is somewhere in a moderately high range but not extremely high. My final answer is {{{65}}}.
+
+Host: The rating for the story was 47. You were off by 18 points! Let's start the Bonus Round, Margin of Misery.
+## Story: You Snort Grandpa's ashes
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: In the bonus round, we need to guess the rating for the story "You Snort Grandpa's ashes" within a 30-point margin. 
+
+To evaluate:
+
+- **Physical Pain**: There's likely none in this scenario.
+- **Emotional Trauma**: This could be quite high, considering the disrespect and shock involved in accidentally snorting a loved one's ashes.
+- **Long-term Psychological Impact**: This may lead to ongoing distress or anxiety about the situation and its social implications.
+
+Based on these factors, the scenario likely has a significant emotional and psychological impact but may not reach the intensity of severe physical pain scenarios. 
+
+Let's create a reasonable estimate for the interval. Given that emotional distress and personal violation scenarios have ratings such as 41 ("Your Husband Fakes Death to Avoid Paying You") and situations with higher emotional distress can be even higher, I would cautiously estimate:
+
+My final answer for the interval is {{{40 - 70}}}.
+
+Host: You are CORRECT! The rating for the story was 69. Let's go to the next question.
+## Story: Your Dog Loves Bones
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: When considering the story "Your Dog Loves Bones," we need to evaluate its potential misery factors:
+
+- **Physical Pain**: The story title doesn't imply any physical pain.
+- **Emotional Trauma**: If there’s an underlying issue, such as your dog choosing bones over your attention, it might lead to a sense of neglect or feeling unappreciated. However, this is not as intense as betrayal or serious social embarrassment.
+- **Long-term Psychological Impact**: It's unlikely that this scenario has a profound psychological impact compared to more severe stories.
+
+Given the relatively mild implications, it likely falls lower on the misery scale compared to other situations we've seen. It seems comparable or possibly less distressing than "Everyone Knows You Hate Babies" (Rating = 59) or "Yes Even YOU as a Bill Mitchell Can Be Hacked" (Rating = 35).
+
+Therefore, it would likely fall in a lower range, possibly below or around 40. Given we need a 20-point interval, let's cautiously estimate:
+
+My final answer for the interval is {{{20 - 40}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 91. Let's go to the next question.
+## Story: You Confuse a Stick of Dynamite for a Candle
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: In evaluating the story "You Confuse a Stick of Dynamite for a Candle," we should consider the following:
+
+- **Physical Pain**: The potential for physical pain is extremely high, considering the explosive nature of dynamite.
+- **Emotional Trauma**: The shock and fear associated with realizing the mistake are significant.
+- **Long-term Psychological Impact**: The event could lead to lasting trauma and fear of dealing with similar situations in the future.
+
+This story likely features severe physical pain and psychological trauma, placing it high on the misery scale. Based on the intensity of all three misery pillars, this scenario is likely among the most severe we have encountered.
+
+Given these factors, I would estimate a very high misery rating. To be safe within a 10-point margin, I would choose a range at the higher end of the scale:
+
+My final answer for the interval is {{{90 - 100}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 81. Thank you for playing!

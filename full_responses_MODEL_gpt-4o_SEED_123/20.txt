@@ -1,0 +1,166 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: Hairdresser Sneezes and Gives You Bangs. Misery Rating = 44
+## Hypothetical Situation 2: Your Child Joins an A Cappella Group. Misery Rating = 20
+## Story: A Woman Gives Birth In Your Cab
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Given the hypothetical situations:
+
+- Hairdresser Sneezes and Gives You Bangs, with a Misery Rating of 44
+- Your Child Joins an A Cappella Group, with a Misery Rating of 20
+
+Let's evaluate the given story: A Woman Gives Birth in Your Cab.
+
+This scenario likely has a higher level of emotional distress compared to someone sneezing and giving you bangs. It involves potential mess, stress, and possibly urgent health concerns, making it more than just an inconvenience. However, it is not likely to be a severe long-term psychological impact, possibly not as low as a child's involvement in an a cappella group.
+
+Considering this, it is reasonable to assume that the misery index for "A Woman Gives Birth In Your Cab" would fall between 20 and 44.
+
+Therefore, my final answer is: {{{between}}}
+
+Host: You are CORRECT! The rating for the story was 33. Let's go to the next question. 
+## Story: You Faint During Your Friend's Wedding
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: When considering the story "You Faint During Your Friend's Wedding," let's evaluate based on the two hypothetical situations:
+
+- Hairdresser Sneezes and Gives You Bangs, with a Misery Rating of 44
+- Your Child Joins an A Cappella Group, with a Misery Rating of 20
+
+Fainting during a friend's wedding might involve a mix of physical embarrassment and social stress, but it likely doesn't involve serious emotional trauma or long-term psychological effects. It's possible that the impact could be on par with or slightly less than an unexpected haircut, but it would likely be more distressing than a child's participation in an a cappella group.
+
+Based on these considerations, the misery index for "You Faint During Your Friend's Wedding" would likely fall between 20 and 44.
+
+Therefore, my final answer is: {{{between}}}
+
+Host: You are CORRECT! The rating for the story was 32. Let's start the Round 2, More or Less Miserable.
+## Story 1: Your Home is Trashed in a Drug-Fueled Orgy. Misery Rating = 73
+## Story 2: Your Anger Management Classmate Stabs You
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: When evaluating the two stories:
+
+- Story 1: Your Home is Trashed in a Drug-Fueled Orgy, with a Misery Rating of 73
+- Story 2: Your Anger Management Classmate Stabs You
+
+Story 2 involves a physical attack and potential serious injury, which likely contributes to significant physical pain and could lead to emotional trauma and long-term psychological impact. This scenario could reasonably be more traumatic than having your home trashed, as it involves personal harm.
+
+Given these factors, it is likely that Story 2 would have a higher misery rating due to the potential for severe physical and emotional distress.
+
+Therefore, my final answer is: {{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 78. Let's go to the next question.
+## Story 1: You are caught after Falling Asleep During Sex in Public in a university hallway. Misery Rating = 52
+## Story 2: Dad Steals Your Girl Scout Cookie Money for an Erotic Massage
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: When we consider the two stories:
+
+- **Story 1:** You are caught after falling asleep during sex in public in a university hallway, with a Misery Rating of 52.
+- **Story 2:** Dad steals your Girl Scout cookie money for an erotic massage.
+
+Story 1 involves significant public embarrassment and potential legal issues, which can have substantial emotional and social consequences. 
+
+Story 2, on the other hand, involves a betrayal of trust within the family and a misuse of funds, leading to emotional distress and disappointment. However, it might not involve the same level of immediate social embarrassment as Story 1.
+
+Given these considerations, it is likely that Story 2 would have a lower misery rating compared to the public nature and embarrassment of Story 1.
+
+Therefore, my final answer is: {{{lower}}}
+
+Host: You are CORRECT! The rating for the story was 50. Let's start the Round 3, Master of Misery.
+## Story: A Creepy Stranger Watches You Workout
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: To assess the misery rating for the story "A Creepy Stranger Watches You Workout," we should consider the potential impact based on the three pillars of misery: physical pain, emotional trauma, and long-term psychological impact.
+
+- **Physical Pain:** This scenario likely doesn't involve physical pain.
+- **Emotional Trauma:** There could be a significant level of emotional distress due to feeling uncomfortable, violated, or unsafe during a vulnerable activity like working out.
+- **Long-term Psychological Impact:** The situation might have some long-term impact, particularly if it leads to anxiety or a recurring fear of being watched.
+
+Overall, while the situation is certainly distressing, it probably doesn't rise to the same level as situations involving serious physical harm or significant long-term psychological effects, like being stabbed or major public embarrassment. Based on these factors, I would place the misery rating at a moderate level.
+
+Therefore, my final guess for the misery rating is: {{{46}}}
+
+Host: The rating for the story was 21. You were off by 25 points! Let's start the Bonus Round, Margin of Misery.
+## Story: You Get Bitten by a Snake While Sleeping
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To determine the appropriate interval for the misery rating of "You Get Bitten by a Snake While Sleeping," let's consider the potential impact based on the three pillars of misery:
+
+- **Physical Pain:** Being bitten by a snake can involve significant physical pain, depending on the snake type and whether it's venomous. The fear factor also contributes to the discomfort.
+- **Emotional Trauma:** Being bitten in your sleep adds an element of unexpectedness and loss of safety in a place that should be secure, leading to emotional trauma.
+- **Long-term Psychological Impact:** There can be lasting psychological effects due to fear of sleeping or anxiety about encountering snakes again.
+
+Considering these factors, this scenario could be rated relatively high on the misery scale due to a combination of physical and psychological impacts. However, it may not reach the highest levels associated with life-threatening or intensely traumatic events.
+
+A reasonable interval might start from a moderated high level considering the potential danger. Let's estimate an interval based around a moderate-high level of misery.
+
+Therefore, my final answer as an interval of ratings is: {{{55 - 85}}}
+
+Host: You are CORRECT! The rating for the story was 70. Let's go to the next question.
+## Story: Your Car is Dragged for Miles
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To determine the appropriate interval for the misery rating of the story "Your Car is Dragged for Miles," let's dissect the scenario using the Three Pillars of Misery:
+
+- **Physical Pain:** There might not be direct physical pain unless you are in the car during the incident, but this aspect is likely minimal compared to other scenarios.
+- **Emotional Trauma:** Significant distress could arise from the unexpected loss or destruction of a valuable possession and potential consequences, such as bills or legal implications.
+- **Long-term Psychological Impact:** The lasting impact would depend significantly on the personal value of the car and any consequent financial difficulties or transportation issues.
+
+Considering these factors, this scenario would likely sit in the moderate level of misery. It involves potential financial strain and stress, but it doesn't involve direct harm or intense emotional trauma like some more severe situations.
+
+Therefore, for an interval with a size of 20, the misery rating might fall in the middle range.
+
+My final answer as an interval of ratings is: {{{40 - 60}}}
+
+Host: You are CORRECT! The rating for the story was 57. Let's go to the next question.
+## Story: You are a doctor who Sucks Out a Passenger's Urine for 37 Minutes Mid-Flight to save his life
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To assess the appropriate interval for the misery rating of the story "You are a doctor who Sucks Out a Passenger's Urine for 37 Minutes Mid-Flight to save his life," let's analyze using the Three Pillars of Misery:
+
+- **Physical Pain:** There is likely no physical pain involved for the doctor performing this act.
+- **Emotional Trauma:** This scenario could involve significant emotional distress due to its unusual, potentially humiliating, and stressful nature. There might be pressure to succeed in a high-stakes, life-saving situation.
+- **Long-term Psychological Impact:** The impact could be substantial psychologically, mainly due to the stress of the emergency situation and the unusual nature of the task, but it might also carry a positive psychological effect of saving a life.
+
+Given these considerations, this story involves elements of stress and discomfort but also the rewarding aspect of helping someone in a major crisis. Therefore, while uncomfortable, the level of misery might be moderate due to the balance of stress and the satisfaction of a successful intervention.
+
+For an interval with a size of 10, the rating might fall in a range that accounts for significant stress without severe trauma. 
+
+Therefore, my final answer as an interval of ratings is: {{{60 - 70}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 56. Thank you for playing!

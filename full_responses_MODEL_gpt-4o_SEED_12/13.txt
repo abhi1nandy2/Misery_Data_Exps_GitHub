@@ -1,0 +1,189 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: Ruptured Your Bladder Jumping a Fence. Misery Rating = 80
+## Hypothetical Situation 2: See Your Dad in a Vintage Porno. Misery Rating = 55
+## Story: You Get Run Over by a Boat
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: To make an informed decision, let's analyze the given story and the hypothetical situations:
+
+1. **Ruptured Your Bladder Jumping a Fence** (Misery Rating = 80): This scenario involves significant physical pain and potential long-term psychological impact related to the injury and trauma of the incident.
+
+2. **See Your Dad in a Vintage Porno** (Misery Rating = 55): This scenario is mainly about emotional trauma and potential long-term psychological impact without physical pain involved.
+
+3. **You Get Run Over by a Boat**: This situation could involve both significant physical pain and potential emotional and psychological trauma, possibly making it more miserable than seeing your dad in a vintage porno. However, whether it is more miserable than rupturing your bladder is subjective but conceivable due to the severity of injuries typically associated with getting run over by a boat.
+
+Considering these factors, it seems likely that getting run over by a boat would be evaluated as having a higher misery impact than seeing your dad in a vintage porno but could fall below or very close to rupturing your bladder. We will assume it falls between the two ratings.
+
+The final answer is {{{between}}}.
+
+Host: You are CORRECT! The rating for the story was 69. Let's go to the next question. 
+## Story: You Flash Everyone at Your Wedding
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: To determine the correct answer, let's assess the story in relation to the hypothetical situations:
+
+1. **Ruptured Your Bladder Jumping a Fence** (Misery Rating = 80): This scenario involves intense physical pain and potentially long-term psychological impact due to the nature of the injury.
+
+2. **See Your Dad in a Vintage Porno** (Misery Rating = 55): This involves emotional trauma and potential long-term psychological impact, without physical pain.
+
+3. **You Flash Everyone at Your Wedding**: This situation likely involves significant emotional trauma and embarrassment, possibly resulting in some long-term psychological impact. However, it lacks physical pain.
+
+Based on the factors of physical pain, emotional trauma, and long-term impact:
+
+- Flashing everyone at your wedding is likely less traumatic than both the physical pain and the potential long-term psychological impact of rupturing your bladder.
+- However, it could be considered more emotionally traumatic than seeing your dad in a vintage porno due to the public and personal nature of the embarrassment, especially at a significant event like a wedding.
+
+Given these considerations, it's likely that flashing everyone at your wedding falls between the two hypothetical situations. 
+
+The final answer is {{{between}}}.
+
+Host: You are CORRECT! The rating for the story was 59. Let's start the Round 2, More or Less Miserable.
+## Story 1: A Potato Is Growing in Your Vagina. Misery Rating = 60
+## Story 2: A Python Bites Your Penis while you are sitting on a toilet
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To evaluate which story is more miserable, let's analyze each one based on the "Three Pillars of Misery":
+
+1. **A Potato Is Growing in Your Vagina** (Misery Rating = 60): This scenario likely involves a combination of physical pain and emotional trauma, along with potential long-term psychological impact, particularly due to the unusual nature of the incident and potential health concerns.
+
+2. **A Python Bites Your Penis while you are sitting on a toilet**: This scenario likely involves significant physical pain, immediate emotional trauma, and potentially serious long-term psychological impact due to the unexpected and frightening nature of the event.
+
+Considering these factors:
+
+- The physical pain from a python bite would likely be acute and severe, and the emotional trauma from such an unexpected and terrifying experience could be considerable.
+- The psychological impact of having a potato growing in your body is likely more related to shame and medical concern but may not match the immediate and intense fear and pain of a snake bite.
+
+Given that the snake bite is likely to cause more immediate physical pain and intense emotional trauma, it seems reasonable to conclude that Story 2 has a higher misery rating than Story 1.
+
+The final answer is {{{higher}}}.
+
+Host: You are CORRECT! The rating for the story was 83. Let's go to the next question.
+## Story 1: Your Car is Kangarooed. Misery Rating = 38
+## Story 2: A Cow Kicks Your Ass
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To determine which story has a higher misery rating, let's evaluate each one:
+
+1. **Your Car is Kangarooed** (Misery Rating = 38): This situation might involve financial stress and some emotional frustration due to damage to your property, but it likely lacks significant physical pain or long-term psychological impact.
+
+2. **A Cow Kicks Your Ass**: This scenario may involve more immediate physical pain and some emotional embarrassment, as well as potential short-term psychological impact depending on the severity of the kick and any resulting injuries.
+
+Considering these factors:
+
+- A physical attack from a cow, although not particularly severe in the grand scheme of possible injuries, involves more direct physical pain than having your car damaged, which primarily affects you financially and emotionally.
+- The immediacy and potential embarrassment of a cow kicking you might also contribute to a higher misery rating compared to the hassle of dealing with car damage.
+
+Given that a direct physical injury is generally considered more immediately impactful than property damage, it's reasonable to conclude that Story 2 has a higher misery rating than Story 1.
+
+The final answer is {{{higher}}}.
+
+Host: You are CORRECT! The rating for the story was 56. Let's start the Round 3, Master of Misery.
+## Story: You Lose Your Eyebrows
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: To estimate the misery rating for the story "You Lose Your Eyebrows," let's consider the potential impacts based on the "Three Pillars of Misery":
+
+1. **Physical Pain**: Losing your eyebrows is unlikely to involve significant physical pain unless it results from an injury or medical condition.
+
+2. **Emotional Trauma**: Eyebrows play a role in facial expression and social interactions. Losing them might cause emotional distress or embarrassment, but the severity may depend on personal and cultural contexts.
+
+3. **Long-Term Psychological Impact**: Long-term psychological effects could arise if losing eyebrows significantly affects self-image or social confidence. However, some people might view it as a temporary inconvenience.
+
+Given that this situation seems to lack significant physical pain and has moderate emotional trauma, it might fall lower on the misery scale compared to more physically painful or socially distressing events. It is likely less miserable than situations involving severe injury or public humiliation but more than minor inconveniences.
+
+A reasonable estimate for the misery rating of losing your eyebrows may be in the lower-to-mid range.
+
+The final answer is {{{35}}}.
+
+Host: The rating for the story was 36. You were off by 1 points! Let's start the Bonus Round, Margin of Misery.
+## Story: You Poop so Hard You Forget a Decade
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To estimate the misery rating for the story "You Poop so Hard You Forget a Decade," let's consider the situation:
+
+1. **Physical Pain**: This scenario likely involves significant physical discomfort or pain due to the act of pooping extremely hard.
+  
+2. **Emotional Trauma**: The event could cause confusion or distress as a result of memory loss, especially if a decade's worth of memories are abruptly forgotten.
+  
+3. **Long-Term Psychological Impact**: Losing memories from a decade could have severe long-term psychological impacts, affecting one's sense of identity and personal history.
+
+Given these factors, the situation could be rated quite high due to the combination of immediate physical pain and potentially severe long-term psychological impact from memory loss.
+
+A reasonable interval considering the potential severity would be toward the higher end of the scale. Assuming 100 is the highest possible misery rating, the rating interval could be assumed to be in the higher range.
+
+The final answer is {{{70 - 100}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 63. Let's go to the next question.
+## Story: A Cliff Falls on You
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To estimate the misery rating for the story "A Cliff Falls on You," let's evaluate the situation based on the "Three Pillars of Misery":
+
+1. **Physical Pain**: Being under a falling cliff involves substantial physical hazard, likely resulting in serious injury or even life-threatening situations. This should contribute greatly to the misery rating.
+
+2. **Emotional Trauma**: The event itself would have a high level of immediate emotional trauma, mainly from the fear and shock of the situation.
+
+3. **Long-Term Psychological Impact**: Assuming survival, the long-term psychological impact could include PTSD or anxiety related to similar environments or situations.
+
+Taking into account the potential for severe injury and both immediate and long-term trauma, this situation would likely be rated quite high on the misery scale.
+
+Given the need to choose a 20-point interval and considering the severity of the event, the rating could reasonably be placed toward the higher end but perhaps not at the extreme top, reserved for the most catastrophic scenarios.
+
+The final answer could be in the higher range, but still considering 70 might have been underestimated for the previous question, we can choose: 
+
+The final answer is {{{75 - 95}}}.
+
+Host: You are CORRECT! The rating for the story was 81. Let's go to the next question.
+## Story: Dentures are Lodged In Your Throat eight days after surgery
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To estimate the misery rating for the story "Dentures are Lodged In Your Throat eight days after surgery," let's analyze the components:
+
+1. **Physical Pain**: Having dentures lodged in your throat is likely to cause significant physical discomfort and potentially severe pain, as well as the risk for choking or other complications.
+
+2. **Emotional Trauma**: The immediate fear and distress from having an obstructed airway would be substantial. The situation is both frightening and urgent due to its potentially life-threatening nature.
+
+3. **Long-Term Psychological Impact**: Surviving such an incident might lead to anxiety related to swallowing or dental care, but the primary focus is on the immediate physical and emotional distress.
+
+Given that the situation is highly alarming, potentially life-threatening, and involves significant physical and emotional trauma, it would likely be rated quite high on the misery scale. However, it might not reach the absolute highest scores unless there were long-term, life-altering consequences.
+
+Considering the severity and the need for a narrow 10-point interval, it's reasonable to aim toward the higher end of the scale while considering previous answers:
+
+The final answer is {{{85 - 95}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 61. Thank you for playing!

@@ -1,0 +1,155 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: You bite Your Tongue Off. Misery Rating = 73
+## Hypothetical Situation 2: You are attacked by a Swarm of Bees. Misery Rating = 44
+## Story: Your Toes Replace Your Fingers
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Let's analyze the two hypothetical situations:
+
+- Biting your tongue off (Misery Rating = 73): This is a very painful experience, likely involving significant physical pain and potential long-term effects.
+- Being attacked by a swarm of bees (Misery Rating = 44): While this can be very painful and traumatic, it may not have the same level of long-term psychological impact as biting your tongue off.
+
+Now, let's consider the story: "Your Toes Replace Your Fingers." This story sounds quite bizarre and would likely involve some significant emotional and psychological implications, possibly leading to distress regarding body image and functionality. However, the physical pain may vary depending on how this transformation is framed or experienced.
+
+Given that biting your tongue off (73) is a very high level of pain and trauma, and being attacked by bees (44) is lower, I would estimate that the story about toes replacing fingers would likely fall below the level of biting your tongue off but above the bee attack due to its unique psychological impact.
+
+Therefore, my final answer is {{{between}}}.
+
+Host: You are CORRECT! The rating for the story was 68. Let's go to the next question. 
+## Story: You Plummet 30 Stories (you survived it!)
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Let's analyze the two hypothetical situations again:
+
+- Biting your tongue off (Misery Rating = 73): This involves extreme physical pain and could have significant long-term effects.
+- Being attacked by a swarm of bees (Misery Rating = 44): This involves pain and potential trauma, but is generally less severe than biting your tongue off.
+
+Now, let’s consider the new story: "You Plummet 30 Stories (you survived it!)". Surviving a fall from such a height would likely come with severe physical injuries, intense pain, and significant emotional trauma from the experience. The fact that the person survived might lessen the long-term psychological effect slightly compared to a fatal fall, but such a traumatic incident would still likely have a very high misery rating.
+
+Considering the severity of the fall, I believe this story would rate above both the biting tongue off scenario (73) due to the extreme physical pain and psychological trauma involved. 
+
+Therefore, my final answer is {{{above}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 67. Let's start the Round 2, More or Less Miserable.
+## Story 1: Your Parents Leave You in a Corn Maze. Misery Rating = 75
+## Story 2: You Burn Your Penis Trying to Whiten It
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Let's analyze the two stories:
+
+- **Story 1: Your Parents Leave You in a Corn Maze (Misery Rating = 75)**: This story involves emotional trauma, particularly feelings of abandonment and fear when left alone in an unfamiliar place. Depending on the child's age and personality, this could have significant psychological effects.
+
+- **Story 2: You Burn Your Penis Trying to Whiten It**: This story likely involves a high level of physical pain and discomfort, as well as potential long-term psychological effects due to the embarrassment and shame associated with such an incident. The injury could also lead to serious physical repercussions.
+
+Given the ratings provided, a rating of 75 for the corn maze incident signifies a severe level of emotional trauma. However, burning a sensitive area like the penis often leads to excruciating physical pain, which can overshadow emotional effects and lead to a higher rating.
+
+Considering these factors, my guess would be that Story 2 has a higher misery rating because of the intense physical suffering involved.
+
+Therefore, my final answer is {{{higher}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 69. Let's go to the next question.
+## Story 1: Wife Buys Newspaper Ad About You and Baby Mama. Misery Rating = 62
+## Story 2: Your Wife Calls out Your Cheating on Billboard
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Let's analyze the two stories again:
+
+- **Story 1: Wife Buys Newspaper Ad About You and Baby Mama (Misery Rating = 62)**: This scenario likely involves significant public embarrassment, emotional trauma, and possibly long-term psychological impact due to the public nature of the advertisement and the feelings regarding the relationship.
+
+- **Story 2: Your Wife Calls out Your Cheating on Billboard**: This scenario also involves extreme public embarrassment, but the impact might be more severe due to the nature of a billboard, which is highly visible and permanent compared to a newspaper ad. The humiliation and damage to reputation could be more intense, leading to greater emotional distress.
+
+Given these factors, I believe that Story 2, which involves calling out the cheating on a billboard, would likely have a higher misery rating compared to Story 1 due to the heightened level of public exposure and the potential for greater emotional fallout.
+
+Therefore, my final answer is {{{higher}}}.
+
+Host: You are CORRECT! The rating for the story was 71. Let's start the Round 3, Master of Misery.
+## Story: You Publicly Ask for Toilet Paper while you are pooping in the toilet
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: To evaluate the story "You Publicly Ask for Toilet Paper while you are pooping in the toilet," we should consider the elements of humiliation, embarrassment, and the potential for emotional trauma. Being in such a vulnerable and awkward situation, especially in a public restroom, could lead to significant feelings of shame and distress.
+
+The level of emotional trauma and embarrassment it could cause suggests a high misery rating, likely in the mid-range compared to the other scenarios we've considered. I would estimate the misery rating to likely be around 60, considering the public nature of the incident and the resulting emotional impact.
+
+Therefore, my final answer is {{{60}}}.
+
+Host: The rating for the story was 38. You were off by 22 points! Let's start the Bonus Round, Margin of Misery.
+## Story: You Have a Giant Black Pimple
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To estimate the rating for the story "You Have a Giant Black Pimple," we should consider the psychological and emotional impact of having a noticeable skin issue, which can affect self-esteem and mental health. However, a giant black pimple, while certainly distressing and potentially embarrassing, may not carry as heavy of a burden as many more severe stories we've analyzed.
+
+Given that it likely falls within a lower range of misery ratings due to the physical presentation without significant long-term effects, I would estimate it might be around a rating of 40.
+
+Thus, the interval size of 30 points would suggest the following:
+
+- **LOWER LEVEL**: 25 (i.e., 40 - 15)
+- **HIGHER LEVEL**: 55 (i.e., 40 + 15)
+
+Therefore, my final answer is {{{25 - 55}}}.
+
+Host: You are CORRECT! The rating for the story was 37. Let's go to the next question.
+## Story: You Think You Won a Prize; Actually Getting Arrested
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To evaluate the story "You Think You Won a Prize; Actually Getting Arrested," we need to consider both the emotional and psychological consequences of this situation. Initially thinking you have won a prize brings a moment of joy, but being arrested immediately following that could lead to intense feelings of betrayal, humiliation, and fear. The sudden shift from happiness to distress in a public context can have significant emotional impact.
+
+Given the potential for considerable shame, anxiety, and long-term psychological effects stemming from an arrest—especially following a false sense of winning—I would estimate this story might have a misery rating in the range of 60.
+
+With the interval size of 20 points, the calculation would be as follows:
+
+- **LOWER LEVEL**: 50 (i.e., 60 - 10)
+- **HIGHER LEVEL**: 70 (i.e., 60 + 10)
+
+Therefore, my final answer is {{{50 - 70}}}.
+
+Host: You are CORRECT! The rating for the story was 62. Let's go to the next question.
+## Story: Your Daughter Marries a Roller Coaster
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To evaluate the story "Your Daughter Marries a Roller Coaster," we need to consider the absurdity and potential emotional impact of such a scenario. While it may sound humorous or bizarre, it could still have significant psychological implications for both the daughter and the family, including feelings of embarrassment, confusion, or concern about her mental state.
+
+However, due to the whimsical nature of the story, it might not carry a heavy emotional burden compared to more severe real-life scenarios. I would estimate the misery rating to likely be around 35. 
+
+With the interval size of 10 points, the calculation would be as follows:
+
+- **LOWER LEVEL**: 30 (i.e., 35 - 5)
+- **HIGHER LEVEL**: 40 (i.e., 35 + 5)
+
+Therefore, my final answer is {{{30 - 40}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 60. Thank you for playing!

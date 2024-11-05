@@ -1,0 +1,112 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: You Send a Nude Selfie to HR by mistake. Misery Rating = 70
+## Hypothetical Situation 2: You find Maggots in your Fried Rice. Misery Rating = 45
+## Story: You are Attacked by a bear after Reasoning with the bear
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: The story of being attacked by a bear after reasoning with it likely involves significant physical pain and emotional trauma, potentially leading to a high long-term psychological impact. Given that the Situations have ratings of 70 and 45, I would expect this bear attack story to have a higher misery rating than both. 
+
+My final answer is: {{{above}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 52. Let's go to the next question. 
+## Story: You Left your Mic On and Went Toilet
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Leaving your mic on while going to the toilet could be quite embarrassing and involves emotional trauma, but it doesn't involve physical pain or a severe long-term psychological impact. In comparison with the hypothetical situations provided — sending a nude selfie to HR (rating 70) and finding maggots in your fried rice (rating 45) — this situation might be considered less miserable than sending a nude selfie to HR but more miserable than finding maggots in your fried rice. 
+
+Therefore, I would place this story between the two situations.
+
+My final answer is: {{{between}}}.
+
+Host: You are CORRECT! The rating for the story was 49. Let's start the Round 2, More or Less Miserable.
+## Story 1: You go to a doctor. Doctor Borrows $300k from you and  then diagnoses you with Dementia. Misery Rating = 76
+## Story 2: You are Fired After Donating Kidney to help your Boss
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Being fired after donating a kidney to help your boss is an extremely distressing situation. It involves betrayal, significant emotional trauma, and could have a profound long-term psychological impact. While the first story of a doctor borrowing a significant amount of money and then diagnosing you with dementia is also incredibly distressing, the betrayal experienced in Story 2 seems even more severe. Therefore, Story 2 could potentially have a higher misery rating.
+
+My final answer is: {{{higher}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 69. Let's go to the next question.
+## Story 1: You are breastfed until you are 9. Misery Rating = 63
+## Story 2: You as a Teen are forced by your parents to Live in Woods for eating a pop-tart
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Experiencing forced exile into the woods as a teenager due to a seemingly minor infraction like eating a pop-tart would likely involve significant emotional trauma and potential long-term psychological impact. Being breastfed until age 9 might be socially awkward and potentially embarrassing, but it might not carry the same level of immediate distress or emotional intensity. Given these considerations, I would expect Story 2 to have a higher misery rating than Story 1.
+
+My final answer is: {{{higher}}}.
+
+Host: You are CORRECT! The rating for the story was 69. Let's start the Round 3, Master of Misery.
+## Story: You offend a room of feminist panelists
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: Offending a room of feminist panelists can result in significant social embarrassment and potential emotional trauma. However, it may not involve physical pain or severe long-term psychological impact. Given the various levels of misery we've seen so far, I would estimate this situation to have a moderate misery rating.
+
+My final guess for the rating of this story is: {{{55}}}.
+
+Host: The rating for the story was 47. You were off by 8 points! Let's start the Bonus Round, Margin of Misery.
+## Story: You discover your wife cheating in your Uber
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Discovering your wife cheating while in an Uber could involve significant emotional trauma and have a considerable long-term psychological impact. Given these factors and keeping in mind the rating scale, I would expect the misery rating to be relatively high.
+
+I will choose a range that reflects these considerations. Considering our previous ratings:
+
+My final answer is: {{{60 - 90}}}.
+
+Host: You are CORRECT! The rating for the story was 76. Let's go to the next question.
+## Story: You are in an Escalator which Speeds Up
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Being on an escalator that suddenly speeds up can be startling and potentially dangerous, but it might not result in severe physical injury or long-lasting emotional trauma. Based on this assessment and previous story ratings, this situation seems less severe.
+
+I would estimate the misery rating to fall on the lower end of the scale.
+
+My final answer is: {{{30 - 50}}}.
+
+Host: You are CORRECT! The rating for the story was 32. Let's go to the next question.
+## Story: Your testicles get stuck in the shower stool
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Getting your testicles stuck in a shower stool could be extremely painful and distressing, impacting both physical pain and emotional trauma aspects of the misery rating. It might not have a significant long-term psychological impact but is likely higher on the scale due to the immediate physical and emotional distress.
+
+Given that we are looking at a smaller interval, I will choose a range reflecting a higher level of immediate misery:
+
+My final answer is: {{{70 - 80}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 49. Thank you for playing!

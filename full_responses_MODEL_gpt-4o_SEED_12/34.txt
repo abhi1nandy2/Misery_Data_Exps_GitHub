@@ -1,0 +1,132 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: You're Stuck Behind a Garbage Truck for 15 Miles. Misery Rating = 32
+## Hypothetical Situation 2: You Call Your Boss Mommy During All-Staff Meeting. Misery Rating = 50
+## Story: You jumped onto a trampoline and then crashed into the Side of a Pool missing the water
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: The story involves physical pain and potentially some emotional trauma, but jumping onto a trampoline and crashing into the side of a pool seems more severe than being stuck behind a garbage truck for 15 miles. However, it likely wouldn't be as emotionally distressing or embarrassing as calling your boss "Mommy" during an all-staff meeting, which is quite specific in its social embarrassment and potential long-term consequences in work dynamics.
+
+Considering both the physical pain and potential embarrassment, I would estimate that the misery index could be somewhat in between these two situations. Therefore, my final answer is:
+
+{{{between}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 67. Let's go to the next question. 
+## Story: Kid Crawls into Your Bathroom Stall
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Having a kid crawl into your bathroom stall is certainly an embarrassing and uncomfortable situation, and it likely ranks higher in terms of emotional distress compared to being stuck behind a garbage truck. However, it probably isn't as prolonged or impactful in a professional sense as calling your boss "Mommy" during a meeting. The embarrassment might be acute but not as lasting. 
+
+Therefore, I would estimate the misery index for this situation to be between being stuck behind a garbage truck and calling your boss "Mommy."
+
+My final answer is:
+
+{{{between}}}
+
+Host: You are CORRECT! The rating for the story was 38. Let's start the Round 2, More or Less Miserable.
+## Story 1: Your Knee Is Crushed by the Knee Splitter. Misery Rating = 91
+## Story 2: Your Groin is Split by the Wooden Horse
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Both situations involve extreme physical pain, but having your groin split by the wooden horse could entail even more severe physical agony due to the sensitive area involved, along with potentially intense emotional trauma and long-term psychological impact. 
+
+Given this consideration, I would estimate that Story 2 might have a higher misery index rating than Story 1.
+
+My final answer is:
+
+{{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 95. Let's go to the next question.
+## Story 1: You Spend a Day Wearing the Shame Flute. Misery Rating = 62
+## Story 2: You Spend a Day in the Scold's Bridle that includes an iron mask with a metal tongue depressor
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Wearing the Shame Flute is a humiliating and uncomfortable experience, but spending a day in the Scold's Bridle, which includes an iron mask with a metal tongue depressor, seems considerably more intense. The Scold's Bridle would not only induce physical discomfort but also significant emotional distress due to the restrictive nature and potential for public humiliation.
+
+Given the potential for greater physical and emotional misery, I would estimate that Story 2 has a higher misery index rating than Story 1.
+
+My final answer is:
+
+{{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 77. Let's start the Round 3, Master of Misery.
+## Story: You Get Dragged by a Horse
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: Being dragged by a horse is likely to be a horrifying experience that involves intense physical pain, significant emotional trauma, and potentially long-term psychological impact due to the danger and helplessness involved. Given the severity of such an event, this could be rated quite high on the misery scale.
+
+Taking into consideration comparisons with previous ratings, like having a knee crushed (91) and having the groin split (95), the dragging scenario seems extremely severe but perhaps slightly less than the most extreme cases.
+
+Considering all this, I would estimate the misery rating for being dragged by a horse to be:
+
+{{{85}}}
+
+Host: The rating for the story was 47. You were off by 38 points! Let's start the Bonus Round, Margin of Misery.
+## Story: Your Stretcher Tips Over
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Being tipped over on a stretcher can cause physical discomfort and potential minor injuries, along with a feeling of vulnerability and embarrassment. However, it is unlikely to rank extremely high on the misery scale compared to other more severe stories, such as being dragged by a horse or extreme physical punishments. 
+
+For the bonus round, we need to pick a 30-point interval which we think covers the likely rating. Considering the level of embarrassment and mild physical harm involved, I estimate it to be on the lower end of the misery scale. Therefore, a reasonable starting point could be around 30, considering previous ratings where social embarrassment was involved.
+
+My final answer is:
+
+{{{30-60}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 61. Let's go to the next question.
+## Story: No One Comes to Your Loneliness Seminar
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Experiencing no one showing up to your loneliness seminar is a deeply emotionally distressing event. It involves not only the embarrassment of an empty room but also the painful irony of being lonely in a context meant to address loneliness, which can be quite humiliating and disappointing. The psychological impact and emotional trauma could be significant, making this situation more severe than minor physical discomforts yet less severe than extreme physical pain or public humiliation devices.
+
+Given that the margin now is 20 points, I would position it somewhat higher than typical social embarrassment situations (where the rating was around 50 for calling the boss "Mommy") but not as severe as physical events that involve organs (like the groin case being in the 90s). A reasonable interval for such an experience would be:
+
+{{{55-75}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 41. Let's go to the next question.
+## Story: A Toaster Toasts You
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Getting "toasted" by a toaster implies a potentially painful and startling incident, but it's unlikely to involve immense physical or emotional turmoil on the scale of more severe stories. It suggests a relatively minor injury or shock rather than an event with prolonged psychological impact. 
+
+Considering other similar stories and their ratings, it's likely to fall on the lower to mid-range of the misery scale. The margin of 10 points suggests selecting a narrow band where minor physical pain and surprise might rank.
+
+Taking these factors into account, a reasonable interval for this scenario could be:
+
+{{{35-45}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 62. Thank you for playing!

@@ -1,0 +1,170 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: Hairdresser Sneezes and Gives You Bangs. Misery Rating = 44
+## Hypothetical Situation 2: Your Child Joins an A Cappella Group. Misery Rating = 20
+## Story: A Woman Gives Birth In Your Cab
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Based on the given situations, the first hypothetical situation is a hairdresser sneezing and giving you bangs with a misery rating of 44, which seems mildly inconvenient. The second situation is your child joining an A Cappella group with a rating of 20, which seems to have a low level of misery.
+
+The story presented involves a woman giving birth in your cab. This scenario likely involves a greater level of stress, potential trauma, and long-term psychological impact than the other two situations, especially due to potential physical mess and liability concerns, so it seems more severe than both provided situations.
+
+Therefore, the story "A Woman Gives Birth in Your Cab" would likely fall above both situations in terms of misery.
+
+My final answer is: {{{above}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 33. Let's go to the next question. 
+## Story: You Faint During Your Friend's Wedding
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Given the two hypothetical situations again, we have:
+
+1. Hairdresser Sneezes and Gives You Bangs with a Misery Rating of 44.
+2. Your Child Joins an A Cappella Group with a Misery Rating of 20.
+
+The new story involves fainting during your friend's wedding. 
+
+Fainting at a wedding can be embarrassing and may cause some temporary distress, but it typically doesn't have long-term psychological effects or severe emotional trauma, unless there are underlying health concerns. Compared to receiving accidental bangs, which might have longer lasting visible consequences, fainting might be more or less significant but probably not as disturbing as the accidental haircut. 
+
+Considering the context, fainting sounds unlikely to be more miserable than receiving unwanted bangs but could be more significant than a child joining an a cappella group. Therefore, it seems most plausible that it would fall between the two given misery ratings.
+
+My final answer is: {{{between}}}
+
+Host: You are CORRECT! The rating for the story was 32. Let's start the Round 2, More or Less Miserable.
+## Story 1: Your Home is Trashed in a Drug-Fueled Orgy. Misery Rating = 73
+## Story 2: Your Anger Management Classmate Stabs You
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: When comparing these two situations, we have:
+
+1. Your Home is Trashed in a Drug-Fueled Orgy with a Misery Rating of 73.
+2. Your Anger Management Classmate Stabs You.
+
+Being physically stabbed is a severe and traumatic experience that involves significant physical pain, emotional trauma, and likely long-term psychological impact, likely surpassing that of a home being trashed, even in the chaotic context of a drug-fueled orgy. Physical assault typically rates very high in terms of misery due to the direct harm and the potential for life-threatening consequences.
+
+Therefore, it is reasonable to assume that the misery rating for being stabbed is higher than that of the home being trashed.
+
+My final answer is: {{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 78. Let's go to the next question.
+## Story 1: You are caught after Falling Asleep During Sex in Public in a university hallway. Misery Rating = 52
+## Story 2: Dad Steals Your Girl Scout Cookie Money for an Erotic Massage
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: When comparing these two situations, we have:
+
+1. Falling asleep during sex in public in a university hallway, with a misery rating of 52. This situation is highly embarrassing and can have emotional and reputational consequences, especially in a public and academic setting.
+
+2. Dad stealing your Girl Scout cookie money for an erotic massage. This involves betrayal and loss of trust from a parent, which can be emotionally distressing and damaging to your relationship with them. The impact of feeling betrayed by a parent is likely to involve significant emotional trauma and long-term psychological effects.
+
+Considering the depth of emotional impact and potential long-term psychological effects, the theft and betrayal from a trusted parent is likely to be perceived as more miserable than the embarrassment of the public incident.
+
+My final answer is: {{{higher}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 50. Let's start the Round 3, Master of Misery.
+## Story: A Creepy Stranger Watches You Workout
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: Given the story "A Creepy Stranger Watches You Workout," we should consider the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact:
+
+1. **Physical Pain**: There is no direct physical pain associated with this situation.
+
+2. **Emotional Trauma**: There is certainly some emotional distress involved. Feeling watched and objectified can lead to discomfort, anxiety, and a sense of violation, especially in a setting where one should feel safe.
+
+3. **Long-term Psychological Impact**: Depending on individual sensitivity and past experiences, this could lead to heightened anxiety or reluctance to visit the gym or work out in public spaces, but the impact might not be as enduring or severe as more direct or violent acts of harassment.
+
+Comparing to previous stories like fainting at a wedding (rating of 32) or being stabbed (rating of 78), I would place this situation as less severe than overt violence but more concerning than minor public embarrassment. It could be close to or slightly above the 44 rating of receiving unwanted bangs due to its potentially lasting emotional effects.
+
+Therefore, I would estimate the misery rating for this story to be around the low to mid-50s.
+
+My final answer is: {{{54}}}
+
+Host: The rating for the story was 21. You were off by 33 points! Let's start the Bonus Round, Margin of Misery.
+## Story: You Get Bitten by a Snake While Sleeping
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: For the story "You Get Bitten by a Snake While Sleeping," we should consider the potential physical pain, emotional trauma, and long-term psychological impact:
+
+1. **Physical Pain**: Getting bitten by a snake can be very painful, and depending on the snake, there could be serious health risks involved, such as venom or infection.
+
+2. **Emotional Trauma**: This experience can be terrifying and might cause significant anxiety and fear, especially concerning sleeping or encountering snakes again.
+
+3. **Long-term Psychological Impact**: The psychological effects could be considerable if the snake bite leads to complications or an ongoing fear of something that should be a safe environment (like your bed).
+
+Given the significant physical and emotional impact, one could expect a high misery rating. Earlier, stabbing was rated at 78, reflecting severe physical pain and trauma. Although this is not necessarily as high, it is likely to be substantial, perhaps in the range where severe but non-life-threatening incidents are rated.
+
+Therefore, choosing a range that covers potential ratings in the high-mid to high range, say from the mid-60s to mid-90s, should capture the essence of this situation's severity.
+
+My final answer is: {{{65 - 95}}}
+
+Host: You are CORRECT! The rating for the story was 70. Let's go to the next question.
+## Story: Your Car is Dragged for Miles
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: For the story "Your Car is Dragged for Miles," let's analyze it according to the "Three Pillars of Misery":
+
+1. **Physical Pain**: There is no direct physical pain associated with this scenario for the car owner, assuming they are unharmed. 
+
+2. **Emotional Trauma**: This situation is likely to cause significant stress, anxiety, and anger as a person might feel helpless while watching their car — a valuable personal asset — being damaged.
+
+3. **Long-term Psychological Impact**: Depending on the extent of the damage and potential financial burden, there can be ongoing stress and inconvenience related to transportation, repairs, or replacing the car.
+
+Comparing this to other stories, such as having one's home trashed with a misery rating of 73, this could be somewhat less severe due to the lower personal violation aspect but significant due to financial strain and distress. It might not reach the levels of personal trauma as stories about physical harm or breach of trust but is otherwise impactful.
+
+Therefore, I would estimate a moderately high rating, likely between the mid-40s to mid-60s, where incidents related to property damage or financial loss are usually placed.
+
+My final answer is: {{{45 - 65}}}
+
+Host: You are CORRECT! The rating for the story was 57. Let's go to the next question.
+## Story: You are a doctor who Sucks Out a Passenger's Urine for 37 Minutes Mid-Flight to save his life
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: For the final story, "You are a doctor who Sucks Out a Passenger's Urine for 37 Minutes Mid-Flight to save his life," let's consider the "Three Pillars of Misery":
+
+1. **Physical Pain**: This story involves the doctor rather than the passenger, so physical pain is not relevant here.
+
+2. **Emotional Trauma**: The emotional discomfort for the doctor could be significant due to the pressure of the situation, the unconventional and unpleasant nature of the task, and the necessity to maintain composure while performing a life-saving procedure under difficult conditions.
+
+3. **Long-term Psychological Impact**: The psychological impact might revolve around the stress involved in emergency situations, though, as a doctor, stressful and unusual scenarios might be part of the occupational expectation. The incident is certainly memorable and potentially challenging but also tied to a positive outcome (saving a life).
+
+Given these factors, this story presents a unique situation that combines stress and discomfort but isn’t imbued with sinister or long-lasting trauma. It should rate highly due to the intensity and public nature of the event yet lower than stories involving direct personal danger or violence.
+
+Considering previous misery ratings, I would estimate this story's misery rating to rest in the higher mid-range, touching stories like having one's house trashed (73) but below extreme personal violation scenarios.
+
+My final answer is: {{{60 - 70}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 56. Thank you for playing!

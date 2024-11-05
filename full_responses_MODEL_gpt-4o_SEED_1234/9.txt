@@ -1,0 +1,126 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: You Get Mauled by a Chimp. Misery Rating = 70
+## Hypothetical Situation 2: You Pass a Kidney Stone. Misery Rating = 39
+## Story: Oops! You Married Your Father
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Given the hypothetical situations and their respective misery ratings, "Oops! You Married Your Father" likely involves significant emotional trauma and long-term psychological impact. While the exact misery rating of the story isn't provided, it seems like a scenario that could be considered more miserable than passing a kidney stone (Misery Rating = 39) due to the emotional and psychological factors, yet potentially not as physically painful as getting mauled by a chimp (Misery Rating = 70).
+
+Therefore, the story likely falls between the two situations. 
+
+My final answer is:  {{{between}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 90. Let's go to the next question. 
+## Story: Your First Kiss Goes Viral
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Considering the story, "Your First Kiss Goes Viral," it likely involves significant emotional trauma due to the public exposure and potential embarrassment. However, it is unlikely to have a long-term psychological impact as severe as the other scenarios, nor does it involve physical pain.
+
+Given the hypothetical scenarios, getting mauled by a chimp has a high misery rating primarily due to the physical pain and long-term consequences, with a rating of 70. Passing a kidney stone also reflects significant physical pain, with a rating of 39. 
+
+The virality of a first kiss, while potentially embarrassing, is not likely to reach the physical or psychological impact of these events. It seems reasonable to assume that the story would fall below both of these situations in the misery index.
+
+Therefore, the story likely falls below the two situations.
+
+My final answer is: {{{below}}}.
+
+Host: You are CORRECT! The rating for the story was 33. Let's start the Round 2, More or Less Miserable.
+## Story 1: Your Bride Reads Your Sexts from your affair as Vows. Misery Rating = 68
+## Story 2: You Are Stuck Inside Your Mistress
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Story 2, "You Are Stuck Inside Your Mistress," likely involves both physical and emotional distress. However, Story 1, "Your Bride Reads Your Sexts from your affair as Vows," involves public humiliation and emotional trauma, possibly causing long-term psychological impact. 
+
+The intensity of the situation in Story 1 seems high due to the significant emotional and social consequences. In contrast, while Story 2 presents a shocking and embarrassing scenario, it may not have the same long-lasting impact as having your wedding vows disrupted so dramatically.
+
+Therefore, it's reasonable to guess that Story 2 might have a lower misery rating than Story 1.
+
+My final answer is: {{{lower}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 84. Let's go to the next question.
+## Story 1: Your Bedtime Story; Alcoholic Dad. Misery Rating = 40
+## Story 2: Your Bedtime Story; Parents Who Fight
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: "Your Bedtime Story; Parents Who Fight" involves an environment where there are frequent conflicts, which can lead to significant emotional trauma and create a stressful living situation for a child. On the other hand, "Your Bedtime Story; Alcoholic Dad" primarily deals with the challenges and trauma associated with having a parent who struggles with alcoholism, which likely brings additional concerns such as unpredictable behavior, potential neglect, and emotional impact.
+
+Given these considerations, Story 1 likely involves more complex issues beyond just fighting, including the effects of alcohol, which can have a more significant negative impact. Therefore, it's reasonable to believe that Story 2 might have a lower misery rating compared to Story 1.
+
+My final answer is: {{{lower}}}.
+
+Host: You are CORRECT! The rating for the story was 38. Let's start the Round 3, Master of Misery.
+## Story: You Destroy Kids' Art
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: Destroying kids' art will cause immediate distress and emotional trauma, particularly for the children involved, and also potentially for the person who caused the destruction if it was accidental. However, the long-term psychological impact may not be as severe compared to other traumatic events. There is no physical pain involved but the emotional aspect is quite significant.
+
+Considering all these factors, I would estimate the misery rating for "You Destroy Kids' Art" to be relatively moderate on the scale. Therefore, my final answer is: {{{45}}}.
+
+Host: The rating for the story was 48. You were off by 3 points! Let's start the Bonus Round, Margin of Misery.
+## Story: You Are Addicted to Fortnite
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: You are Addicted to Fortnite likely involves a mix of emotional and social impacts, such as the potential for strained relationships, decreased productivity, and mental health concerns due to gaming addiction. While it does not involve physical pain, the long-term psychological impact can be noteworthy.
+
+Considering the potential for significant real-world consequences and changes in lifestyle, I would estimate the misery rating to fall somewhere in the mid-range.
+
+To determine the interval of ratings, keeping in mind the margin of 30 points, an educated guess would be:
+
+My final answer is: {{{50 - 80}}}.
+
+Host: You are CORRECT! The rating for the story was 69. Let's go to the next question.
+## Story: Your Seatmate Dries her Underwear
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Having a seatmate dry her underwear is an awkward and uncomfortable situation that primarily involves social discomfort and embarrassment. There is minimal physical pain or long-term psychological trauma associated with this scenario. 
+
+Compared to previous stories, this situation is likely to have a lower misery rating due to its transient and less severe nature.
+
+Considering a margin of 20 points, I would estimate the misery rating to fall on the lower end of the scale. My final answer is: {{{20 - 40}}}.
+
+Host: You are CORRECT! The rating for the story was 32. Let's go to the next question.
+## Story: You Leak Brain Fluid
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Leaking brain fluid is a serious medical condition that involves significant physical pain and potential long-term psychological impact due to the severity of the health issue. Compared to other scenarios, this situation likely has a higher misery rating due to the combination of intense physical suffering and potential medical consequences.
+
+Given the margin of 10 points and the gravity of the condition, I would estimate the misery rating to fall on the higher end of the scale. 
+
+My final answer is: {{{80 - 90}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 64. Thank you for playing!

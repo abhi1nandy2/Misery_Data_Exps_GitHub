@@ -1,0 +1,182 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: Proctologist Tells You They Love You. Misery Rating = 36
+## Hypothetical Situation 2: Your Wife Is having sex with the Weatherman. Misery Rating = 75
+## Story: Your Son has sex with His Car
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Given the context of the story "Your Son has sex with His Car," we need to consider the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact. 
+
+- **Physical Pain**: This aspect seems minimal or irrelevant in this situation.
+- **Emotional Trauma**: This could be significant, particularly from a familial and societal perspective—feelings of shame, embarrassment, or even confusion.
+- **Long-term Psychological Impact**: There may be lasting psychological effects on both the son and possibly the parents, depending on their views and reactions to the situation.
+
+Comparing these factors:
+
+- "Proctologist Tells You They Love You" (Rating = 36) likely involves some embarrassment and awkwardness but not much beyond that.
+- "Your Wife Is having sex with the Weatherman" (Rating = 75) involves significant emotional trauma, betrayal, and potential long-term relationship damage.
+
+Considering the distress among the three pillars, "Your Son has sex with His Car" probably falls between these two situations, as it may not evoke the same level of betrayal as infidelity, but evokes more distress than an awkward comment from a doctor. 
+
+Hence, the story most likely falls {{{between}}} the two hypothetical situations.
+
+Host: You are CORRECT! The rating for the story was 69. Let's go to the next question. 
+## Story: Your Bump N' Grind Burns You
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: When considering the story "Your Bump N' Grind Burns You," we apply the "Three Pillars of Misery":
+
+- **Physical Pain**: This situation appears to involve significant physical pain, potentially from burns, which can be quite miserable.
+- **Emotional Trauma**: There may be some emotional embarrassment or trauma depending on the context of how this happened and who was involved.
+- **Long-term Psychological Impact**: This may have a lesser psychological impact compared to emotional embarrassment or shame, but it could affect future interpersonal interactions.
+
+Now, comparing with the provided hypothetical situations:
+
+- "Proctologist Tells You They Love You" (Rating = 36) involves awkwardness and embarrassment but low on physical distress.
+- "Your Wife Is having sex with the Weatherman" (Rating = 75) has a high emotional trauma and likely long-term psychological impact due to betrayal.
+
+Given that "Your Bump N' Grind Burns You" seems to primarily revolve around physical pain with some emotional embarrassment but probably less significant long-term psychological consequences compared to infidelity, the misery might not reach the level of 75. However, the significant physical pain might make it more than 36.
+
+Therefore, "Your Bump N' Grind Burns You" probably falls between the two situations.
+
+Hence, the story most likely falls {{{between}}} the two hypothetical situations.
+
+Host: You are CORRECT! The rating for the story was 52. Let's start the Round 2, More or Less Miserable.
+## Story 1: Your Head Gets Stuck in Stair Railing Mid-Railing after you tried to spice things up. Misery Rating = 60
+## Story 2: You mistakenly became a getaway driver after a first date ended with a bank robbery
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Let's evaluate Story 2, "You mistakenly became a getaway driver after a first date ended with a bank robbery," using the "Three Pillars of Misery":
+
+- **Physical Pain**: There might be little to no physical pain involved in this situation initially.
+- **Emotional Trauma**: There is likely significant emotional trauma due to fear, stress, and the shock of being unknowingly involved in a criminal activity, along with concerns of legal repercussions.
+- **Long-term Psychological Impact**: There can be long-lasting psychological effects, including anxiety about future dates, trust issues, and potential legal consequences impacting one's life.
+
+Comparing to Story 1, "Your Head Gets Stuck in Stair Railing Mid-Railing after you tried to spice things up," with a Misery Rating of 60:
+
+- Story 1 likely involves some physical discomfort and embarrassment with potential short-term psychological impact.
+- Story 2 likely involves significant emotional trauma and long-term psychological effects, possibly surpassing the embarrassment and discomfort from Story 1.
+
+Given the potential severity and implications of mistakenly becoming a getaway driver, Story 2 could be considered more miserable.
+
+Therefore, Story 2 likely has a {{{higher}}} rating compared to Story 1.
+
+Host: You are CORRECT! The rating for the story was 77. Let's go to the next question.
+## Story 1: Your Boyfriend Slept with Your Mom while on his way to meeting her. Misery Rating = 66
+## Story 2: Your Son is Dating a Cockroach for a year
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To determine whether Story 2, "Your Son is Dating a Cockroach for a year," has a higher or lower rating than Story 1, "Your Boyfriend Slept with Your Mom while on his way to meeting her," we should examine the "Three Pillars of Misery":
+
+- **Physical Pain**: Story 2 does not seem to involve any physical pain, while Story 1 is also low in this regard.
+- **Emotional Trauma**: Story 1 involves severe betrayal and a breach of trust, leading to significant emotional trauma. In contrast, Story 2 might involve embarrassment or concern for your son's well-being, but it doesn't carry the immediate and intense personal betrayal of infidelity with a close relative.
+- **Long-term Psychological Impact**: In Story 1, the psychological impact can be profound due to the destroyed relationships and trust issues. In Story 2, the long-term psychological impact might be more about societal perceptions and the impact on family relationships, but potentially less intense on an emotional level.
+
+The comparison suggests that the emotional trauma and betrayal in Story 1 might have a more profound impact than the ongoing unusual relationship in Story 2. The shock and immediate emotional betrayal in Story 1 likely outweigh the distress associated with Story 2.
+
+Therefore, Story 2 likely has a {{{lower}}} rating compared to Story 1.
+
+Host: You are CORRECT! The rating for the story was 55. Let's start the Round 3, Master of Misery.
+## Story: An Entire Stadium of People Hates You
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: To assign a misery rating to the story "An Entire Stadium of People Hates You," we will consider the "Three Pillars of Misery":
+
+- **Physical Pain**: There is likely little to no physical pain involved unless the animosity results in a physical altercation or similar situation.
+- **Emotional Trauma**: This aspect could be significant, as being hated by such a large group can produce intense feelings of shame, anxiety, humiliation, and distress, akin to a public shaming.
+- **Long-term Psychological Impact**: The long-term effects could include anxiety, social withdrawal, or damage to one's self-esteem and reputation, especially if the incident becomes publicized or goes viral.
+
+Given these considerations, while the lack of physical pain lowers the overall misery score, the emotional and psychological impact of mass dislike could be quite intense. It is likely higher than mere embarrassment or an awkward situation but may not be as impactful as situations involving severe betrayals or personal endangerment.
+
+Based on these factors, I will estimate the rating to fall around the level of significant public embarrassment and emotional distress.
+
+Therefore, the misery rating I would assign to this story is {{{72}}}.
+
+Host: The rating for the story was 42. You were off by 30 points! Let's start the Bonus Round, Margin of Misery.
+## Story: Your Pastor is Caught Having Sexy-Time
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To establish the interval for the story "Your Pastor is Caught Having Sexy-Time", I'll assess the situation using the "Three Pillars of Misery":
+
+- **Physical Pain**: There is likely no direct physical pain involved in this scenario.
+- **Emotional Trauma**: The emotional trauma can be significant, especially for members of the congregation who feel betrayed or shocked by the pastor's behavior. There is also potential embarrassment and shame for the pastor and possibly others involved if this becomes public knowledge.
+- **Long-term Psychological Impact**: The psychological impact could include damage to the trust and reputation of the pastor, impacting members' views and potentially their faith. It can also affect community dynamics and relationships.
+
+Considering these elements, this situation may involve betrayal and significant emotional distress, affecting not only the pastor but also the community's perception. The impact could be comparable to infidelity but more public and reputational in nature.
+
+Taking the above into account, here is my thought process for choosing an interval:
+
+- The situation involves considerable emotional trauma and psychological impact due to public exposure, likely placing it in a higher misery range.
+- Since we saw previous ranges like "Your Wife Is having sex with the Weatherman" at 75 and "Your Boyfriend Slept with Your Mom while on his way to meeting her" at 66, this might be somewhat in that ballpark but likely not as high as truly personal betrayals unless the pastor held an especially revered position or was a personal hero.
+
+Given this analysis, I will choose an interval that centers around the higher emotional and psychological impact due to public and community factors, notably where the misery involves reputation and trust violations that's visible publicly.
+
+Therefore, my chosen interval is {{{60 - 90}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 58. Let's go to the next question.
+## Story: Your Husband Virtually Kills You
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To determine the interval for the story "Your Husband Virtually Kills You," I'll consider the "Three Pillars of Misery":
+
+- **Physical Pain**: There is likely no direct physical pain involved, as it's a virtual action.
+- **Emotional Trauma**: The emotional trauma could be significant depending on the context. If "virtually kills you" involves online gaming or digital interactions, it could mean a breach of trust or betrayal within the virtual space you both shared or enjoyed.
+- **Long-term Psychological Impact**: The long-term impact might involve trust issues within the relationship, especially if this virtual act was intended to harm emotionally or symbolically. It could also affect how you perceive joint activities or interests in the future.
+
+Considering these elements, this situation might involve a playful betrayal or frustration manifested virtually. If it's seen as serious emotional harm or symbolic of relationship conflicts, the rating could be moderately high. However, as a virtual incident, it may not reach the heights of physical betrayals with immediate real-world consequences.
+
+Given this analysis, I will choose an interval based on moderate emotional trauma and lower physical elements, probably within a range that reflects notable but not extreme distress.
+
+Therefore, my chosen interval is {{{45 - 65}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 35. Let's go to the next question.
+## Story: You fell into water & inadvertently got kicked in the face after trying to propose to your girlfriend while she was on a motorboat
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To determine the interval for the story "You fell into water & inadvertently got kicked in the face after trying to propose to your girlfriend while she was on a motorboat," we apply the "Three Pillars of Misery":
+
+- **Physical Pain**: There is a physical element due to the kick in the face, which causes some immediate pain.
+- **Emotional Trauma**: Emotional trauma could stem from the embarrassment and humiliation of a failed proposal in such an awkward and public manner. It could affect the proposer’s self-esteem and feelings, especially if witnessed by others.
+- **Long-term Psychological Impact**: The long-term impact is likely minimal unless the incident greatly affects the relationship or becomes a viral moment causing ongoing embarrassment.
+
+Considering these factors, this situation involves a mix of physical discomfort and emotional embarrassment, but it probably lacks significant lasting trauma or betrayal similar to more personal or severe situations. The light-hearted or comedic nature of the mishap could somewhat mitigate the misery level.
+
+Given this, I would anticipate a lower overall misery rating, focused more on the embarrassing nature rather than deep trauma or betrayal.
+
+Therefore, my chosen interval is {{{30 - 40}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 51. Thank you for playing!

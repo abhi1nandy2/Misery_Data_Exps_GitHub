@@ -1,0 +1,162 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: You're Subpoenaed to Testify Before Congress. Misery Rating = 49
+## Hypothetical Situation 2: Your Ex Makes a Sex Doll of You. Misery Rating = 28
+## Story: You Get Kicked in the Head by a Groomsman
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Given the situation of getting kicked in the head by a groomsman, we need to evaluate if it fits between, above, or below the scenarios provided. Let's consider:
+
+1. Being subpoenaed to testify before Congress is rated at 49. This suggests a significant level of anxiety or stress, potentially impacting one's personal or professional life due to public scrutiny or legal consequences.
+
+2. Your ex making a sex doll of you is rated at 28. This carries an element of invasion of privacy and emotional discomfort, but perhaps not as externally consequential as the first scenario.
+
+Being kicked in the head by a groomsman likely involves physical pain and potential embarrassment or social repercussions. While I could argue that it might not surpass the stress of a congressional subpoena, it could be considered more immediately painful and embarrassing than the sex doll scenario. Therefore, it seems to fit best between the two situations.
+
+My final answer is: {{{between}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 51. Let's go to the next question. 
+## Story: Your Neighbor's Halloween Display Gives You Nightmares
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Let's assess the scenario where your neighbor's Halloween display is giving you nightmares and how it compares to the two given situations:
+
+1. Being subpoenaed to testify before Congress is rated at 49. This involves significant stress, potential public exposure, and possible legal implications that could affect one's emotional well-being.
+
+2. Your ex making a sex doll of you is rated at 28. It involves feelings of invasion of privacy and emotional discomfort, but typically lacks the broad-reaching impact of the first scenario.
+
+Having nightmares from a neighbor's Halloween display likely involves some degree of emotional discomfort and sleep disturbance, but it seems less severe in terms of lasting psychological impact or public exposure than either testifying before Congress or the sex doll situation.
+
+Given this analysis, I would consider this story to be less miserable than both scenarios. My final answer is: {{{below}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 35. Let's start the Round 2, More or Less Miserable.
+## Story 1: You Get Arrested for Giving a Fake Name even though you have a tattoo with your actual name. Misery Rating = 43
+## Story 2: You are a burglar and the Ski Mask on the face drawn using marker Doesn't Fool the Police
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: When comparing the two stories, let's consider the potential consequences and embarrassment involved:
+
+1. **Story 1**: Getting arrested for giving a fake name despite having a tattoo of your real name is rated at 43. This involves the embarrassment of the oversight and the stress of being arrested, which can have legal and personal ramifications.
+
+2. **Story 2**: Being a burglar whose attempt to disguise themselves with a poorly drawn ski mask using a marker doesn’t fool the police also carries embarrassment, as well as the implications of committing a crime and being caught.
+
+While both stories involve criminal activity and resulting embarrassment, Story 2 might have a slightly higher misery rating due to the public embarrassment of the failed disguise attempt and the potential severity of burglary charges.
+
+Given this analysis, my final answer is: {{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 56. Let's go to the next question.
+## Story 1: Train Hits You With a Snow Tsunami. Misery Rating = 37
+## Story 2: You're Trapped on a Flaming Tree
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Comparing the two stories involves assessing the levels of physical danger and psychological distress they could cause:
+
+1. **Story 1**: Being hit by a snow tsunami from a train is rated at 37. This scenario surely involves a level of physical discomfort and surprise, but has no lasting physical harm or direct danger implied.
+
+2. **Story 2**: Being trapped on a flaming tree seems to be far more immediately life-threatening. The risk of injury or death, coupled with the terror of being in such a precarious situation, likely increases both the physical and emotional impacts significantly.
+
+Considering the factors of immediate physical danger and heightened emotional panic, Story 2 likely has a higher misery rating than Story 1.
+
+Therefore, my final answer is: {{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 73. Let's start the Round 3, Master of Misery.
+## Story: You're Stuck in an Elevator With a Cat & a Sick Person
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: Being stuck in an elevator with a cat and a sick person involves multiple elements of discomfort and potential psychological impact:
+
+1. **Physical Discomfort**: Being trapped in an elevator is inherently physically uncomfortable, especially with limited space. If the person is visibly ill, this adds potential concerns about health and contagion.
+
+2. **Emotional Impact**: There may be stress from the confined space, the condition of the sick person, and the unpredictability of the animal's behavior (the cat).
+
+3. **Long-term Psychological Impact**: While this scenario can be distressing, especially for those with claustrophobia or germ-related anxieties, it may not have a severe long-term psychological impact once resolved.
+
+Taking into account the Three Pillars of Misery, but recognizing that this scenario lacks extreme elements seen in other stories, I would estimate the rating to be moderately high. Therefore, my final answer is: {{{48}}}
+
+Host: The rating for the story was 40. You were off by 8 points! Let's start the Bonus Round, Margin of Misery.
+## Story: Everyone But You Wins the Lottery
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: For the bonus round, we need to estimate an appropriate misery index rating for the scenario in which everyone except you wins the lottery. Let's consider the effects on the Three Pillars of Misery:
+
+1. **Physical Pain**: There is likely no direct physical pain involved in this scenario.
+
+2. **Emotional Trauma**: The emotional impact could be significant. Witnessing everyone else receive a life-changing financial windfall while being excluded can lead to feelings of isolation, envy, or disappointment. This can strain relationships and evoke a sense of loss or unfairness.
+
+3. **Long-term Psychological Impact**: The long-term effects could vary. Some might brush it off, but others could dwell on feelings of being left out or opportunities missed, potentially affecting their outlook on life and financial decisions.
+
+Considering these factors, the rating may be moderately high due to emotional and psychological consequences. I would estimate the rating to be in the region of 55 to 85. Therefore, my final answer is: 
+
+{{{55-85}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 51. Let's go to the next question.
+## Story: After you advocated caning for adultery you got caned for adultery
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Let's assess the misery level of this situation:
+
+1. **Physical Pain**: Being caned is a physically painful experience, and this must be considered a significant factor in the misery rating.
+
+2. **Emotional Trauma**: There's a deep sense of irony and public humiliation involved in advocating for a punishment and then becoming subject to it yourself. The shame and social embarrassment could be substantial.
+
+3. **Long-term Psychological Impact**: The long-term effects could include a loss of credibility and personal shame, particularly if this event is publicly known.
+
+Given the combination of physical pain, emotional trauma, and potential long-term psychological effects, this scenario is likely to have a high misery rating. I would estimate that this falls into a significant range due to its severe nature.
+
+Therefore, my estimated range would be: 
+
+{{{70-90}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 62. Let's go to the next question.
+## Story: A Carnival Ride Almost Kills You
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Let's evaluate the misery of a scenario where a carnival ride almost kills you by considering the Three Pillars of Misery:
+
+1. **Physical Pain**: In this scenario, there may not be actual physical pain since it's an "almost" incident, but the fear of potential injury or death heightens the physical response and stress.
+
+2. **Emotional Trauma**: The experience would involve intense fear and distress. Such a close call with danger can lead to significant emotional trauma and anxiety.
+
+3. **Long-term Psychological Impact**: Surviving a near-death experience on a carnival ride can lead to lasting psychological effects, like fear of rides, anxiety, or PTSD.
+
+Considering the combination of intense fear and potential long-term psychological consequences, this scenario would likely register a high misery rating, focusing on the emotional trauma and long-term impact.
+
+Therefore, I would estimate the rating to be in a high range appropriate for the severity of the situation. My final answer is:
+
+{{{80-90}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 72. Thank you for playing!

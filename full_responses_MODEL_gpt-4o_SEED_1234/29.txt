@@ -1,0 +1,118 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: You're Crushed in a Black Friday Stampede. Misery Rating = 56
+## Hypothetical Situation 2: Oops! You Re-Gift a Present to the Person Who Gave it to You. Misery Rating = 38
+## Story: Camel Falls on You
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Based on the details provided, the situation where a camel falls on you likely involves significant physical pain and potential long-term psychological impact. Given that being crushed in a Black Friday stampede is rated at 56 and involves considerable physical and emotional trauma, and re-gifting a present back to the giver is a much less significant issue rated at 38, it can be assumed that a camel falling on you is likely less traumatic than being crushed in a stampede but much more so than the embarrassment of re-gifting. Therefore, I would estimate that the misery rating for "Camel Falls on You" falls between the two given situations.
+
+My final answer is: {{{between}}}
+
+Host: You are CORRECT! The rating for the story was 47. Let's go to the next question. 
+## Story: You're Dangling Above a Mall Dressed as Santa
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Based on the details provided, dangling above a mall dressed as Santa likely involves significant embarrassment or emotional discomfort, but probably less physical pain or immediate danger compared to being crushed in a Black Friday stampede. However, it's likely more traumatic than the situation of re-gifting a present. Since being crushed has a misery rating of 56 and re-gifting a present has a rating of 38, it would be reasonable to assume that the situation of dangling above a mall falls between these two situations.
+
+My final answer is: {{{between}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 30. Let's start the Round 2, More or Less Miserable.
+## Story 1: Stranger broke into your home and put up Christmas decorations. Misery Rating = 51
+## Story 2: Your Stalker is Stuck in Your Chimney
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Based on the details provided, having a stalker stuck in your chimney seems significantly more distressing and threatening than a stranger breaking in and putting up Christmas decorations. While both situations would likely cause emotional discomfort and anxiety, the presence of a stalker involves a higher level of personal threat and potential danger. Given that Story 1 has a misery rating of 51, I would expect Story 2 to have a higher misery rating due to the increased fear and potential for harm.
+
+My final answer is: {{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 60. Let's go to the next question.
+## Story 1: Your Present Flies Into the Fire. Misery Rating = 26
+## Story 2: You Ruin Christmas for Your Kids
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Given the details, ruining Christmas for your kids is likely to have a greater emotional impact and long-term psychological consequences compared to losing a present in the fire. Story 1, where your present flies into the fire, is relatively minor with a rating of 26. However, disappointing or upsetting your children during a significant holiday would likely lead to much stronger feelings of guilt and distress, suggesting a higher misery rating for Story 2.
+
+My final answer is: {{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 41. Let's start the Round 3, Master of Misery.
+## Story: You're Offered Taint for Your Christmas Meal
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: The story "You're Offered Taint for Your Christmas Meal" involves a scenario that is likely both unpleasant and disturbing, causing significant emotional discomfort, especially given cultural and personal expectations around holiday meals. However, it probably doesn’t reach the level of physical pain or long-term psychological impact of other more severe stories.
+
+Considering previously mentioned ratings, like "Stranger broke into your home and put up Christmas decorations" at 51 and "Your Present Flies Into the Fire" at 26, this situation seems to fall somewhere in between due to its unsettling nature.
+
+A reasonable guess for this story's misery rating would be slightly higher than mild annoyances but nowhere near something causing significant trauma or danger.
+
+My final answer is: {{{40}}}
+
+Host: The rating for the story was 14. You were off by 26 points! Let's start the Bonus Round, Margin of Misery.
+## Story: Your Holiday Turkey has a diseased muscle
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Based on the scenario of "Your Holiday Turkey has a diseased muscle," it seems to entail a level of distress related to disappointment over holiday meal plans and potential worry about food safety. Comparing this with similar scenarios, such as "Your Present Flies Into the Fire" at 26 or "You're Offered Taint for Your Christmas Meal" at 14, this situation might fall within or slightly above this range due to the immediate impact on the holiday celebration.
+
+Given that I need to cover the actual rating within a 30-point range, I'll select:
+
+My final answer is: {{{20 - 50}}}
+
+Host: You are CORRECT! The rating for the story was 33. Let's go to the next question.
+## Story: You mistakenly write 'Molotov' Instead of 'Mazel Tov' to prominent Jewish attorney
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Given the scenario of mistakenly writing 'Molotov' instead of 'Mazel Tov' to a prominent Jewish attorney, this situation is likely to cause significant embarrassment and potentially offend someone, leading to emotional discomfort and possible social repercussions. 
+
+Comparing it to other ratings, such as "You're Dangling Above a Mall Dressed as Santa" at 30 and considering the cultural sensitivity involved, this might rank slightly higher than an embarrassing situation but not as severe as those that involve physical danger or intimate personal threat.
+
+For this round, the interval size is 20 points, so covering the possible rating range, I would select:
+
+My final answer is: {{{30 - 50}}}
+
+Host: You are CORRECT! The rating for the story was 38. Let's go to the next question.
+## Story: You Crash Into the Christmas Tree
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Given the scenario of crashing into the Christmas tree, this situation likely involves a mix of physical accident and embarrassment. The impact may cause some physical discomfort and lead to an immediate sense of chaos or concern, particularly if it happens in front of family or during a festive event. 
+
+Considering previously given ratings, such as "Your Present Flies Into the Fire" at 26 and "You're Dangling Above a Mall Dressed as Santa" at 30, this situation might be slightly more severe due to the added element of a minor accident but not reaching the level of more emotionally intense or dangerous events.
+
+With the interval size of 10 points, I'll choose a range that covers a moderately low impact:
+
+My final answer is: {{{25 - 35}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 24. Thank you for playing!

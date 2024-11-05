@@ -1,0 +1,161 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: Your Ex Has a New Podcast About You. Misery Rating = 50
+## Hypothetical Situation 2: Your New Psychiatrist Keeps Saying Yikes. Misery Rating = 35
+## Story: You Have a Bug Living in Your Ear
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: The story "You Have a Bug Living in Your Ear" sounds quite unsettling and could potentially be perceived as more physically painful and immediately alarming than the provided hypothetical situations. Having a bug living in your ear would likely involve a strong element of physical discomfort and potential emotional distress. Therefore, it seems likely that its score would be higher than the one where a new psychiatrist keeps saying "Yikes" (35) and even potentially higher than an ex having a podcast about you (50).
+
+Given that reasoning, this story might have a higher misery index than Situation 1. However, without specific details, it is hard to judge definitively between above or between. Typically, these types of games might consider the bug story quite miserable, possibly above the given range. My best guess in this case is:
+
+{{{above}}}
+
+Host: You are CORRECT! The rating for the story was 55. Let's go to the next question. 
+## Story: You Live To Be 110
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Living to be 110 can have several implications. On one hand, it could be seen as a positive, marking a long and full life. On the other hand, it may imply a considerable amount of physical pain, potential for loneliness, loss of peers, and possibly significant emotional or psychological challenges due to old age. However, compared to the distressing scenarios like having a bug in your ear or psychiatric difficulties, the rating might not necessarily be as high.
+
+Comparing it to the hypothetical situations:
+- Situation 1: Your Ex Has a New Podcast About You (Rating = 50)
+- Situation 2: Your New Psychiatrist Keeps Saying Yikes (Rating = 35)
+
+Living to 110 might be perceived as less miserable than having an ex talk about you in a potentially embarrassing way, and it could involve less immediate emotional turmoil than the psychiatrist scenario. Given this reasoning, it seems likely that:
+
+Living to 110 might fall below or between the hypothetical scenarios.
+
+My best estimate, considering traditional positive perceptions of longevity, might suggest:
+
+{{{below}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 37. Let's start the Round 2, More or Less Miserable.
+## Story 1: You're Arrested for Having Sex with a Pile of Leaves. Misery Rating = 55
+## Story 2: Your Wife Won't Have Sex with You
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: The situation "You're Arrested for Having Sex with a Pile of Leaves" involves a public embarrassment, potential legal consequences, and possibly a significant amount of emotional distress, which contributes to its misery rating of 55.
+
+On the other hand, the situation "Your Wife Won't Have Sex with You" could indicate emotional and relational issues, resulting in loneliness, rejection, or significant emotional distress. This scenario could be perceived as very upsetting, possibly leading to long-term issues, but it might not have the same immediate public embarrassment or legal consequences as Story 1.
+
+Given the ratings, while Story 2 is certainly miserable, it may not be perceived as inherently more distressing than the significant public and legal embarrassment involved in Story 1.
+
+With this reasoning, it's likely that:
+
+{{{lower}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 62. Let's go to the next question.
+## Story 1: Your Coworkers Won't Miss You. Misery Rating = 40
+## Story 2: porta-potty flew in the air & sprayed water on you
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: The situation "Your Coworkers Won't Miss You" represents a level of social rejection and lack of connection, which can have an emotional impact. It has a misery rating of 40.
+
+On the other hand, "a porta-potty flew in the air & sprayed water on you" involves immediate and significant physical discomfort, public embarrassment, and possibly a health concern due to exposure to unsanitary conditions. This scenario likely involves a much higher shock value and immediate distress compared to the coworker scenario.
+
+Given the nature of these situations, the porta-potty incident likely feels more acutely miserable due to the combination of physical and emotional factors.
+
+With this reasoning, it's likely that Story 2 has a higher misery rating than Story 1.
+
+{{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 56. Let's start the Round 3, Master of Misery.
+## Story: Your'e Attacked by a Goat
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: Being attacked by a goat can be physically painful and potentially embarrassing, but it might not involve the same level of enduring emotional impact or severe consequences as some of the other scenarios we've encountered. It surely would be alarming in the moment and could involve some level of injury and public embarrassment, suggesting it might have a moderate to high misery rating.
+
+Considering the game's previous ratings:
+- The situation "You're Arrested for Having Sex with a Pile of Leaves" was rated at 55.
+- The situation "Your Wife Won't Have Sex with You" was rated at 62.
+- "Porta-potty flew in the air & sprayed water on you" was rated at 56.
+
+Given these comparisons, being attacked by a goat could likely fit in the range between 50 and 60, as it involves immediate physical distress but might not have the long-term emotional impact of some higher-rated stories.
+
+A reasonable guess would be:
+
+{{{58}}}
+
+Host: The rating for the story was 41. You were off by 17 points! Let's start the Bonus Round, Margin of Misery.
+## Story: Your Delivery Truck Rolls Away
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To determine the interval for "Your Delivery Truck Rolls Away," we consider potential factors contributing to the misery rating. This situation likely involves financial loss, potential job insecurity, and the immediate panic of losing control of a vehicle. While these elements are significant, they might not reach the severity of intense personal or emotional distress seen in some prior examples.
+
+Based on the previous ratings:
+- Physical mishaps and public embarrassment had ratings in the mid-50s (e.g., porta-potty situation).
+- Social or relational issues were rated closer to the 60s.
+
+The delivery truck scenario, while distressing, seems to align more closely with practical or financial concerns rather than deep emotional or public embarrassment. Thus, it might be rated somewhat lower than those examples, perhaps in the 45 to 75 range.
+
+Therefore, a reasonable interval for this scenario might be:
+
+{{{45 - 75}}}
+
+Host: You are CORRECT! The rating for the story was 48. Let's go to the next question.
+## Story: You Crash Into a Bonfire after colliding with someone
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Crashing into a bonfire after colliding with someone is quite a distressing scenario. It includes elements of immediate physical pain, potential for serious injury, embarrassment, and perhaps long-term psychological impact due to the trauma of the event. The physical danger involved in this situation suggests a higher misery rating than situations that primarily involve emotional distress or social embarrassment.
+
+Considering previous ratings:
+- The porta-potty incident with a rating of 56 for its immediate and public consequences.
+- An emotional situation like "Your Wife Won't Have Sex with You" was rated 62.
+  
+Given the serious physical harm and the potential for lasting trauma, this scenario likely warrants a higher rating. It would likely sit in the higher misery range, perhaps more than the similarly distressing but less dangerous porta-potty incident.
+
+Taking these factors into account, a probable interval might be around:
+
+{{{60 - 80}}}
+
+Host: You are CORRECT! The rating for the story was 71. Let's go to the next question.
+## Story: You admitted murder while having a heart attack and would survive
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Admitting to murder while having a heart attack is an extremely intense scenario, involving both severe physical distress and significant legal and personal implications. The gravity of confessing to a serious crime, combined with the life-threatening situation of a heart attack, results in a scenario with high levels of physical pain, emotional trauma, and long-term psychological impact.
+
+Considering previous ratings:
+- Public embarrassment situations like "You're Arrested for Having Sex with a Pile of Leaves" were rated 55.
+- Very distressing scenarios such as crashing into a bonfire were rated as high as 71.
+
+This story combining both life-or-death and severe legal consequences likely has a high misery index. Given its potential for long-term repercussions and immediate distress, a high rating is expected, potentially even higher than the bonfire incident.
+
+With the small interval size of 10 and the extreme nature of this scenario, the rating might be towards the top of the scale. Therefore, an appropriate interval would likely be:
+
+{{{80 - 90}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 76. Thank you for playing!

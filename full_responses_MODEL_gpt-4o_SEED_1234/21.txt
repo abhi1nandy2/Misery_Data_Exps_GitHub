@@ -1,0 +1,106 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: Your Luggage Arrives Soaking Wet. Misery Rating = 37
+## Hypothetical Situation 2: You See Your Mom on an Ad for Escorts. Misery Rating = 62
+## Story: Your Wedding Officiant Pukes Mid-Vows
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: The story "Your Wedding Officiant Pukes Mid-Vows" seems quite embarrassing and could cause a significant amount of distress, but not as severe as seeing "Your Mom on an Ad for Escorts." It's likely more miserable than "Your Luggage Arrives Soaking Wet," but less than the second hypothetical situation. Therefore, the story likely falls between the two situations.
+
+My final answer is: {{{between}}}.
+
+Host: You are CORRECT! The rating for the story was 38. Let's go to the next question. 
+## Story: Your Doctor Disses You During Surgery
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: The story "Your Doctor Disses You During Surgery" seems quite unsettling and could have a more significant impact on emotional trauma and long-term psychological impact compared to both hypothetical situations. Being disrespected by a professional, especially during a vulnerable moment like surgery, could be quite distressing. It likely falls above "You See Your Mom on an Ad for Escorts" in terms of misery.
+
+My final answer is: {{{above}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 51. Let's start the Round 2, More or Less Miserable.
+## Story 1: Your Kid Drops the Cymbals in their School Assembly while playing the national anthem. Misery Rating = 18
+## Story 2: Your Kid Mocks Your Sex Noises
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: The story "Your Kid Mocks Your Sex Noises" seems potentially more emotionally uncomfortable and embarrassing compared to "Your Kid Drops the Cymbals in their School Assembly while playing the national anthem." The latter is a relatively minor mishap compared to the personal and intimate nature of the former, which could lead to greater emotional distress.
+
+My final answer is: {{{higher}}}.
+
+Host: You are CORRECT! The rating for the story was 36. Let's go to the next question.
+## Story 1: Your Girlfriend removed Her Belly Button and gifted it to you. Misery Rating = 44
+## Story 2: You Discover Your Ex was Living in Your Attic 12 years after breakup
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: The story "You Discover Your Ex was Living in Your Attic 12 years after breakup" sounds quite disturbing and invasive. The long-term psychological impact and emotional trauma associated with discovering someone unexpectedly living in your personal space would likely be quite high. Compared to the bizarre but less threatening story of "Your Girlfriend removed Her Belly Button and gifted it to you," this story seems significantly more unsettling.
+
+My final answer is: {{{higher}}}.
+
+Host: You are CORRECT! The rating for the story was 71. Let's start the Round 3, Master of Misery.
+## Story: You're Tortured With Spiders
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: The story "You're Tortured With Spiders" is likely to involve significant physical pain as well as emotional trauma for many people, given the common fear of spiders and the distress associated with being tortured. The long-term psychological impact could be considerable as well due to potential development of phobias or PTSD. Considering these factors, the misery rating is likely quite high.
+
+My final answer is: {{{85}}}.
+
+Host: The rating for the story was 48. You were off by 37 points! Let's start the Bonus Round, Margin of Misery.
+## Story: Your Head Is Stuck in a Tailpipe
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Getting your head stuck in a tailpipe is likely a highly embarrassing and potentially physically uncomfortable situation. The physical pain might not be severe, but the emotional trauma from the experience and the embarrassment could be significant. I'd estimate the misery rating to be around the mid-range, scoring higher than minor embarrassments but lower than traumatic experiences involving significant personal invasion or long-term impact.
+
+My final answer is: {{{40 - 70}}}.
+
+Host: You are CORRECT! The rating for the story was 64. Let's go to the next question.
+## Story: You discover that you are the Face of  Ukrainian Erectile Dysfunction Pills
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: The story "You discover that you are the Face of Ukrainian Erectile Dysfunction Pills" could lead to significant emotional trauma and long-term psychological impact due to the embarrassment and potential damage to one's reputation. Compared to other distressing situations, this might not reach the highest levels of misery, but it would likely fall on the higher end of the scale. Accounting for the 20-point margin, I'd estimate the misery rating to be moderately high.
+
+My final answer is: {{{55 - 75}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 39. Let's go to the next question.
+## Story: Flight Takes Off Without Your Baby and has to turn around
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: The story "Flight Takes Off Without Your Baby and has to turn around" is an extremely stressful and terrifying situation for any parent. The momentary panic and dread of being separated from your child, coupled with the logistical nightmare and emotional trauma, would likely place this story high on the misery scale. Considering it's a life-impacting event, I'd estimate the misery rating to be quite high, potentially pushing towards the upper end of the scale. 
+
+Considering the 10-point margin, I'll estimate the range as:
+
+My final answer is: {{{75 - 85}}}.
+
+Host: You are CORRECT! The rating for the story was 75. Thank you for playing!

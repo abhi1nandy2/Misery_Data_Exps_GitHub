@@ -1,0 +1,187 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: Mother-In-Law Pokes Holes in Your Condoms. Misery Rating = 62
+## Hypothetical Situation 2: You Gulp a Mouthful of Las Vegas Pool Party Water. Misery Rating = 33
+## Story: You Destroy a Warehouse
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Based on the situations provided, here's the reasoning:
+
+- Destroying a warehouse seems quite serious, especially considering potential consequences such as legal issues, financial loss, employment repercussions, etc.
+- Gulping pool party water, while unpleasant and potentially having short-term health issues, seems far less serious.
+- Having a mother-in-law tamper with condoms is significant due to possible violations of trust and unintended consequences but is somewhat more personal than simply emotional or financial distress.
+
+It seems likely that "You Destroy a Warehouse" has a misery rating higher than swallowing pool water but the exact impact can be less than the betrayal implied in the family-oriented situation of tampered contraception.
+
+Therefore, it's reasonable to guess that the impact of destroying a warehouse might fall above both hypothetical situations if we assume serious implications, or potentially between them since those are quite personal and possibly more severe.
+
+After weighing the scenarios and given the context, I will guess:
+
+{{{above}}}
+
+Host: You are CORRECT! The rating for the story was 64. Let's go to the next question. 
+## Story: Your Kids Give Themselves Haircuts
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Based on the scenarios provided, here's the reasoning:
+
+- "Your Kids Give Themselves Haircuts" seems to have a lower misery rating as it is generally seen as a temporary and fixable situation. While it might be distressing or frustrating for parents, it's unlikely to result in long-term consequences similar to the other situations.
+- Gulping Las Vegas Pool Party Water at a 33 rating involves potential short-term discomfort and health risk, but it still seems more severe than a harmless, albeit messy, haircut situation.
+- The situation where a mother-in-law pokes holes in condoms is given a 62 rating, indicating a significant emotional and personal violation, which is undoubtedly more serious.
+
+Therefore, it is reasonable to assume that "Your Kids Give Themselves Haircuts" falls below both of the provided situations.
+
+My final guess is:
+
+{{{below}}}
+
+Host: You are CORRECT! The rating for the story was 26. Let's start the Round 2, More or Less Miserable.
+## Story 1: You Get Tapeworms From Sashimi. Misery Rating = 73
+## Story 2: Your are suffering from a Brain Leak From Pilates
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Based on the comparison of the two stories and their potential consequences, here's the reasoning:
+
+- "You Get Tapeworms From Sashimi" likely involves dealing with significant health issues, including potential long-term treatment and discomfort. The misery rating of 73 suggests it is a severe and impactful experience.
+- "You are suffering from a Brain Leak From Pilates" sounds extremely serious, possibly involving critical medical conditions, surgery, or permanent consequences, which would likely warrant a high misery rating.
+
+Given the life-threatening and potentially severe nature of a brain leak compared to recovering from tapeworms, it's reasonable to suspect that Story 2 about the brain leak has a higher misery rating due to the immediate and severe health implications.
+
+Therefore, my final answer is:
+
+{{{higher}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 69. Let's go to the next question.
+## Story 1: Whoops! You Eat a Quart of Paint when you thought it was yogurt. Misery Rating = 36
+## Story 2: You Get Hit by Bull Semen due to Semen explosion at bull insemination plant
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Based on the comparison of the two stories and their potential consequences, here's the reasoning:
+
+- "Whoops! You Eat a Quart of Paint when You Thought it Was Yogurt" has a misery rating of 36, which suggests a highly unpleasant but probably non-life-threatening experience, involving potential health concerns and discomfort from ingesting paint.
+- "You Get Hit by Bull Semen due to Semen Explosion at Bull Insemination Plant" seems like an extremely bizarre and embarrassing situation, potentially involving a lot of emotional distress and immediate messiness, but perhaps not as concerning in terms of long-term health implications as ingesting paint.
+
+While both stories are absurd and uncomfortable, the potential health risks and discomfort associated with eating paint might have invoked a higher misery rating. Therefore, I suspect that Story 2 might have a lower rating than eating paint due to its more immediate shock value rather than lasting consequences.
+
+My final answer is:
+
+{{{lower}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 49. Let's start the Round 3, Master of Misery.
+## Story: You Get Both Nipples Pierced
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: To estimate the misery rating for "You Get Both Nipples Pierced," let's consider the factors involved:
+
+- Physical Pain: Piercing can involve significant physical pain, although it is temporary.
+- Emotional Trauma: The trauma might be minimal unless unintended or unwanted.
+- Long-Term Impact: There may be soreness and healing time but typically no significant long-term psychological effect.
+
+Given these considerations and comparing it to previous situations:
+
+- It seems less severe than dealing with tapeworms or brain leaks, which had ratings of 73 and 69, respectively.
+- It might be considered more painful than the haircut scenario (26) or the quart of paint incident (36), but probably not as high as serious medical issues.
+- It's plausible the rating could be a moderate reflection of temporary physical discomfort, with possibly some embarrassment factored in.
+
+Based on this analysis, I would estimate the rating just below the halfway point given the minor long-term effects compared to emotional and temporary physical impact:
+
+{{{45}}}
+
+Host: The rating for the story was 38. You were off by 7 points! Let's start the Bonus Round, Margin of Misery.
+## Story: Your Snot Drips on Live TV
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To estimate the interval for the misery rating of "Your Snot Drips on Live TV," let's consider the following factors:
+
+- Physical Pain: There's likely no physical pain associated with this situation.
+- Emotional Trauma: The embarrassment factor is high, as it happens on live TV, which can lead to significant emotional distress and humiliation.
+- Long-Term Impact: While embarrassing, it is ultimately a temporary and not particularly damaging event.
+
+Given these considerations and comparing them to prior scenarios:
+
+- It's likely not as severe as having tapeworms (73) or experiencing a brain leak (69). 
+- It could be more embarrassing than kids giving themselves haircuts (26) but less severe than eating paint (36) or being hit by bull semen (49).
+
+This incident is primarily about emotional discomfort due to public embarrassment, which would likely push its rating above low-impact scenarios like haircuts but below more acute, health-related distress.
+
+To fit this within the interval of 30 points, a suitable guess would be around the mid to low 40s:
+
+{{{30 - 60}}}
+
+Host: You are CORRECT! The rating for the story was 34. Let's go to the next question.
+## Story: It's Raining Spiders on You
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To estimate the interval for the misery rating of "It's Raining Spiders on You," let's consider the following factors:
+
+- Physical Pain: Direct physical pain might be minimal unless allergic reactions or bites are involved.
+- Emotional Trauma: Significant emotional trauma could occur due to the fear of spiders (arachnophobia), a common phobia, making this a potentially terrifying experience.
+- Long-Term Impact: The psychological impact might be significant for those with an intense fear of spiders, though likely not permanent.
+
+Given these considerations and comparing it to prior scenarios:
+
+- It’s likely more distressing than scenarios purely involving embarrassment or minor mistakes, such as snot on live TV (34).
+- It might not be as severe in terms of long-term impact as more medical situations, like tapeworms (73), but could surpass the discomfort of strange mishaps like paint ingestion (36).
+
+The rating should account for the intense emotional and psychological discomfort, especially for those with phobias, so it could lie within a moderate to higher range on the psychological distress scale.
+
+To fit this within the interval of 20 points, a suitable guess might be in the higher spectrum of distress but not extremely high, perhaps:
+
+{{{50 - 70}}}
+
+Host: You are CORRECT! The rating for the story was 53. Let's go to the next question.
+## Story: A Street Eats You
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To estimate the interval for the misery rating of "A Street Eats You," let's consider the following factors:
+
+- **Physical Pain:** There could be serious physical harm involved, depending on the circumstances of being "eaten" by a street (such as falling into a sinkhole or other physically dangerous situation).
+- **Emotional Trauma:** A highly traumatic and terrifying experience, likely leading to considerable immediate emotional distress.
+- **Long-Term Impact:** Depending on the severity of the incident, there could be lasting psychological effects related to safety and security.
+
+Given these considerations and comparing it to prior scenarios:
+
+- It's likely much more severe than minor embarrassment (like snot on live TV, rated 34) or even comparably bizarre experiences (such as rain of spiders, rated 53).
+- It could be on par with or even exceed the distress of severe health issues like tapeworms (73) due to the combination of physical and emotional trauma.
+
+Considering the potential for significant physical and emotional outcomes, the misery rating would likely be on the higher end of the scale.
+
+To fit this within the interval of 10 points, a suitable guess would be:
+
+{{{70 - 80}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 83. Thank you for playing!

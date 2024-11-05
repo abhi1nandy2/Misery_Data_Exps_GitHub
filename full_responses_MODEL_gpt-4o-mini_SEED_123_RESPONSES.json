@@ -1,0 +1,402 @@
+{
+  "0": {
+    "1_1": "{{{above}}}",
+    "1_2": "{{{below}}}",
+    "2_1": "{{{lower}}}",
+    "2_2": "{{{higher}}}",
+    "3": "{{{58}}}",
+    "4_1": "{{{30 - 60}}}",
+    "4_2": "{{{60 - 80}}}",
+    "4_3": "{{{20 - 30}}}"
+  },
+  "1": {
+    "1_1": "Let's analyze the two hypothetical situations:\n\n- Biting your tongue off (Misery Rating = 73): This is a very painful experience, likely involving significant physical pain and potential long-term effects.\n- Being attacked by a swarm of bees (Misery Rating = 44): While this can be very painful and traumatic, it may not have the same level of long-term psychological impact as biting your tongue off.\n\nNow, let's consider the story: \"Your Toes Replace Your Fingers.\" This story sounds quite bizarre and would likely involve some significant emotional and psychological implications, possibly leading to distress regarding body image and functionality. However, the physical pain may vary depending on how this transformation is framed or experienced.\n\nGiven that biting your tongue off (73) is a very high level of pain and trauma, and being attacked by bees (44) is lower, I would estimate that the story about toes replacing fingers would likely fall below the level of biting your tongue off but above the bee attack due to its unique psychological impact.\n\nTherefore, my final answer is {{{between}}}.",
+    "1_2": "Let's analyze the two hypothetical situations again:\n\n- Biting your tongue off (Misery Rating = 73): This involves extreme physical pain and could have significant long-term effects.\n- Being attacked by a swarm of bees (Misery Rating = 44): This involves pain and potential trauma, but is generally less severe than biting your tongue off.\n\nNow, let\u2019s consider the new story: \"You Plummet 30 Stories (you survived it!)\". Surviving a fall from such a height would likely come with severe physical injuries, intense pain, and significant emotional trauma from the experience. The fact that the person survived might lessen the long-term psychological effect slightly compared to a fatal fall, but such a traumatic incident would still likely have a very high misery rating.\n\nConsidering the severity of the fall, I believe this story would rate above both the biting tongue off scenario (73) due to the extreme physical pain and psychological trauma involved. \n\nTherefore, my final answer is {{{above}}}.",
+    "2_1": "Let's analyze the two stories:\n\n- **Story 1: Your Parents Leave You in a Corn Maze (Misery Rating = 75)**: This story involves emotional trauma, particularly feelings of abandonment and fear when left alone in an unfamiliar place. Depending on the child's age and personality, this could have significant psychological effects.\n\n- **Story 2: You Burn Your Penis Trying to Whiten It**: This story likely involves a high level of physical pain and discomfort, as well as potential long-term psychological effects due to the embarrassment and shame associated with such an incident. The injury could also lead to serious physical repercussions.\n\nGiven the ratings provided, a rating of 75 for the corn maze incident signifies a severe level of emotional trauma. However, burning a sensitive area like the penis often leads to excruciating physical pain, which can overshadow emotional effects and lead to a higher rating.\n\nConsidering these factors, my guess would be that Story 2 has a higher misery rating because of the intense physical suffering involved.\n\nTherefore, my final answer is {{{higher}}}.",
+    "2_2": "Let's analyze the two stories again:\n\n- **Story 1: Wife Buys Newspaper Ad About You and Baby Mama (Misery Rating = 62)**: This scenario likely involves significant public embarrassment, emotional trauma, and possibly long-term psychological impact due to the public nature of the advertisement and the feelings regarding the relationship.\n\n- **Story 2: Your Wife Calls out Your Cheating on Billboard**: This scenario also involves extreme public embarrassment, but the impact might be more severe due to the nature of a billboard, which is highly visible and permanent compared to a newspaper ad. The humiliation and damage to reputation could be more intense, leading to greater emotional distress.\n\nGiven these factors, I believe that Story 2, which involves calling out the cheating on a billboard, would likely have a higher misery rating compared to Story 1 due to the heightened level of public exposure and the potential for greater emotional fallout.\n\nTherefore, my final answer is {{{higher}}}.",
+    "3": "To evaluate the story \"You Publicly Ask for Toilet Paper while you are pooping in the toilet,\" we should consider the elements of humiliation, embarrassment, and the potential for emotional trauma. Being in such a vulnerable and awkward situation, especially in a public restroom, could lead to significant feelings of shame and distress.\n\nThe level of emotional trauma and embarrassment it could cause suggests a high misery rating, likely in the mid-range compared to the other scenarios we've considered. I would estimate the misery rating to likely be around 60, considering the public nature of the incident and the resulting emotional impact.\n\nTherefore, my final answer is {{{60}}}.",
+    "4_1": "To estimate the rating for the story \"You Have a Giant Black Pimple,\" we should consider the psychological and emotional impact of having a noticeable skin issue, which can affect self-esteem and mental health. However, a giant black pimple, while certainly distressing and potentially embarrassing, may not carry as heavy of a burden as many more severe stories we've analyzed.\n\nGiven that it likely falls within a lower range of misery ratings due to the physical presentation without significant long-term effects, I would estimate it might be around a rating of 40.\n\nThus, the interval size of 30 points would suggest the following:\n\n- **LOWER LEVEL**: 25 (i.e., 40 - 15)\n- **HIGHER LEVEL**: 55 (i.e., 40 + 15)\n\nTherefore, my final answer is {{{25 - 55}}}.",
+    "4_2": "To evaluate the story \"You Think You Won a Prize; Actually Getting Arrested,\" we need to consider both the emotional and psychological consequences of this situation. Initially thinking you have won a prize brings a moment of joy, but being arrested immediately following that could lead to intense feelings of betrayal, humiliation, and fear. The sudden shift from happiness to distress in a public context can have significant emotional impact.\n\nGiven the potential for considerable shame, anxiety, and long-term psychological effects stemming from an arrest\u2014especially following a false sense of winning\u2014I would estimate this story might have a misery rating in the range of 60.\n\nWith the interval size of 20 points, the calculation would be as follows:\n\n- **LOWER LEVEL**: 50 (i.e., 60 - 10)\n- **HIGHER LEVEL**: 70 (i.e., 60 + 10)\n\nTherefore, my final answer is {{{50 - 70}}}.",
+    "4_3": "To evaluate the story \"Your Daughter Marries a Roller Coaster,\" we need to consider the absurdity and potential emotional impact of such a scenario. While it may sound humorous or bizarre, it could still have significant psychological implications for both the daughter and the family, including feelings of embarrassment, confusion, or concern about her mental state.\n\nHowever, due to the whimsical nature of the story, it might not carry a heavy emotional burden compared to more severe real-life scenarios. I would estimate the misery rating to likely be around 35. \n\nWith the interval size of 10 points, the calculation would be as follows:\n\n- **LOWER LEVEL**: 30 (i.e., 35 - 5)\n- **HIGHER LEVEL**: 40 (i.e., 35 + 5)\n\nTherefore, my final answer is {{{30 - 40}}}."
+  },
+  "2": {
+    "1_1": "{{{between}}}",
+    "1_2": "{{{below}}}",
+    "2_1": "{{{lower}}}",
+    "2_2": "{{{higher}}}",
+    "3": "{{{65}}}",
+    "4_1": "{{{41 - 71}}}",
+    "4_2": "{{{44 - 64}}}",
+    "4_3": "{{{56 - 66}}}"
+  },
+  "3": {
+    "1_1": "{{{above}}}",
+    "1_2": "{{{above}}}",
+    "2_1": "{{{lower}}}",
+    "2_2": "{{{higher}}}",
+    "3": "{{{55}}}",
+    "4_1": "{{{27 - 57}}}",
+    "4_2": "{{{59 - 79}}}",
+    "4_3": "{{{42 - 52}}}"
+  },
+  "4": {
+    "1_1": "{{{between}}}",
+    "1_2": "{{{above}}}",
+    "2_1": "{{{lower}}}",
+    "2_2": "{{{higher}}}",
+    "3": "{{{45}}}",
+    "4_1": "{{{30 - 60}}}",
+    "4_2": "{{{60 - 80}}}",
+    "4_3": "{{{90 - 100}}}"
+  },
+  "5": {
+    "1_1": "{{{between}}}",
+    "1_2": "{{{above}}}",
+    "2_1": "{{{higher}}}",
+    "2_2": "{{{lower}}}",
+    "3": "{{{75}}}",
+    "4_1": "{{{27 - 57}}}",
+    "4_2": "{{{61 - 81}}}",
+    "4_3": "{{{48 - 58}}}"
+  },
+  "6": {
+    "1_1": "{{{above}}}",
+    "1_2": "{{{above}}}",
+    "2_1": "{{{higher}}}",
+    "2_2": "{{{higher}}}",
+    "3": "{{{50}}}",
+    "4_1": "{{{38 - 68}}}",
+    "4_2": "{{{50 - 70}}}",
+    "4_3": "{{{33 - 43}}}"
+  },
+  "7": {
+    "1_1": "{{{above}}}",
+    "1_2": "{{{above}}}",
+    "2_1": "{{{higher}}}",
+    "2_2": "{{{lower}}}",
+    "3": "{{{52}}}",
+    "4_1": "{{{13 - 43}}}",
+    "4_2": "{{{49 - 69}}}",
+    "4_3": "{{{51 - 61}}}"
+  },
+  "8": {
+    "1_1": "Given the ratings of the hypothetical situations, we have:\n\n- Hypothetical Situation 1 (Mistakenly Deported) has a misery rating of 81.\n- Hypothetical Situation 2 (Discovering Grandpa was a Nazi) has a misery rating of 43.\n\nThe story \"There's a Live Leech up Your Nose\" suggests a significant level of physical discomfort, which might imply a high misery rating due to the physical pain involved.\n\nHowever, it likely doesn't reach the level of 81, as being mistakenly deported can involve complex legal issues, emotional distress, and long-term psychological impacts.\n\nI believe the story would fall below the first situation and likely above the second. \n\nMy final answer is {{{between}}}.",
+    "1_2": "In evaluating the situation where a principal hires a pole dancer to welcome kindergartners, I consider the implications of this choice. \n\n- Hypothetical Situation 1 (Mistakenly Deported) has a misery rating of 81.\n- Hypothetical Situation 2 (Discovering Grandpa was a Nazi) has a misery rating of 43.\n\nThis story seems to involve less severe implications than being mistakenly deported, which can have far-reaching emotional and legal consequences. While the choice to hire a pole dancer could be controversial and might lead to distress among parents or the community, it doesn't necessarily imply the same level of long-term psychological impact or physical pain that appears in the first situation. \n\nIt might provoke some emotional trauma or embarrassment, but I would argue it does not reach a point higher than the second situation either. As such, it seems most reasonable to place this story below the first situation and likely above the second.\n\nMy final answer is {{{between}}}.",
+    "2_1": "To determine whether Story 2 (You Almost Get Carjacked by a Naked Man) has a higher or lower rating compared to Story 1 (You Meet a Friendly Masturbator), we need to analyze the potential distress and misery associated with each scenario.\n\n- **Story 1 (You Meet a Friendly Masturbator)** with a misery rating of 38 may involve some discomfort or embarrassment, but it could also be viewed with humor or as a non-threatening encounter.\n\n- **Story 2 (You Almost Get Carjacked by a Naked Man)** implies a situation that could involve significant fear and a sense of personal danger. This scenario might lead to emotional trauma and a severe adverse reaction due to the imminent threat to personal safety.\n\nConsidering the nature of both stories, Story 2 likely carries a higher misery rating due to the potential for fear and trauma associated with a near carjacking, compared to the more humorous and less threatening nature of Story 1.\n\nTherefore, my final answer is {{{higher}}}.",
+    "2_2": "To analyze whether Story 2 (Your Dad Accidentally Sexts You) has a higher or lower rating compared to Story 1 (You Accidentally Sext Your Dad), we need to consider the implications of both scenarios.\n\n- **Story 1 (You Accidentally Sext Your Dad)** with a misery rating of 50 suggests a level of embarrassment and discomfort with potential long-term effects on the relationship. However, one could argue that the emotional trauma might be somewhat manageable, depending on the dynamics of the relationship.\n\n- **Story 2 (Your Dad Accidentally Sexts You)** could imply a deeper level of emotional distress and awkwardness. This situation puts the recipient (you) in a position of receiving an unexpected and potentially traumatizing message from a parent. It might lead to significant feelings of confusion and embarrassment, possibly complicating the parent-child relationship in a more profound way.\n\nGiven that the embarrassment and emotional distress from receiving an inappropriate sext from a parent could be more impactful than sending one, I would argue that Story 2 likely has a higher misery rating.\n\nTherefore, my final answer is {{{higher}}}.",
+    "3": "To estimate the misery rating for the story \"You Suck a Lady's Dirty Foot,\" I need to consider various factors:\n\n1. **Physical Pain**: There could be a slight element of physical discomfort or disgust involved in this action, but it may not be severe.\n\n2. **Emotional Trauma**: This story likely evokes strong feelings of embarrassment, shame, and social stigma. Sucking on someone\u2019s dirty foot would certainly be seen as socially unacceptable and may lead to significant emotional distress.\n\n3. **Long-term Psychological Impact**: Depending on how this experience affects the individual in terms of social relationships or self-image, there could be some lingering psychological implications.\n\nConsidering the above points, the situation seems to involve a notable amount of emotional trauma and social fallout, which can lead to an elevated misery rating. \n\nWhile I am unsure of the exact index, I might place this story at a relatively moderate to high level due to the embarrassment and potential consequences involved. \n\nBased on my assessment, I would estimate the misery rating to be around 70. \n\nMy final answer is {{{70}}}.",
+    "4_1": "To guess the index rating for the story \"You found a dead mouse inside your can of Red Bull after taking a sip and feeling something hit your lip,\" I will consider the implications of this scenario:\n\n1. **Physical Pain**: There may be a strong initial reaction due to the shock and disgust of ingesting something horrendous. While it might not involve any direct physical pain, the thought of having consumed a dead mouse could lead to a visceral reaction.\n\n2. **Emotional Trauma**: This situation could lead to significant emotional distress, including feelings of disgust, horror, and anxiety about food safety. It may also spark long-term concerns about similar experiences in the future.\n\n3. **Long-term Psychological Impact**: Depending on the person, discovering something so shocking and distressing could lead to lasting psychological effects, such as food-related anxiety or aversion to certain products or brands.\n\nGiven these factors, I might estimate that the misery rating for this story is relatively high due to the emotional and psychological implications. If I consider the previous ratings I've encountered, this story could be in the range of 60-90.\n\nFor a 30-point interval, I would estimate the rating to be:\n\n**LOWER LEVEL:** 60  \n**HIGHER LEVEL:** 90  \n\nThus, my final answer is {{{60 - 90}}}.",
+    "4_2": "To guess the index rating for the story \"You Eat 2 Lbs of Your Own Hair which is then removed from your stomach by doctors,\" I will analyze the implications of this situation:\n\n1. **Physical Pain**: Eating two pounds of hair could lead to severe physical complications, including blockages or other gastrointestinal issues, which might involve significant pain and discomfort. The act of having it removed by doctors indicates a serious situation, potentially involving surgery or medical intervention.\n\n2. **Emotional Trauma**: The realization and guilt associated with consuming that much hair could lead to considerable emotional distress. This situation could evoke feelings of shame, embarrassment, or anxiety about one's habits and health.\n\n3. **Long-term Psychological Impact**: Depending on the circumstances leading to this behavior (e.g., trichotillomania or other psychological issues), there could be significant long-term psychological effects. The individual may have to deal with the ramifications of such behavior psychologically.\n\nGiven these considerations, this story likely carries a high misery rating due to both the physical and emotional trauma involved. \n\nBased on previous ratings and the severity of the situation at hand, I would estimate this story\u2019s rating to be in the range of 70-90, given the severe implications.\n\nFor a 20-point interval, I would estimate the rating to be:\n\n**LOWER LEVEL:** 70  \n**HIGHER LEVEL:** 90  \n\nTherefore, my final answer is {{{70 - 90}}}.",
+    "4_3": "To estimate the index rating for the story \"You Have One Happy Day in 129 Years,\" I will evaluate the various factors that contribute to misery:\n\n1. **Physical Pain**: There may not be direct physical pain associated with this situation, but the emotional and psychological weight of having only one happy day in such a long lifetime may indicate significant overall distress.\n\n2. **Emotional Trauma**: This scenario suggests profound emotional turbulence. Experiencing such a lack of joy or fulfillment over an extensive period can lead to deep emotional suffering and may indicate long-standing issues such as depression or severe loneliness.\n\n3. **Long-term Psychological Impact**: The long-term effects of having only one happy day in a lifetime could be substantial. It might lead to chronic feelings of despair, hopelessness, and a diminished quality of life, suggesting a high level of psychological impact.\n\nGiven these factors, this story likely carries a serious level of misery due to the emotional and psychological implications involved. When considering prior misery ratings, a person with this experience could have a misery rating that reflects significant distress.\n\nI would estimate the misery rating for this story to be in the range of 80-100.\n\nFor a 10-point interval, I would place the rating as:\n\n**LOWER LEVEL:** 80  \n**HIGHER LEVEL:** 90  \n\nThus, my final answer is {{{80 - 90}}}."
+  },
+  "9": {
+    "1_1": "{{{above}}}",
+    "1_2": "{{{below}}}",
+    "2_1": "{{{higher}}}",
+    "2_2": "{{{higher}}}",
+    "3": "{{{45}}}",
+    "4_1": "{{{15 - 45}}}",
+    "4_2": "{{{49 - 69}}}",
+    "4_3": "{{{38 - 48}}}"
+  },
+  "10": {
+    "1_1": "{{{above}}}",
+    "1_2": "{{{below}}}",
+    "2_1": "{{{higher}}}",
+    "2_2": "{{{higher}}}",
+    "3": "{{{42}}}",
+    "4_1": "{{{12 - 42}}}",
+    "4_2": "{{{27 - 47}}}",
+    "4_3": "{{{54 - 64}}}"
+  },
+  "11": {
+    "1_1": "{{{above}}}",
+    "1_2": "{{{above}}}",
+    "2_1": "{{{higher}}}",
+    "2_2": "{{{higher}}}",
+    "3": "{{{75}}}",
+    "4_1": "{{{33 - 63}}}",
+    "4_2": "{{{56 - 76}}}",
+    "4_3": "{{{48 - 58}}}"
+  },
+  "12": {
+    "1_1": "{{{above}}}",
+    "1_2": "{{{above}}}",
+    "2_1": "{{{lower}}}",
+    "2_2": "{{{higher}}}",
+    "3": "{{{45}}}",
+    "4_1": "{{{41 - 71}}}",
+    "4_2": "{{{39 - 59}}}",
+    "4_3": "{{{60 - 70}}}"
+  },
+  "13": {
+    "1_1": "{{{above}}}",
+    "1_2": "{{{below}}}",
+    "2_1": "{{{higher}}}",
+    "2_2": "{{{higher}}}",
+    "3": "{{{47}}}",
+    "4_1": "{{{6 - 36}}}",
+    "4_2": "{{{43 - 63}}}",
+    "4_3": "{{{71 - 81}}}"
+  },
+  "14": {
+    "1_1": "{{{above}}}",
+    "1_2": "{{{below}}}",
+    "2_1": "{{{higher}}}",
+    "2_2": "{{{higher}}}",
+    "3": "{{{50}}}",
+    "4_1": "{{{0 - 30}}}",
+    "4_2": "{{{30 - 50}}}",
+    "4_3": "{{{40 - 50}}}"
+  },
+  "15": {
+    "1_1": "Given the situations, I believe the story of diving into the high dive naked involves potential embarrassment, physical discomfort, and emotional trauma, but it may not have the long-term impact compared to the situations provided. \n\n- Hypothetical 1 (Poison Ivy in Mouth and Throat) has a rating of 68, which indicates significant physical pain.\n- Hypothetical 2 (Dropping Grandma and Chipping Her Tooth) has a rating of 48, which reflects emotional trauma.\n\nThe story of diving into the high dive naked likely falls between these two situations, given that it's a more embarrassing scenario but not one that would involve the same level of sustained pain or trauma as the poison ivy situation. \n\nThus, my final answer is {{{between}}}.",
+    "1_2": "For the story \"You Get Sucked Into the Escalator,\" we need to analyze it in the context of the two hypothetical situations.\n\n- Hypothetical Situation 1 (Poison Ivy in Mouth and Throat) has a rating of 68, indicating a significant level of physical pain.\n- Hypothetical Situation 2 (Dropping Grandma and Chipping Her Tooth) has a rating of 48, reflecting more emotional trauma and less physical pain.\n\nGetting sucked into an escalator could potentially cause severe physical injury and pain, much like the poison ivy situation, which suggests a higher index rating. Given the substantial physical pain involved and the potential for serious injury, I think this story would likely rank above the rating of 48 but may be comparable to or somewhat below the 68 of the poison ivy situation, depending on the severity of the injuries sustained.\n\nThus, my final answer is {{{above}}}.",
+    "2_1": "To analyze the two stories:\n\n- **Story 1** (\"You End Up Drunk & Pantless on a Train\") has a Misery Rating of 57. This scenario involves embarrassment and social trauma, but it may not involve significant physical pain.\n- **Story 2** (\"You Drive Your Scooter into a Sinkhole\") likely involves a sudden and potentially severe physical impact or injury, along with possible emotional and psychological distress from the accident.\n\nConsidering the potential for injury associated with driving into a sinkhole and the likelihood that such an incident would carry a higher level of physical pain and trauma than the drunk and pantless situation, I believe that Story 2 likely has a higher rating.\n\nThus, my final answer is {{{higher}}}.",
+    "2_2": "To evaluate the two stories:\n\n- **Story 1** (\"You Find Human Remains Outside of a Chili's\") has a Misery Rating of 43. This situation likely involves significant emotional trauma and psychological impact due to the shocking nature of discovering human remains.\n- **Story 2** (\"You Accidentally Eat Hash Cake at a Funeral\") may also involve emotional discomfort and social trauma, especially given the setting of a funeral, but the physical effects of consuming hash cake might vary and could be less harmful than the emotional impact associated with the first story.\n\nGiven the serious and potentially long-term psychological impact of finding human remains, it seems likely that Story 1 with a rating of 43 reflects a heavier burden of misery than Story 2. Therefore, I believe Story 2 has a lower rating.\n\nThus, my final answer is {{{lower}}}.",
+    "3": "To determine the misery rating for the story \"You Cause Your Kid to Get Hit by a Car,\" we must consider the intense emotional trauma, potential guilt, and long-term psychological impact on both the child and the parent involved in such a tragic event.\n\n1. **Physical pain**: Depending on the severity of the injury to the child, the physical pain could also be significant.\n2. **Emotional trauma**: The emotional weight of causing harm to one's own child would be extremely heavy and could lead to long-term psychological consequences.\n3. **Long-term psychological impact**: The guilt and grief from this incident could impact the parent's mental health and well-being for years.\n\nGiven all these factors, I would rate this story quite high on the misery scale, likely between 85 and 95. Based on my analysis and intuition, I'll estimate the rating.\n\nThus, my final answer is {{{90}}}.",
+    "4_1": "To evaluate the story \"Your Towed Car Rolls into Pool,\" we need to establish a likely misery rating based on comparable stories.\n\nGiven the context, this scenario involves both potential embarrassment and some degree of physical damage (to the car and property), but isn't likely to involve severe physical pain or long-term psychological trauma. \n\nWe have no specific ratings from prior stories to anchor this, so I will make an estimation. I'll assume a possible rating could lie in the range of 40 to 70 based on common experiences associated with such a mishap (as something embarrassing that could certainly be frustrating, but not deeply traumatic).\n\nTherefore, considering the 30-point margin, I will estimate the interval as follows: \n\nThus, my final answer is {{{40 - 70}}}.",
+    "4_2": "To assess the story \"Boiling Butter Poured Down Your Butt and you got burnt,\" we need to consider the significant pain and trauma associated with burns. \n\n1. **Physical pain**: Burns, especially from boiling substances, can cause severe and intense pain. Given the nature of the injury, I would expect a high rating based on physical pain alone.\n2. **Emotional trauma**: There may also be some embarrassment or emotional distress associated with such an incident, but the physical pain would likely overshadow this.\n3. **Long-term psychological impact**: Depending on the severity of the burns, there could be lasting psychological effects or scarring which adds to the rating.\n\nBurns from boiling substances are generally rated quite high for misery, often in the range of 70 to 90 based on similar narratives or medical assessments of pain severity.\n\nConsidering the interval of 20 for the margin, I would estimate the misery rating for this incident to be within 70 to 90 based on the factors mentioned.\n\nThus, my final answer is {{{70 - 90}}}.",
+    "4_3": "To evaluate the story \"You Find a Clown in Your Bedroom,\" we need to consider the potential feelings of fear, anxiety, and psychological impact associated with encountering a clown unexpectedly. \n\n1. **Physical pain**: There is likely no physical pain involved unless the situation escalates in some unexpected way. However, the focus here seems more on fear and psychological effects.\n2. **Emotional trauma**: For many, clowns can evoke fear or discomfort (coulrophobia), which could lead to significant emotional trauma. The context of finding a clown in a personal space like a bedroom further amplifies the fear and unease.\n3. **Long-term psychological impact**: While some might have a fleeting experience of fear, for others it might result in lasting anxiety or fear of clowns (coulrophobia), but this would be highly subjective.\n\nConsidering these factors, I would estimate the misery rating for this story to be on the lower side of the scale since it's more about fear than physical pain. Based on typical responses to such situations, I would expect a rating near the range of 30 to 50.\n\nGiven that we need to estimate within a margin of 10, I would choose a narrower interval based on these estimates.\n\nThus, my final answer is {{{30 - 40}}}."
+  },
+  "16": {
+    "1_1": "{{{between}}}",
+    "1_2": "{{{above}}}",
+    "2_1": "{{{higher}}}",
+    "2_2": "{{{lower}}}",
+    "3": "{{{85}}}",
+    "4_1": "{{{20 - 50}}}",
+    "4_2": "{{{40 - 60}}}",
+    "4_3": "{{{70 - 80}}}"
+  },
+  "17": {
+    "1_1": "{{{between}}}",
+    "1_2": "{{{below}}}",
+    "2_1": "{{{higher}}}",
+    "2_2": "{{{higher}}}",
+    "3": "{{{58}}}",
+    "4_1": "{{{10 - 40}}}",
+    "4_2": "{{{30 - 50}}}",
+    "4_3": "{{{40 - 50}}}"
+  },
+  "18": {
+    "1_1": "{{{below}}}",
+    "1_2": "{{{below}}}",
+    "2_1": "{{{higher}}}",
+    "2_2": "{{{higher}}}",
+    "3": "{{{75}}}",
+    "4_1": "{{{19 - 49}}}",
+    "4_2": "{{{66 - 86}}}",
+    "4_3": "{{{35 - 45}}}"
+  },
+  "19": {
+    "1_1": "{{{above}}}",
+    "1_2": "{{{below}}}",
+    "2_1": "{{{higher}}}",
+    "2_2": "{{{higher}}}",
+    "3": "{{{40}}}",
+    "4_1": "{{{20 - 50}}}",
+    "4_2": "{{{60 - 80}}}",
+    "4_3": "{{{45 - 55}}}"
+  },
+  "20": {
+    "1_1": "Given the context of the story \"A Woman Gives Birth In Your Cab,\" it is likely to involve significant emotional trauma and perhaps some physical discomfort for the woman giving birth and for the cab driver. \n\nComparing it to the two hypothetical situations:\n- \"Hairdresser Sneezes and Gives You Bangs\" has a misery rating of 44, which although inconvenient, is relatively minor.\n- \"Your Child Joins an A Cappella Group\" has a lower rating of 20, suggesting it's a more benign situation.\n\nConsidering childbirth can be a serious and impactful event with both physical pain and emotional trauma, this story would likely fall above the given misery rating of 44.\n\nFinal answer: {{{above}}}",
+    "1_2": "In evaluating the story \"You Faint During Your Friend's Wedding,\" we can consider the potential emotional trauma and physical symptoms associated with fainting.\n\nComparing it to the hypothetical situations:\n- \"Hairdresser Sneezes and Gives You Bangs\" has a misery rating of 44, which denotes a relatively minor inconvenience.\n- \"Your Child Joins an A Cappella Group\" has a lower misery rating of 20, indicating this situation is likely insignificant in terms of distress.\n\nFainting at a friend's wedding could cause embarrassment and distress, but the overall impact seems less severe than giving birth and falls significantly below the situation with the hairdresser. Given that the rating for the story is likely not severe, it seems plausible to conclude that the story falls below 44.\n\nFinal answer: {{{below}}}",
+    "2_1": "In considering the two stories:\n\n1. \"Your Home is Trashed in a Drug-Fueled Orgy\" has a misery rating of 73, which implies a high level of disturbance and potential emotional and physical fallout from the situation.\n2. \"Your Anger Management Classmate Stabs You\" suggests a serious violent act that would likely involve significant physical pain, emotional trauma, and long-term psychological impact.\n\nGiven the severity of being stabbed, it can be reasonably inferred that this situation would likely have a higher misery rating than a home being trashed in an orgy, which is more situational than personal.\n\nFinal answer: {{{higher}}}",
+    "2_2": "To evaluate the two stories:\n\n1. \"You are caught after Falling Asleep During Sex in Public in a university hallway\" has a misery rating of 52. This situation likely involves embarrassment and social humiliation, but it may not carry long-term psychological effects unless it leads to serious social repercussions.\n\n2. \"Dad Steals Your Girl Scout Cookie Money for an Erotic Massage\" suggests betrayal and emotional trauma from a parent, which can have significant long-term psychological impacts, especially if it affects trust and familial relationships.\n\nGiven the emotional fallout from being betrayed by a parent, I would infer that the second story likely has a higher misery rating than the first.\n\nFinal answer: {{{higher}}}",
+    "3": "To estimate the misery rating of the story \"A Creepy Stranger Watches You Workout,\" we need to consider the potential emotional trauma, feelings of discomfort, and any long-term psychological impacts associated with the scenario. This situation could lead to feelings of vulnerability, embarrassment, or anxiety, but it may not carry the same level of intensity as more serious scenarios involving physical pain or extreme emotional distress.\n\nGiven these considerations, I would estimate the misery rating to be moderate. \n\nFinal answer: {{{45}}}",
+    "4_1": "To assess the story \"You Get Bitten by a Snake While Sleeping,\" we can analyze the potential physical pain associated with a snake bite, as well as the emotional trauma from such an unexpected and frightening experience.\n\nGiven the nature of snake bites, they can often lead to significant physical pain and possible long-term psychological effects due to the fear and trauma associated with the incident. However, without severe complications or fatalities, the misery rating might not reach the extreme levels.\n\nTo determine the interval for the rating, we will consider a moderate level of severity for the snake bite, possibly leading to a rating in the range of 40 to 70.\n\nFinal answer: {{{40 - 70}}}",
+    "4_2": "In analyzing the story \"Your Car is Dragged for Miles,\" we can consider the potential physical damage to the car and the emotional trauma experienced during such a frightening and dangerous incident. This situation might lead to feelings of helplessness and distress, particularly if there are serious repercussions for the safety of the individual involved.\n\nTypically, an event that involves one's car being dragged could result in major physical damage to the vehicle and possibly injuries to its occupants, leading to an increased misery rating.\n\nI would estimate the misery rating for this scenario to be significant but not at the extreme levels. Therefore, I will assess a reasonable interval for the rating to be between 50 and 90.\n\nFinal answer: {{{50 - 90}}}",
+    "4_3": "To evaluate the story \"You are a doctor who Sucks Out a Passenger's Urine for 37 Minutes Mid-Flight to save his life,\" we need to consider the physical pain endured by the patient, the emotional stress and trauma experienced by both the passenger and the doctor, and the long-term psychological impact of such a high-stakes medical situation.\n\nThis anecdote likely involves significant distress given the urgency of the medical situation and the critical nature of saving a life. Additionally, it could cause lasting psychological effects on the doctor due to the gravity of the situation.\n\nGiven these factors, I would estimate a high misery rating for this scenario. Therefore, I would assess a reasonable interval for the misery rating to be between 70 and 90.\n\nFinal answer: {{{70 - 90}}}"
+  },
+  "21": {
+    "1_1": "{{{between}}}",
+    "1_2": "{{{above}}}",
+    "2_1": "{{{higher}}}",
+    "2_2": "{{{higher}}}",
+    "3": "{{{85}}}",
+    "4_1": "{{{18 - 48}}}",
+    "4_2": "{{{54 - 74}}}",
+    "4_3": "{{{54 - 64}}}"
+  },
+  "22": {
+    "1_1": "{{{above}}}",
+    "1_2": "{{{below}}}",
+    "2_1": "{{{higher}}}",
+    "2_2": "{{{higher}}}",
+    "3": "{{{75}}}",
+    "4_1": "{{{41 - 71}}}",
+    "4_2": "{{{37 - 57}}}",
+    "4_3": "{{{18 - 28}}}"
+  },
+  "23": {
+    "1_1": "Given the situations you've provided, the snake bite seems to involve significant physical pain and potential long-term psychological effects, which could place its misery rating higher than the situation where someone's feet appear on a fetish website, but possibly lower than the 58 rating of a glass thermometer shattering in someone's mouth. Therefore, I would place this story as falling between the two situations.\n\nMy final answer is {{{between}}}.",
+    "1_2": "Considering the two hypothetical situations, passing out on live TV would likely cause significant embarrassment and emotional trauma, possibly rated higher than the situation involving feet on a fetish website. However, it may not exceed the degree of misery associated with a glass thermometer shattering in one's mouth, which involves direct physical pain. I would assess this story to be between the two situations.\n\nMy final answer is {{{between}}}.",
+    "2_1": "Both stories involve significant emotional trauma and long-term psychological impact. However, being trapped in a coma for 12 years seems to suggest an overwhelmingly greater level of misery due to the extreme deprivation of conscious experience and quality of life, which likely ranks it higher than the bizarre form of amnesia experienced after dental treatment. \n\nTherefore, my final answer is {{{higher}}}.",
+    "2_2": "In comparing the two stories, being addicted to cat fur could cause emotional distress, but it does not seem as immediately painful or distressing as having an octopus stuck on your face, which likely causes significant physical pain and potential embarrassment. Therefore, I would anticipate that the octopus scenario has a higher misery rating.\n\nMy final answer is {{{higher}}}.",
+    "3": "Considering the potential for intense fear, emotional trauma, and the pressure of being forced to do something as extreme as skydiving, I would estimate the misery rating to be relatively high but not at the top end of the scale. Given these factors, I would guess the rating for this story is around 70.\n\nMy final answer is {{{70}}}.",
+    "4_1": "Given the extraordinary circumstances of a woman having 44 kids by age 36, I can foresee significant emotional trauma and potential long-term psychological effects from such an overwhelming responsibility. I would estimate that the misery rating for this story may be higher due to the stress and challenges posed by this situation. \n\nTaking into consideration the margin of error of 30 points, I would estimate the misery rating somewhere between 50 and 80. \n\nMy final answer is {{{50 - 80}}}.",
+    "4_2": "Considering the scenario where a bus breaks in half while someone is standing in the back, there could be significant physical danger, potential injury, and emotional trauma associated with such an unexpected and alarming event. Given the level of misery this situation entails and the margin of error of 20 points, I would estimate the misery rating to be between 50 and 70.\n\nMy final answer is {{{50 - 70}}}.",
+    "4_3": "Considering the extremely painful and potentially traumatic scenario of having a fork in one's penis that requires surgical removal, this situation likely involves significant physical pain, emotional trauma, and long-term psychological impact. Given the severity of the situation and the margin of error of 10 points, I would estimate the misery rating to be quite high. Therefore, I would suggest a range between 80 and 90.\n\nMy final answer is {{{80 - 90}}}."
+  },
+  "24": {
+    "1_1": "{{{above}}}",
+    "1_2": "{{{below}}}",
+    "2_1": "{{{higher}}}",
+    "2_2": "{{{lower}}}",
+    "3": "{{{45}}}",
+    "4_1": "{{{20 - 50}}}",
+    "4_2": "{{{60 - 80}}}",
+    "4_3": "{{{30 - 40}}}"
+  },
+  "25": {
+    "1_1": "Based on the comparison between the hypothetical situations, we have:\n\n- Hypothetical Situation 1: Your Nose Job Gets Botched (Rating = 75)\n- Hypothetical Situation 2: You Are the Ugly Twin (Rating = 51)\n\nThe given story involves emotional trauma related to your daughter's inability to form healthy romantic relationships, which could indicate significant emotional distress but may not be as physically painful or traumatic as the botched nose job. \n\nConsidering these factors, I would assess that the story likely falls between the two situations.\n\nFinal answer: {{{between}}}",
+    "1_2": "To evaluate the story \"You're Thrown From a Carnival Ride,\" I will compare it to the two hypothetical situations:\n\n- Hypothetical Situation 1: Your Nose Job Gets Botched (Rating = 75)\n- Hypothetical Situation 2: You Are the Ugly Twin (Rating = 51)\n\nThe story about being thrown from a carnival ride likely involves a significant level of physical pain and the potential for emotional trauma, possibly more than the emotional distress of being an ugly twin but perhaps less than the severity of a botched surgery, which could involve long-term consequences.\n\nConsidering this, I believe the story likely falls below the botched nose job rating but above the situation of being the ugly twin.\n\nFinal answer: {{{between}}}",
+    "2_1": "To evaluate the two stories for Round 2:\n\n- Story 1: You caught your husband having sex with your identical twin (Misery Rating = 59) involves significant emotional trauma, betrayal, and potential long-term psychological impact.\n- Story 2: Whoops! You accidentally shoot your mother-in-law with a bullet after shooting at an armadillo likely involves a severe incident of physical trauma and may also have emotional consequences, but it could be perceived as less emotionally traumatic than the betrayal experienced in Story 1.\n\nConsidering these factors, I believe Story 2 may not have a higher rating given the intensity of the emotional trauma in Story 1.\n\nFinal answer: {{{lower}}}",
+    "2_2": "To evaluate the two stories for this question:\n\n- Story 1: You farted during surgery to set the operating room on fire (Misery Rating = 66) likely involves a combination of embarrassment and the potential for serious consequences if harm was done during surgery, which could carry both physical and psychological implications.\n  \n- Story 2: Your audible fart gave away your hiding place (when you are a suspect) which led to your arrest seems to be mostly a humorous yet embarrassing scenario. The consequences could involve legal repercussions, but it may be seen as less severe than the repercussions of causing a fire in a surgery room.\n\nConsidering the intensity of the scenarios, I believe that Story 2 is likely to have a lower rating compared to the embarrassment and potential danger involved in Story 1.\n\nFinal answer: {{{lower}}}",
+    "3": "To assess the misery rating for the story \"Your Best Friend Marries Your Sister,\" I consider the emotional trauma and psychological impact involved. \n\nThis situation likely involves feelings of betrayal, jealousy, and loss, as it affects both personal relationships and the dynamics between family and friendship. Given those significant emotional implications, I would estimate that the misery rating for this story is quite high, likely above 70.\n\nFinal answer: {{{75}}}",
+    "4_1": "To evaluate the story \"You Cliff Dive Into a Boat,\" I need to assess the potential injuries and emotional traumas that could result from such an activity. Cliff diving in general can be dangerous, and if it results in hitting a boat, it could lead to serious injuries.\n\nSince I do not have a specific misery rating for this story, I will estimate its possible range. Based on similar situations and their seriousness, I would likely place the misery rating within a range that is on the higher end due to the high risk of physical injury involved.\n\nGiven the potential severity of injuries and the emotional trauma, I will estimate the rating to fall between 50 and 80.\n\nFinal answer: {{{50 - 80}}}",
+    "4_2": "To evaluate the story \"You reported not many rattlesnakes under your home but a removal company found 45,\" I will consider the emotional and psychological impacts of discovering a large number of rattlesnakes in your living environment. The potential for fear, anxiety, and the financial burden of removal would contribute to the misery rating.\n\nGiven the shock of the situation and the possible dangers involved, I would estimate that this situation could have a moderate to high misery rating, but I believe it is unlikely to reach the most extreme levels of misery due to the eventual resolution (having the snakes removed).\n\nI would place the estimated misery rating in a range that reflects a significant level of discomfort and fear, perhaps from about 45 to 65.\n\nFinal answer: {{{45 - 65}}}",
+    "4_3": "To evaluate the story \"You Get Trapped in a Car Wash,\" I will consider the potential psychological impacts of feeling trapped, the fear that may arise during the incident, and the physical aspects of being in a car wash environment.\n\nBeing trapped could cause significant anxiety and a sense of helplessness, but it is unlikely to result in severe physical harm. However, the emotional distress from the fear of the situation may still score it moderately on the misery scale.\n\nConsidering these factors, I would estimate the misery rating to fall within the lower to moderate range. Hence, I would estimate a range of 40 to 50.\n\nFinal answer: {{{40 - 50}}}"
+  },
+  "26": {
+    "1_1": "{{{between}}}",
+    "1_2": "{{{above}}}",
+    "2_1": "{{{lower}}}",
+    "2_2": "{{{higher}}}",
+    "3": "{{{55}}}",
+    "4_1": "{{{43 - 73}}}",
+    "4_2": "{{{60 - 80}}}",
+    "4_3": "{{{40 - 50}}}"
+  },
+  "27": {
+    "1_1": "{{{above}}}",
+    "1_2": "{{{below}}}",
+    "2_1": "{{{higher}}}",
+    "2_2": "{{{higher}}}",
+    "3": "{{{72}}}",
+    "4_1": "{{{25 - 55}}}",
+    "4_2": "{{{25 - 45}}}",
+    "4_3": "{{{55 - 65}}}"
+  },
+  "28": {
+    "1_1": "{{{between}}}",
+    "1_2": "{{{below}}}",
+    "2_1": "{{{lower}}}",
+    "2_2": "{{{higher}}}",
+    "3": "{{{45}}}",
+    "4_1": "{{{22 - 52}}}",
+    "4_2": "{{{32 - 52}}}",
+    "4_3": "{{{55 - 65}}}"
+  },
+  "29": {
+    "1_1": "{{{above}}}",
+    "1_2": "{{{below}}}",
+    "2_1": "{{{higher}}}",
+    "2_2": "{{{higher}}}",
+    "3": "{{{54}}}",
+    "4_1": "{{{15 - 45}}}",
+    "4_2": "{{{25 - 45}}}",
+    "4_3": "{{{39 - 49}}}"
+  },
+  "30": {
+    "1_1": "{{{above}}}",
+    "1_2": "{{{below}}}",
+    "2_1": "{{{lower}}}",
+    "2_2": "{{{higher}}}",
+    "3": "{{{45}}}",
+    "4_1": "{{{11 - 41}}}",
+    "4_2": "{{{28 - 48}}}",
+    "4_3": "{{{56 - 66}}}"
+  },
+  "31": {
+    "1_1": "{{{above}}}",
+    "1_2": "{{{below}}}",
+    "2_1": "{{{higher}}}",
+    "2_2": "{{{higher}}}",
+    "3": "{{{55}}}",
+    "4_1": "{{{25 - 55}}}",
+    "4_2": "{{{40 - 60}}}",
+    "4_3": "{{{30 - 40}}}"
+  },
+  "32": {
+    "1_1": "Given the context of the ratings and the nature of the stories, I would place \"Your Son has sex with His Car\" as more miserable than the proctologist incident but less miserable than the wife cheating with the weatherman. \n\nThus, I believe the story falls between the two hypothetical situations.\n\nMy final answer is {{{between}}}.",
+    "1_2": "To analyze \"Your Bump N' Grind Burns You,\" I consider the ratings and the nature of the misery in comparison to the two hypothetical situations. \n\n- The first situation, \"Proctologist Tells You They Love You,\" has a rating of 36.\n- The second situation, \"Your Wife Is having sex with the Weatherman,\" has a rating of 75.\n\nWith these in mind, \"Your Bump N' Grind Burns You\" likely relates to a more physical and perhaps painfully humorous context, possibly involved with a higher rate of misery than the proctologist incident, but the degree of emotional trauma might not be as high as infidelity.\n\nAfter considering the nature of the stories, I would place \"Your Bump N' Grind Burns You\" above the first situation (36) but likely below the second situation (75).\n\nThus, my final answer is {{{between}}}.",
+    "2_1": "To compare the misery ratings of the two stories, I will consider their contexts:\n\n- **Story 1**: \"Your Head Gets Stuck in Stair Railing Mid-Railing after you tried to spice things up\" has a Misery Rating of 60, which likely indicates a funny but physically humorous situation with some level of embarrassment and discomfort.\n  \n- **Story 2**: \"You mistakenly became a getaway driver after a first date ended with a bank robbery\" seems to present a much more serious situation involving crime, potential legal consequences, and the emotional trauma of such an experience.\n\nGiven the serious nature of Story 2 versus the relatively light-hearted nature of Story 1, I would deduce that Story 2 likely has a higher misery rating due to the emotional and psychological implications of being involved in a robbery.\n\nThus, my final answer is {{{higher}}}.",
+    "2_2": "To compare the misery ratings of the two stories, I will analyze their contexts:\n\n- **Story 1**: \"Your Boyfriend Slept with Your Mom while on his way to meeting her\" carries a Misery Rating of 66. This scenario combines significant emotional trauma, betrayal, and the potential for long-term psychological impact stemming from familial relationships.\n  \n- **Story 2**: \"Your Son is Dating a Cockroach for a year\" presents a more absurd and humorous situation, which likely lessens the emotional and psychological weight compared to Story 1, even though it could still be viewed as socially awkward or distressing.\n\nConsidering the severe emotional implications of Story 1 versus the lighter-hearted absurdity of Story 2, it is reasonable to conclude that Story 1 likely has a higher misery rating.\n\nThus, my final answer is {{{lower}}}.",
+    "3": "To estimate the misery rating for the story \"An Entire Stadium of People Hates You,\" I will consider the social implications and psychological impact of such a scenario. \n\nBeing hated by a large group of people can lead to significant emotional trauma, feelings of isolation, shame, and long-term psychological consequences like anxiety or depression. \n\nTaking these factors into account, I would rate this scenario quite high on the misery scale, likely in the range of 80 to 90.\n\nAfter careful consideration, my final answer is {{{85}}}.",
+    "4_1": "To estimate the rating for \"Your Pastor is Caught Having Sexy-Time,\" I will consider the potential social and emotional ramifications involved in such a scenario. This situation could likely evoke a range of reactions including scandal, embarrassment, and betrayal, especially considering the religious context.\n\nGiven the nature of other stories, I would place the rating somewhere in the mid-range, likely around 50 (with a possible margin that reflects the emotional impact and societal context). Thus, if I estimate the rating to be around 50, with the specified margin of 30, I will calculate the interval:\n\n- **LOWER LEVEL**: 50 - 30 = 20\n- **HIGHER LEVEL**: 50 + 30 = 80\n\nThus, my final answer is {{{20 - 80}}}.",
+    "4_2": "To estimate the rating for \"Your Husband Virtually Kills You,\" I will consider the implications of such a situation. This scenario suggests a significant emotional and psychological impact, as it involves betrayal, feelings of insecurity, and potential long-term effects on mental health. Given the severity of the situation, I would estimate the rating to be high.\n\nTaking into account similar stories and the emotional weight of this narrative, I would place the rating around 75. With the specified margin of 20, I will calculate the interval:\n\n- **LOWER LEVEL**: 75 - 20 = 55\n- **HIGHER LEVEL**: 75 + 20 = 95\n\nThus, my final answer is {{{55 - 95}}}.",
+    "4_3": "To estimate the rating for the story \"You fell into water & inadvertently got kicked in the face after trying to propose to your girlfriend while she was on a motorboat,\" I will take into account the circumstances surrounding the event. \n\nThis scenario suggests a humorous mishap that involves physical pain from being kicked in the face as well as emotional embarrassment from the failed proposal attempt. While there may be initial emotional trauma, the overall situation seems more comical than severely miserable.\n\nGiven these factors, I would estimate the rating to be around 40. With the specified margin of 10, I will calculate the interval:\n\n- **LOWER LEVEL**: 40 - 10 = 30\n- **HIGHER LEVEL**: 40 + 10 = 50\n\nThus, my final answer is {{{30 - 50}}}."
+  },
+  "33": {
+    "1_1": "{{{above}}}",
+    "1_2": "{{{below}}}",
+    "2_1": "{{{higher}}}",
+    "2_2": "{{{higher}}}",
+    "3": "{{{55}}}",
+    "4_1": "{{{14 - 44}}}",
+    "4_2": "{{{39 - 59}}}",
+    "4_3": "{{{26 - 36}}}"
+  },
+  "34": {
+    "1_1": "{{{between}}}",
+    "1_2": "{{{below}}}",
+    "2_1": "{{{lower}}}",
+    "2_2": "{{{higher}}}",
+    "3": "{{{85}}}",
+    "4_1": "{{{17 - 47}}}",
+    "4_2": "{{{41 - 61}}}",
+    "4_3": "{{{66 - 76}}}"
+  },
+  "35": {
+    "1_1": "{{{between}}}",
+    "1_2": "{{{above}}}",
+    "2_1": "{{{higher}}}",
+    "2_2": "{{{lower}}}",
+    "3": "{{{45}}}",
+    "4_1": "{{{1 - 31}}}",
+    "4_2": "{{{50 - 70}}}",
+    "4_3": "{{{60 - 70}}}"
+  },
+  "36": {
+    "1_1": "{{{above}}}",
+    "1_2": "{{{below}}}",
+    "2_1": "{{{higher}}}",
+    "2_2": "{{{higher}}}",
+    "3": "{{{65}}}",
+    "4_1": "{{{19 - 49}}}",
+    "4_2": "{{{39 - 59}}}",
+    "4_3": "{{{71 - 81}}}"
+  },
+  "37": {
+    "1_1": "{{{above}}}",
+    "1_2": "{{{below}}}",
+    "2_1": "{{{lower}}}",
+    "2_2": "{{{higher}}}",
+    "3": "{{{55}}}",
+    "4_1": "{{{50 - 80}}}",
+    "4_2": "{{{40 - 60}}}",
+    "4_3": "{{{80 - 90}}}"
+  },
+  "38": {
+    "1_1": "{{{above}}}",
+    "1_2": "{{{below}}}",
+    "2_1": "{{{higher}}}",
+    "2_2": "{{{lower}}}",
+    "3": "{{{50}}}",
+    "4_1": "{{{30 - 60}}}",
+    "4_2": "{{{40 - 60}}}",
+    "4_3": "{{{40 - 50}}}"
+  },
+  "39": {
+    "1_1": "Given the situations, I would say that being crushed by rolling logs is a significant physical pain that likely surpasses the emotional trauma of a spouse having another family and is likely more miserable than simply being forgotten at a high school reunion. \n\nI believe this story falls above Hypothetical Situation 1 (82) because of the severity of the physical pain involved.\n\nSo, my final answer is {{{above}}}.",
+    "1_2": "Considering the context of the two hypothetical situations, the story about a product falling during an infomercial likely represents a more humorous, embarrassing scenario rather than a deeply distressing one. \n\nHypothetical Situation 1 (Surprise! Your Spouse Has Another Family, Rating = 82) involves significant emotional trauma, while Hypothetical Situation 2 (No One Remembers You at HS Reunion, Rating = 47) involves social anxiety and a sense of worthlessness.\n\nI would argue that this story about a product falling is less impactful emotionally than either of the two situations. Therefore, I believe this story falls below both situations.\n\nSo, my final answer is {{{below}}}.",
+    "2_1": "To determine which story has a higher rating, I need to consider the severity of both situations.\n\nStory 1 involves a heart attack, which is a serious medical emergency that could have significant physical pain and emotional trauma associated with it, especially in the context of a sex festival.\n\nStory 2 involves a rather bizarre and painful situation, potentially leading to psychological embarrassment and trauma, but it doesn't reflect a life-threatening scenario like a heart attack.\n\nGiven that Story 1 relates to a heart attack, which is typically rated higher on the misery scale due to its serious nature, I believe that Story 1 has a higher rating than Story 2.\n\nThus, my final answer is {{{lower}}}.",
+    "2_2": "To assess which story has a higher rating, I\u2019ll evaluate both situations carefully.\n\nStory 1 involves being arrested for a relatively humorous and low-stakes situation of throwing beer cans out of a horse buggy while drunk, which likely indicates some level of embarrassment but minimal lasting emotional damage, leading to a Misery Rating of 57.\n\nStory 2 describes a scenario where someone\u2019s car gets stolen along with them. This situation could involve significant emotional distress due to the violation of personal space and safety, especially if it leads to a traumatic experience during the theft.\n\nConsidering the immediate emotional trauma and potential psychological impact of being stolen along with a car, I would conclude that Story 2 is likely to have a higher misery rating than Story 1.\n\nSo, my final answer is {{{higher}}}.",
+    "3": "To evaluate the misery rating for the story \"You Have to Search for car keys through Elephant poop,\" I consider both the physical discomfort and the emotional distress this situation might entail. \n\nSearching through elephant poop is not just physically unpleasant but can also evoke feelings of frustration, disgust, and perhaps embarrassment. However, it lacks the severe physical pain and long-term trauma associated with many higher-rated scenarios.\n\nTaking into account the humorous aspect of the situation and the discomfort involved, I would estimate that this story likely falls in the moderate range of misery ratings. \n\nI would place the rating around 55.\n\nSo, my final answer is {{{55}}}.",
+    "4_1": "To estimate the misery rating for the story \"Your Workout Doesn't Work Out and is a failure,\" I consider the emotional impact of personal fitness goals not being met. This scenario might lead to feelings of disappointment, frustration, and low self-esteem, but it generally does not imply severe physical pain or long-term psychological trauma.\n\nGiven that the situation is likely to be distressing but not extremely miserable in comparison to more serious stories, I estimate the misery rating is on the lower end of the scale.\n\nIf I assume the rating might be around the lower to moderate range, I think it might fall between approximately 30 and 60.\n\nThus, my final answer (covering a range of 30 points) would be {{{30 - 60}}}.",
+    "4_2": "For the story \"You attempted to steal bus petrol but instead siphoned raw sewage,\" I will assess the emotional and physical implications of this situation. \n\nAttempting to siphon petrol and accidentally siphoning raw sewage likely involves feelings of disgust, embarrassment, and perhaps some level of physical discomfort from the sewage. However, it does not indicate serious physical pain or long-term psychological trauma. The situation could certainly impact one's self-esteem and lead to social embarrassment.\n\nGiven these factors, I would estimate the misery rating to be in the lower to moderate range. Taking into account that this scenario is certainly unpleasant but not extremely miserable, I believe the rating might fall between approximately 40 and 60.\n\nAs such, my final answer (covering a range of 20 points) would be {{{40 - 60}}}.",
+    "4_3": "To evaluate the story \"You survived being put through a woodchipper,\" I need to consider the severity and implications of this situation. Surviving such an ordeal would involve extreme physical pain and trauma, which makes it one of the more serious and impactful experiences one can endure. \n\nThe psychological impact of such a survival would likely also be significant, leading to long-lasting emotional and mental health issues. Given the extreme nature of this experience, I would anticipate the misery rating to be very high.\n\nEstimating the rating for such a horrific situation, I would place it in the higher range. I would say a reasonable range considering the intensity of the experience might be 90 to 100.\n\nSo, my final answer would be {{{90 - 100}}}."
+  }
+}

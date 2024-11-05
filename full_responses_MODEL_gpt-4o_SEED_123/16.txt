@@ -1,0 +1,144 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: You Sit Next to the Bathroom on a 14-Hour Flight. Misery Rating = 28
+## Hypothetical Situation 2: You Get Stuck in a Meat Locker. Misery Rating = 67
+## Story: An Elephant Hits You in the Face
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Given the story involves an elephant hitting you in the face, this situation is likely to involve significant physical pain and potentially some emotional trauma, especially compared to the hypothetical situations. Sitting next to the bathroom on a 14-hour flight involves discomfort but little physical danger, while getting stuck in a meat locker involves potential physical harm and fear but not direct physical trauma from an impact.
+
+Considering these factors, the story of being hit by an elephant seems likely to have a greater immediate physical impact than being stuck in a meat locker, but likely less than a serious injury or life-threatening situation.
+
+Based on the "Three Pillars of Misery" — physical pain, emotional trauma, and long-term psychological impact — it appears this story would fit broadly within the 28 to 67 range, given its nature. Therefore, the story would most likely fall closer to the higher end but not surpassing extremely severe cases, suggesting it falls between the two hypothetical situations.
+
+My final answer is {{{between}}}.
+
+Host: You are CORRECT! The rating for the story was 45. Let's go to the next question. 
+## Story: You Base Jump Into a Cliff
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Base jumping into a cliff is likely to involve significant physical pain, emotional trauma, and potentially severe long-term psychological impact. This situation is much more serious and life-threatening compared to both hypothetical situations provided.
+
+Sitting next to the bathroom on a 14-hour flight (rating 28) is mainly uncomfortable and mildly distressing, while getting stuck in a meat locker (rating 67) involves fear and some physical danger but not an immediate severe injury.
+
+Given that base jumping into a cliff involves a high likelihood of severe injury or even fatality, the misery index is likely well above both hypothetical situations. 
+
+Therefore, I would conclude that the story falls significantly above the two hypothetical situations.
+
+My final answer is {{{above}}}.
+
+Host: You are CORRECT! The rating for the story was 73. Let's start the Round 2, More or Less Miserable.
+## Story 1: Your Mom Talks About Anal. Misery Rating = 38
+## Story 2: Your Dad is Sleeping With a Sex Doll
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Both stories involve discomfort and potential embarrassment, but we need to weigh the specific elements of each situation.
+
+Story 1, "Your Mom Talks About Anal," likely involves significant emotional discomfort and embarrassment due to the sensitive nature of the topic and the involvement of a parent. This results in a moderate misery rating of 38.
+
+Story 2, "Your Dad is Sleeping With a Sex Doll," could involve a higher level of embarrassment, potential emotional trauma, and maybe long-term psychological impact, especially if it affects the perception of parental relationships.
+
+Considering these factors, Story 2 seems to have the potential for a higher misery rating compared to Story 1 due to the added layers of emotional impact and potential long-term psychological consequences.
+
+So, I would conclude that Story 2 is likely to have a higher misery index rating than Story 1.
+
+My final answer is {{{higher}}}.
+
+Host: You are CORRECT! The rating for the story was 39. Let's go to the next question.
+## Story 1: Doctors plucked an active inch-long parasitic worm From Your Eye. Misery Rating = 70
+## Story 2: You Cough Up a Lung-Shaped Blood Clot
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Both stories involve significant physical discomfort and potentially severe health implications, but let's analyze the specific elements of each situation.
+
+Story 1, "Doctors plucked an active inch-long parasitic worm from your eye," involves intense physical pain, a high degree of emotional trauma, and long-term psychological distress. Having a live parasite in your eye and undergoing the removal process is a particularly traumatic experience, leading to a high misery rating of 70.
+
+Story 2, "You cough up a lung-shaped blood clot," suggests severe health concerns that are immediately alarming and distressing. Coughing up a blood clot could indicate a serious medical condition, leading to significant fear and potential panic. However, the overall misery might involve less direct physical pain than having a worm removed from your eye but could lead to more severe implications if it signals a serious underlying health condition.
+
+While both stories are highly distressing, the physical and psychological trauma of having a parasitic worm removed from your eye seems slightly more intimate and immediate compared to coughing up a blood clot, which is alarming but may not result in continuous distress at the same level.
+
+Given the immediate grossness and trauma involved with Story 1, I would conclude that Story 2 is likely to have a lower misery index rating than Story 1.
+
+My final answer is {{{lower}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 79. Let's start the Round 3, Master of Misery.
+## Story: You're Hit Repeatedly With a Baseball Bat as a pinata
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: Being hit repeatedly with a baseball bat like a piñata is an extremely severe situation. It entails significant physical pain, potential for serious injuries, and intense emotional trauma. The long-term psychological impact could be substantial due to the violent nature of the event.
+
+Considering the "Three Pillars of Misery" — physical pain, emotional trauma, and long-term psychological impact — this would rank quite high on the misery index. Such an incident would likely exceed the trauma associated with the previously discussed horrific scenarios due to its life-threatening nature and brutality.
+
+Taking into account the context and severity, I would estimate the misery rating to be quite high, likely above the previously mentioned scenarios.
+
+My final answer is {{{90}}}.
+
+Host: The rating for the story was 50. You were off by 40 points! Let's start the Bonus Round, Margin of Misery.
+## Story: You Keep Getting Dropped From a Stretcher during a soccer match
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Being repeatedly dropped from a stretcher during a soccer match involves substantial physical discomfort and potential for injury, as well as emotional distress due to the public embarrassment and fear of being further harmed. However, it might not be as severe as life-threatening situations or those causing long-term psychological impact.
+
+Based on the concept of the "Three Pillars of Misery," I would estimate that this event rates somewhere above mild discomfort but below extreme trauma. Let's position it on the scale with a moderate level of misery.
+
+My final answer is {{{35 - 65}}}.
+
+Host: You are CORRECT! The rating for the story was 49. Let's go to the next question.
+## Story: Allergic to Your Husband's Semen
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Being allergic to your husband's semen can cause significant emotional and physical distress. There may be physical reactions ranging from mild discomfort to severe allergic symptoms, as well as emotional strain on the relationship. The long-term psychological impact could also be considerable due to the intimate nature of the issue.
+
+On the misery index, this scenario involves a mix of physical, emotional, and psychological factors, though it might not reach the top end of the scale compared to life-threatening or highly traumatic events.
+
+Taking into account the severity of such an allergy and its implications, I would place this situation at a moderate to high misery level.
+
+My final answer is {{{40 - 60}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 76. Let's go to the next question.
+## Story: You Lose Half Your Head due to drugs lab explosion
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Losing half your head due to a drugs lab explosion is an extremely dire and traumatic event. The physical pain and injury are immense, likely resulting in severe and life-altering consequences. The emotional trauma and long-term psychological impact would be substantial given the severity of the situation.
+
+Considering the "Three Pillars of Misery" — physical pain, emotional trauma, and long-term psychological impact — this scenario would rank near the top of the misery index due to its catastrophic nature.
+
+Given these factors, I would estimate the misery rating to be extremely high.
+
+My final answer is {{{90 - 100}}}.
+
+Host: You are CORRECT! The rating for the story was 97. Thank you for playing!

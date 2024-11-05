@@ -1,0 +1,146 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: You find Out Via Venmo that your Partner is Cheating. Misery Rating = 68
+## Hypothetical Situation 2: Your Chinese Symbol Tattoo Means Big Load. Misery Rating = 45
+## Story: A Car Knocks You into a Sewer and you needed surgery for a spinal cord injury
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Given the hypothetical situations:
+
+1. Finding out via Venmo that your partner is cheating has a misery rating of 68.
+2. Your Chinese symbol tattoo meaning "Big Load" has a misery rating of 45.
+
+The story involves being knocked into a sewer by a car and requiring surgery for a spinal cord injury. This situation likely involves significant physical pain and long-term psychological impact, both possibly greater than either of the hypothetical situations.
+
+Therefore, the story's misery rating is likely to be above 68. My final answer is {{{above}}}.
+
+Host: You are CORRECT! The rating for the story was 73. Let's go to the next question. 
+## Story: You Have a Really Big Toe
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Considering the hypothetical situations:
+
+1. Finding out via Venmo that your partner is cheating has a misery rating of 68.
+2. Your Chinese symbol tattoo meaning "Big Load" has a misery rating of 45.
+
+The story about having a really big toe likely involves a minimal amount of physical pain, if any, and possibly some emotional discomfort or embarrassment. It seems significantly less severe than both the cheating discovery and the tattoo mishap.
+
+Therefore, the story’s misery rating is most likely below both of the hypothetical situations. My final answer is {{{below}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 56. Let's start the Round 2, More or Less Miserable.
+## Story 1: Your Salsa Gets Tea-Bagged. Misery Rating = 51
+## Story 2: You're Stuck in a Public Toilet
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Based on the two stories:
+
+1. Having your salsa get tea-bagged has a misery rating of 51. This likely involves some level of emotional disgust or embarrassment, but not much physical pain or long-term impact.
+2. Being stuck in a public toilet can be quite uncomfortable and embarrassing, potentially causing significant emotional trauma depending on the situation's severity and duration.
+
+Considering these factors, being stuck in a public toilet seems more miserable than having your salsa tampered with. Therefore, I believe Story 2 likely has a higher misery rating. My final answer is {{{higher}}}.
+
+Host: You are CORRECT! The rating for the story was 66. Let's go to the next question.
+## Story 1: Your Wine Cellar Self-Destructs on You. Misery Rating = 54
+## Story 2: You Get KO'd by a Cat
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Considering the two stories:
+
+1. Your wine cellar self-destructing on you has a misery rating of 54. This likely involves financial loss and emotional distress but typically doesn't have a direct physical impact or severe long-term psychological effects.
+2. Getting knocked out (KO'd) by a cat suggests a surprising or humiliating scenario, potentially resulting in physical injury depending on the circumstances. The combination of embarrassment and possible physical pain could make it more miserable than the wine cellar incident.
+
+That said, without knowing the specifics of the injury or situation, it's challenging to be certain. However, the surprising nature and potential for physical harm lean toward being more miserable.
+
+Therefore, I believe Story 2 has a higher misery rating. My final answer is {{{higher}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 52. Let's start the Round 3, Master of Misery.
+## Story: You are covered in hair removal strips
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: For the story about being covered in hair removal strips, let's consider the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+1. Physical Pain: The process of removing the strips could be quite painful, especially if done quickly or improperly, pulling at the skin and hair.
+2. Emotional Trauma: Depending on the context (public setting, unexpected event, etc.), there might be significant embarrassment or surprise.
+3. Long-Term Psychological Impact: The impact is probably minimal unless the situation causes lasting embarrassment or physical harm.
+
+Overall, this situation combines a notable amount of physical discomfort with potential embarrassment. It seems likely to fall somewhere in the mid-range of misery ratings.
+
+Considering these factors, I will estimate a misery rating of 62. My final answer is {{{62}}}.
+
+Host: The rating for the story was 49. You were off by 13 points! Let's start the Bonus Round, Margin of Misery.
+## Story: You Get Launched at Work
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To assess the story "You Get Launched at Work," let's consider the Three Pillars of Misery:
+
+1. **Physical Pain**: If this involves a literal launch (e.g., being thrown or catapulted physically), there could be significant physical pain or injury.
+2. **Emotional Trauma**: Being launched at work could cause embarrassment or shock, especially in front of colleagues.
+3. **Long-Term Psychological Impact**: Depending on the severity and outcome, there could be lasting effects, but likely minimal unless it was particularly traumatic or resulted in lasting injuries.
+
+Given these considerations, the situation likely warrants a moderate to high misery rating. I'll choose an interval considering these factors, aiming for the middle to upper range, such as 50 to 80.
+
+My final answer is {{{50 - 80}}}.
+
+Host: You are CORRECT! The rating for the story was 59. Let's go to the next question.
+## Story: You've Been Swallowed by a Hippo 3 Times and you survived
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: For the story "You've Been Swallowed by a Hippo 3 Times and you survived," let's analyze the Three Pillars of Misery:
+
+1. **Physical Pain**: Being swallowed by a hippo would likely involve extreme physical danger and potential injuries from the encounters.
+2. **Emotional Trauma**: The repeated nature of this terrifying event would cause significant emotional distress and fear.
+3. **Long-Term Psychological Impact**: Surviving such life-threatening experiences would likely lead to substantial long-term psychological effects, such as PTSD or anxiety.
+
+Considering these factors, this story is extremely high on the misery scale due to the life-threatening nature and the potential for lasting psychological impact. Given the narrow interval size of 20, the misery rating is likely to be on the higher end of the scale.
+
+My final answer is {{{80 - 100}}}.
+
+Host: You are CORRECT! The rating for the story was 81. Let's go to the next question.
+## Story: You Blow Yourself Up
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: For the story "You Blow Yourself Up," let's evaluate the Three Pillars of Misery:
+
+1. **Physical Pain**: This situation likely involves significant physical injury, as explosions can cause severe harm or burns.
+2. **Emotional Trauma**: The shock and fear of such an incident would cause considerable emotional distress.
+3. **Long-Term Psychological Impact**: There could be lasting psychological effects such as trauma, anxiety, or physical disabilities resulting from injuries.
+
+Given the severity and potential life-altering consequences, this story should have a very high misery rating. Since the interval size is small (10 points), I would expect this rating to be near the top of the scale.
+
+My final answer is {{{90 - 100}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 89. Thank you for playing!

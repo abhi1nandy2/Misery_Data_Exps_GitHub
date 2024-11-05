@@ -1,0 +1,126 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: Your Daughter Demands Emancipation on TikTok. Misery Rating = 68
+## Hypothetical Situation 2: You Get peed on at a Music Festival. Misery Rating = 42
+## Story: Your umbrella caught fire after you were struck by lightning
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Your umbrella catching fire after being struck by lightning sounds like a highly traumatic and physically painful event, potentially resulting in long-term psychological impact. Given the severity of being struck by lightning compared to the hypothetical situations, it seems likely to have a notably higher misery rating. 
+
+Therefore, I would say the story's misery rating falls {{{above}}} the two hypothetical situations.
+
+Host: You are CORRECT! The rating for the story was 87. Let's go to the next question. 
+## Story: You Cannonball into a Frozen Lake
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Cannonballing into a frozen lake sounds like it would involve significant physical pain, and possibly some emotional trauma and psychological impact, depending on the severity of the injuries sustained. However, it may not have as long-lasting an impact as being struck by lightning. 
+
+When comparing it to the situations provided:
+- The Daughter Demanding Emancipation on TikTok, with a misery rating of 68, likely involves emotional trauma and long-term psychological impacts.
+- Getting peed on at a Music Festival, rated at 42, seems relatively mild in terms of physical pain or psychological impact compared to cannonballing into a frozen lake.
+
+Considering these factors, the severity of cannonballing into a frozen lake might be more distressing than the music festival event but not as intense as the emotional devastation of the TikTok scenario.
+
+Thus, I would say that the story's misery rating falls {{{between}}} the two situations.
+
+Host: You are CORRECT! The rating for the story was 49. Let's start the Round 2, More or Less Miserable.
+## Story 1: Your Toddler's Birthday Cake Calls Her a Loser. Misery Rating = 33
+## Story 2: Old Woman went nude during Your Zoom Bat Mitzvah
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Based on the descriptions of the stories:
+
+- Story 1 involves a toddler's birthday cake with an unfortunate and likely upsetting message. While this could cause some emotional discomfort, it seems more benign in terms of long-term psychological impact and physical pain.
+
+- Story 2, where an old woman went nude during your Zoom Bat Mitzvah, introduces a level of public embarrassment and significant disruption to a special event. This could potentially carry more emotional trauma and longer-lasting psychological impact compared to Story 1.
+
+Given this analysis, Story 2 likely has a higher misery rating than Story 1.
+
+Therefore, my final answer is that Story 2 has a {{{higher}}} rating compared to Story 1.
+
+Host: You are CORRECT! The rating for the story was 47. Let's go to the next question.
+## Story 1: You're a child and are Attacked by a Bird while riding a scooter. Misery Rating = 42
+## Story 2: You Are Mounted by a Stallion
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Being mounted by a stallion can be a highly distressing and potentially dangerous situation, involving significant physical pain and emotional trauma. In comparison:
+
+- Story 1 involves being a child attacked by a bird while riding a scooter. This event likely involves fear, some physical injury, and could have some psychological impact, especially for a child. However, it may not be as severe or dangerous as being mounted by a large and powerful animal like a stallion.
+
+Given the potential severity of the injuries and the trauma associated with Story 2, it seems likely that it would have a higher misery rating than Story 1.
+
+Therefore, my final answer is that Story 2 has a {{{higher}}} rating compared to Story 1.
+
+Host: You are CORRECT! The rating for the story was 60. Let's start the Round 3, Master of Misery.
+## Story: Your Dental Assitant is Reckless
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: Reckless behavior by a dental assistant could result in physical pain, potential long-term health impacts, and certainly emotional distress during the procedure. However, without knowing the extent of the recklessness, this scenario likely does not reach the highest levels of misery. Compared to other scenarios discussed so far, it might still be significant but likely falls within a mid-range misery rating.
+
+Considering this, I would estimate the misery rating for "Your Dental Assistant is Reckless" to be in the mid to high range, but not at the highest end. Thus, a reasonable guess might be around {{{55}}}.
+
+Host: The rating for the story was 35. You were off by 20 points! Let's start the Bonus Round, Margin of Misery.
+## Story: You Dive Into a Piranha Party
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Diving into a "Piranha Party" suggests a scenario involving substantial physical danger and potential pain, emotional trauma, and likely long-term psychological impact, given the dangerous nature of piranhas. The immediacy and potential severity of such an encounter likely push the misery rating to a high level.
+
+Considering the gravity of this scenario, I would choose an interval that captures the higher end of the misery scale.  
+
+Therefore, my final answer for the interval of ratings is {{{70 - 100}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 67. Let's go to the next question.
+## Story: You are a motorcyclist who fell off the ramp at the start of a race you've Fallen and Can't Get Up
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Falling off the ramp at the start of a motorcycle race can be physically painful and embarrassing. It may carry significant emotional trauma, especially if it happens in front of an audience, and could result in lasting psychological impact depending on the severity of the injuries sustained. However, it may not involve the life-threatening danger of an encounter with piranhas.
+
+Given the potential for physical injury but considering it's likely less dangerous than diving into a piranha-infested area, this situation might fall in the mid-to-high range.
+
+Therefore, for this scenario, a reasonable interval might be {{{50 - 70}}}.
+
+Host: You are CORRECT! The rating for the story was 52. Let's go to the next question.
+## Story: You walked in on your hubby possibly having sex with his mom when you were already suspicious of incest
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Walking in on your husband in a potentially incestuous situation is deeply traumatizing, both emotionally and psychologically. The level of shock, betrayal, and emotional distress would be extremely high, significantly impacting your mental and emotional well-being. Given that this situation involves severe emotional trauma, it is likely to result in one of the highest misery ratings.
+
+Considering the profound impact of such an event, I would choose an interval at the very top of the misery scale.
+
+Therefore, my final answer for the interval of ratings is {{{90 - 100}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 89. Thank you for playing!

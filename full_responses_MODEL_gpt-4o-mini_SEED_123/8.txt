@@ -1,0 +1,187 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: You Are Mistakenly Deported. Misery Rating = 81
+## Hypothetical Situation 2: Find Your Grandpa's Diary; Discover He Was a Nazi. Misery Rating = 43
+## Story: There's a Live Leech up Your Nose
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Given the ratings of the hypothetical situations, we have:
+
+- Hypothetical Situation 1 (Mistakenly Deported) has a misery rating of 81.
+- Hypothetical Situation 2 (Discovering Grandpa was a Nazi) has a misery rating of 43.
+
+The story "There's a Live Leech up Your Nose" suggests a significant level of physical discomfort, which might imply a high misery rating due to the physical pain involved.
+
+However, it likely doesn't reach the level of 81, as being mistakenly deported can involve complex legal issues, emotional distress, and long-term psychological impacts.
+
+I believe the story would fall below the first situation and likely above the second. 
+
+My final answer is {{{between}}}.
+
+Host: You are CORRECT! The rating for the story was 58. Let's go to the next question. 
+## Story: You're a Principal who hired a pole dancer to welcome kindergartners to school
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: In evaluating the situation where a principal hires a pole dancer to welcome kindergartners, I consider the implications of this choice. 
+
+- Hypothetical Situation 1 (Mistakenly Deported) has a misery rating of 81.
+- Hypothetical Situation 2 (Discovering Grandpa was a Nazi) has a misery rating of 43.
+
+This story seems to involve less severe implications than being mistakenly deported, which can have far-reaching emotional and legal consequences. While the choice to hire a pole dancer could be controversial and might lead to distress among parents or the community, it doesn't necessarily imply the same level of long-term psychological impact or physical pain that appears in the first situation. 
+
+It might provoke some emotional trauma or embarrassment, but I would argue it does not reach a point higher than the second situation either. As such, it seems most reasonable to place this story below the first situation and likely above the second.
+
+My final answer is {{{between}}}.
+
+Host: You are CORRECT! The rating for the story was 63. Let's start the Round 2, More or Less Miserable.
+## Story 1: You Meet a Friendly Masturbator. Misery Rating = 38
+## Story 2: You Almost Get Carjacked by a Naked Man
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To determine whether Story 2 (You Almost Get Carjacked by a Naked Man) has a higher or lower rating compared to Story 1 (You Meet a Friendly Masturbator), we need to analyze the potential distress and misery associated with each scenario.
+
+- **Story 1 (You Meet a Friendly Masturbator)** with a misery rating of 38 may involve some discomfort or embarrassment, but it could also be viewed with humor or as a non-threatening encounter.
+
+- **Story 2 (You Almost Get Carjacked by a Naked Man)** implies a situation that could involve significant fear and a sense of personal danger. This scenario might lead to emotional trauma and a severe adverse reaction due to the imminent threat to personal safety.
+
+Considering the nature of both stories, Story 2 likely carries a higher misery rating due to the potential for fear and trauma associated with a near carjacking, compared to the more humorous and less threatening nature of Story 1.
+
+Therefore, my final answer is {{{higher}}}.
+
+Host: You are CORRECT! The rating for the story was 45. Let's go to the next question.
+## Story 1: You Accidentally Sext Your Dad. Misery Rating = 50
+## Story 2: Your Dad Accidentally Sexts You
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To analyze whether Story 2 (Your Dad Accidentally Sexts You) has a higher or lower rating compared to Story 1 (You Accidentally Sext Your Dad), we need to consider the implications of both scenarios.
+
+- **Story 1 (You Accidentally Sext Your Dad)** with a misery rating of 50 suggests a level of embarrassment and discomfort with potential long-term effects on the relationship. However, one could argue that the emotional trauma might be somewhat manageable, depending on the dynamics of the relationship.
+
+- **Story 2 (Your Dad Accidentally Sexts You)** could imply a deeper level of emotional distress and awkwardness. This situation puts the recipient (you) in a position of receiving an unexpected and potentially traumatizing message from a parent. It might lead to significant feelings of confusion and embarrassment, possibly complicating the parent-child relationship in a more profound way.
+
+Given that the embarrassment and emotional distress from receiving an inappropriate sext from a parent could be more impactful than sending one, I would argue that Story 2 likely has a higher misery rating.
+
+Therefore, my final answer is {{{higher}}}.
+
+Host: You are CORRECT! The rating for the story was 61. Let's start the Round 3, Master of Misery.
+## Story: You Suck a Lady's Dirty Foot
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: To estimate the misery rating for the story "You Suck a Lady's Dirty Foot," I need to consider various factors:
+
+1. **Physical Pain**: There could be a slight element of physical discomfort or disgust involved in this action, but it may not be severe.
+
+2. **Emotional Trauma**: This story likely evokes strong feelings of embarrassment, shame, and social stigma. Sucking on someone’s dirty foot would certainly be seen as socially unacceptable and may lead to significant emotional distress.
+
+3. **Long-term Psychological Impact**: Depending on how this experience affects the individual in terms of social relationships or self-image, there could be some lingering psychological implications.
+
+Considering the above points, the situation seems to involve a notable amount of emotional trauma and social fallout, which can lead to an elevated misery rating. 
+
+While I am unsure of the exact index, I might place this story at a relatively moderate to high level due to the embarrassment and potential consequences involved. 
+
+Based on my assessment, I would estimate the misery rating to be around 70. 
+
+My final answer is {{{70}}}.
+
+Host: The rating for the story was 45. You were off by 25 points! Let's start the Bonus Round, Margin of Misery.
+## Story: You found a dead mouse inside your can of Red Bull after taking a sip and feeling something hit your lip.
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To guess the index rating for the story "You found a dead mouse inside your can of Red Bull after taking a sip and feeling something hit your lip," I will consider the implications of this scenario:
+
+1. **Physical Pain**: There may be a strong initial reaction due to the shock and disgust of ingesting something horrendous. While it might not involve any direct physical pain, the thought of having consumed a dead mouse could lead to a visceral reaction.
+
+2. **Emotional Trauma**: This situation could lead to significant emotional distress, including feelings of disgust, horror, and anxiety about food safety. It may also spark long-term concerns about similar experiences in the future.
+
+3. **Long-term Psychological Impact**: Depending on the person, discovering something so shocking and distressing could lead to lasting psychological effects, such as food-related anxiety or aversion to certain products or brands.
+
+Given these factors, I might estimate that the misery rating for this story is relatively high due to the emotional and psychological implications. If I consider the previous ratings I've encountered, this story could be in the range of 60-90.
+
+For a 30-point interval, I would estimate the rating to be:
+
+**LOWER LEVEL:** 60  
+**HIGHER LEVEL:** 90  
+
+Thus, my final answer is {{{60 - 90}}}.
+
+Host: You are CORRECT! The rating for the story was 65. Let's go to the next question.
+## Story: You Eat 2 Lbs of Your Own Hair which is then removed from your stomach by doctors
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To guess the index rating for the story "You Eat 2 Lbs of Your Own Hair which is then removed from your stomach by doctors," I will analyze the implications of this situation:
+
+1. **Physical Pain**: Eating two pounds of hair could lead to severe physical complications, including blockages or other gastrointestinal issues, which might involve significant pain and discomfort. The act of having it removed by doctors indicates a serious situation, potentially involving surgery or medical intervention.
+
+2. **Emotional Trauma**: The realization and guilt associated with consuming that much hair could lead to considerable emotional distress. This situation could evoke feelings of shame, embarrassment, or anxiety about one's habits and health.
+
+3. **Long-term Psychological Impact**: Depending on the circumstances leading to this behavior (e.g., trichotillomania or other psychological issues), there could be significant long-term psychological effects. The individual may have to deal with the ramifications of such behavior psychologically.
+
+Given these considerations, this story likely carries a high misery rating due to both the physical and emotional trauma involved. 
+
+Based on previous ratings and the severity of the situation at hand, I would estimate this story’s rating to be in the range of 70-90, given the severe implications.
+
+For a 20-point interval, I would estimate the rating to be:
+
+**LOWER LEVEL:** 70  
+**HIGHER LEVEL:** 90  
+
+Therefore, my final answer is {{{70 - 90}}}.
+
+Host: You are CORRECT! The rating for the story was 71. Let's go to the next question.
+## Story: You Have One Happy Day in 129 Years
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To estimate the index rating for the story "You Have One Happy Day in 129 Years," I will evaluate the various factors that contribute to misery:
+
+1. **Physical Pain**: There may not be direct physical pain associated with this situation, but the emotional and psychological weight of having only one happy day in such a long lifetime may indicate significant overall distress.
+
+2. **Emotional Trauma**: This scenario suggests profound emotional turbulence. Experiencing such a lack of joy or fulfillment over an extensive period can lead to deep emotional suffering and may indicate long-standing issues such as depression or severe loneliness.
+
+3. **Long-term Psychological Impact**: The long-term effects of having only one happy day in a lifetime could be substantial. It might lead to chronic feelings of despair, hopelessness, and a diminished quality of life, suggesting a high level of psychological impact.
+
+Given these factors, this story likely carries a serious level of misery due to the emotional and psychological implications involved. When considering prior misery ratings, a person with this experience could have a misery rating that reflects significant distress.
+
+I would estimate the misery rating for this story to be in the range of 80-100.
+
+For a 10-point interval, I would place the rating as:
+
+**LOWER LEVEL:** 80  
+**HIGHER LEVEL:** 90  
+
+Thus, my final answer is {{{80 - 90}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 45. Thank you for playing!

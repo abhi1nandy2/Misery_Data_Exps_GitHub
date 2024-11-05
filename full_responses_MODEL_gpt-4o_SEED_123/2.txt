@@ -1,0 +1,174 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: You're Taken Hostage During a Bank Robbery. Misery Rating = 67
+## Hypothetical Situation 2: You are Stuck in Elevator Overnight with Mariah's X-Mas Song on Repeat as the Elevator Song. Misery Rating = 42
+## Story: You and Mom Are Addicted to Cosmetic Surgery
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Based on the provided hypothetical situations and their misery ratings, I need to consider where the story of "You and Mom Are Addicted to Cosmetic Surgery" falls. 
+
+- Being taken hostage during a bank robbery has a high misery rating of 67, likely due to the physical danger and emotional trauma involved.
+- Being stuck in an elevator overnight with Mariah's Christmas song on repeat is less severe, rated at 42, due to mainly emotional and psychological irritation or annoyance.
+
+Addiction to cosmetic surgery could involve both physical pain and emotional/psychological issues, but it's likely less severe than being taken hostage due to the life-threatening nature of the latter. However, considering long-term impacts such as body image issues and potential health risks from surgeries, this situation could have a misery rating closer to, but below, 67.
+
+Therefore, it's reasonable to believe that the misery rating for "You and Mom Are Addicted to Cosmetic Surgery" would fall between the two situations, given that it is less severe than being taken hostage but likely more impactful than the elevator scenario.
+
+My final answer is: {{{between}}}
+
+Host: You are CORRECT! The rating for the story was 48. Let's go to the next question. 
+## Story: You Faint During Bride's Vows
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: To determine whether the story "You Faint During Bride's Vows" falls above, below, or between the two hypothetical situations, let's analyze the potential misery involved:
+
+- Hypothetical Situation 1: Being taken hostage during a bank robbery has a high misery rating of 67, mainly due to physical danger and significant emotional trauma.
+- Hypothetical Situation 2: Being stuck in an elevator overnight with Mariah's Christmas song on repeat has a lower misery rating of 42, primarily due to emotional annoyance and minor psychological discomfort.
+
+The story of "You Faint During Bride's Vows" likely involves embarrassment, some emotional discomfort, and possibly minor physical effects, but it does not seem to include any severe long-term impact or substantial danger.
+
+Given this, it's reasonable to believe that fainting during a significant event like a wedding might be embarrassing and unpleasant but would not reach the severity of being stuck in an elevator overnight. Thus, the misery rating for fainting during the vows would most likely fall below both of the given situations.
+
+My final answer is: {{{below}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 58. Let's start the Round 2, More or Less Miserable.
+## Story 1: You're an Anti-gay Pastor Caught on Grindr. Misery Rating = 74
+## Story 2: You Lose an Arm in Grinder
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: When comparing the two stories, let's consider the factors contributing to their misery ratings:
+
+- **Story 1: "You're an Anti-gay Pastor Caught on Grindr"** involves a high level of emotional trauma, potential public humiliation, and long-term psychological impact due to the public exposure of behavior that contradicts the individual's proclaimed beliefs.
+
+- **Story 2: "You Lose an Arm in Grinder"** involves significant physical pain and long-term physical disability. There could also be emotional trauma and long-term psychological impact due to the life-altering nature of the injury.
+
+Losing an arm in a grinder is a severe physical injury with substantial long-term implications, likely to have a higher overall misery rating due to the physical pain and long-term effects. Although Story 1 involves substantial emotional and psychological impact, the physical survival and health implications in Story 2 are typically rated more severely.
+
+Therefore, it is reasonable to assume that Story 2 has a higher rating compared to Story 1.
+
+My final answer is: {{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 96. Let's go to the next question.
+## Story 1: You Contract Super-Gonorrhea. Misery Rating = 81
+## Story 2: Live Tapeworm in Your Brain
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: When comparing these two stories, let's consider the potential misery factors:
+
+- **Story 1: "You Contract Super-Gonorrhea"** involves significant physical health issues and possible emotional trauma associated with severe medical conditions. There is a long-term psychological impact if the condition is difficult to treat or causes chronic health problems.
+
+- **Story 2: "Live Tapeworm in Your Brain"** involves a high degree of physical risk and potential pain. The presence of a live tapeworm in such a critical area poses severe health risks and could have a substantial long-term psychological impact, including psychiatric symptoms and potential brain damage depending on the severity and duration.
+
+Given these considerations, having a live tapeworm in the brain seems to involve more acute physical danger and potentially greater long-term consequences compared to contracting a severe form of gonorrhea. The invasiveness and seriousness of a parasite in the brain might be rated as more miserable due to the direct threat to life and functioning.
+
+Therefore, it's reasonable to conclude that Story 2 has a higher rating compared to Story 1.
+
+My final answer is: {{{higher}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 73. Let's start the Round 3, Master of Misery.
+## Story: Fired for Letting Kids Drive Your Bus
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: To estimate the misery rating for the story "Fired for Letting Kids Drive Your Bus," let's consider the potential factors involved:
+
+- **Physical pain:** There might not be direct physical pain involved unless an accident occurred, but let's assume no physical injuries are included based on the story provided.
+  
+- **Emotional trauma:** The emotional impact could include feelings of guilt, regret, and embarrassment, especially if the events became public or widely known. It could also impact relationships with the children and their parents.
+  
+- **Long-term psychological impact:** Being fired could cause significant stress and anxiety due to job loss, financial insecurity, and the potential difficulty of finding new employment in a similar role. The professional reputation damage might also weigh heavily on the individual.
+
+Considering these factors, this situation appears to be mainly focused on emotional trauma and long-term psychological impact, with no immediate life-threatening physical danger. It's likely more severe than a social embarrassment or minor offense but less severe than situations involving significant physical harm or life-threatening circumstances.
+
+With these considerations in mind, I would estimate the misery rating to be moderately high, but not at the extreme end of the scale.
+
+My final answer is: {{{65}}}
+
+Host: The rating for the story was 71. You were off by 6 points! Let's start the Bonus Round, Margin of Misery.
+## Story: Doctors Misplace Your Bladder
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To estimate the misery rating for the story "Doctors Misplace Your Bladder," let's consider the factors based on the "Three Pillars of Misery":
+
+- **Physical pain:** This situation likely involves significant physical discomfort and health risk due to potential complications from medical error.
+
+- **Emotional trauma:** The emotional impact could be substantial, involving fear, anxiety, and distrust of medical care providers.
+
+- **Long-term psychological impact:** The psychological impact might include ongoing medical issues, required corrective surgeries, and lasting health concerns, leading to anxiety about future medical procedures or potential complications.
+
+Given these factors, this situation is likely to have a significantly high misery rating due to the physical and psychological implications involved. It would be more severe than stories involving mild to moderate emotional discomfort but not as high as life-threatening scenarios such as severe accidents or debilitating conditions.
+
+Considering the need to provide an interval size of 30, I'll aim to cover a higher range on the misery scale.
+
+My final answer is: {{{70 - 100}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 64. Let's go to the next question.
+## Story: Pop Rocks in Your Vagina
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To estimate the misery rating for the story "Pop Rocks in Your Vagina," let's evaluate the factors according to the "Three Pillars of Misery":
+
+- **Physical pain:** This could involve discomfort or a burning sensation, which might be embarrassing but not likely to cause serious damage or long-term issues.
+
+- **Emotional trauma:** There could be some emotional discomfort or embarrassment due to the unusual situation, especially if it involved medical intervention or became publicly known.
+
+- **Long-term psychological impact:** The long-term psychological impact might be minimal unless the event significantly affects one's self-esteem or relationships due to embarrassment.
+
+Given these considerations, this situation is likely to have a lower misery rating compared to serious medical errors or life-threatening conditions. It might be more uncomfortable than a minor embarrassment but not substantial enough to warrant a high misery rating.
+
+Considering the interval size of 20 points and aiming towards the lower end of the misery scale, an appropriate range would likely be in the lower-middle part of the scale.
+
+My final answer is: {{{40 - 60}}}
+
+Host: You are CORRECT! The rating for the story was 40. Let's go to the next question.
+## Story: You Butt Dial Your Victim
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To estimate the misery rating for the story "You Butt Dial Your Victim," let's analyze the potential aspects based on the "Three Pillars of Misery":
+
+- **Physical pain:** There doesn't seem to be any physical pain involved in this scenario.
+
+- **Emotional trauma:** The emotional impact could be significant due to the potential for embarrassment, guilt, or fear, especially if the context involves illicit or inappropriate behavior that was unintentionally revealed.
+
+- **Long-term psychological impact:** The long-term consequences might include damage to relationships or reputation, depending on what was overheard or revealed during the accidental call.
+
+Given these factors, while the scenario is certainly uncomfortable and potentially stressful, it seems to be more about emotional distress than severe physical or long-lasting psychological issues. It could be rated as less severe than a traumatic accident or medical error but more impactful than a minor, everyday embarrassment.
+
+Given the need for an interval size of 10 points, and considering where this might fit on the spectrum of misery, I would position it in a moderately low range.
+
+My final answer is: {{{50 - 60}}}
+
+Host: You are CORRECT! The rating for the story was 52. Thank you for playing!

@@ -1,0 +1,149 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: Lose Your Sense of Smell. Misery Rating = 66
+## Hypothetical Situation 2: You're Ignored in a Threesome. Misery Rating = 39
+## Story: A Freeway Sign Crushes Your Car
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: A freeway sign crushing your car seems like it would be quite traumatic and potentially dangerous, possibly involving significant physical and emotional distress. Given the situations provided:
+
+1. Losing your sense of smell (Misery Rating = 66) isn't immediately life-threatening and affects quality of life notably.
+2. Being ignored in a threesome (Misery Rating = 39) mostly impacts emotional and social spheres.
+
+A freeway sign crushing your car could involve a blend of physical danger (potential injury), emotional trauma (fear and shock), and perhaps long-term impact (injury, financial loss, or PTSD). Therefore, it might be a higher misery score than either situation. 
+
+My final answer is: {{{above}}}
+
+Host: You are CORRECT! The rating for the story was 77. Let's go to the next question. 
+## Story: You Look Like a Doodle
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Let's evaluate the story "You Look Like a Doodle" in relation to the two hypothetical situations provided:
+
+1. Losing your sense of smell (Misery Rating = 66) involves a significant change in sensory experience, with potential safety and quality of life impacts.
+   
+2. Being ignored in a threesome (Misery Rating = 39) mainly affects self-esteem and social dynamics.
+
+Being told "You Look Like a Doodle" seems more humorous or lighthearted in nature, with limited impact. It seems like it wouldn't involve any physical pain, and would likely cause only minor emotional discomfort or social awkwardness. Thus, it's unlikely to reach the severity of the other situations.
+
+Therefore, I think the misery rating for "You Look Like a Doodle" would fall below both situations.
+
+My final answer is: {{{below}}}
+
+Host: You are CORRECT! The rating for the story was 34. Let's start the Round 2, More or Less Miserable.
+## Story 1: You Can't Find Your Car for a Week. Misery Rating = 41
+## Story 2: You escaped injury when cactus pierced windshield
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: The situation with the cactus piercing the windshield sounds quite frightening and potentially dangerous, whereas not being able to find your car for a week is more of an inconvenience with some emotional frustration and potential financial issues. Given the immediate risk and fear associated with a cactus piercing a windshield, I would expect the misery rating for Story 2 to be higher than Story 1.
+
+My final answer is: {{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 51. Let's go to the next question.
+## Story 1: A Moose Knocks You Off Your Bike. Misery Rating = 39
+## Story 2: Your Dog Pees in Your Mouth
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Both stories involve unpleasant experiences, but let's analyze the nature of each:
+
+1. Being knocked off your bike by a moose (Misery Rating = 39) involves physical pain and potential injury, alongside a surprising and frightening encounter.
+
+2. Having your dog pee in your mouth is more of an immediate shock and extremely unpleasant, affecting both physical and emotional states, including hygiene concerns and an intense feeling of disgust.
+
+While Story 1 involves physical injury, Story 2 carries intense immediate emotional and psychological embarrassment and discomfort. Considering these factors, I would expect Story 2 to have a higher misery rating due to the severity of the emotional and social aspects.
+
+My final answer is: {{{higher}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 37. Let's start the Round 3, Master of Misery.
+## Story: You Have to Jerk Off an Old Man's Toe
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: This story has a unique combination of physical discomfort, potential emotional trauma, and a considerable degree of social awkwardness and embarrassment. It seems to primarily involve emotional and psychological distress. Here's how we might break it down based on the "Three Pillars of Misery":
+
+1. **Physical Pain**: Minimal to none, as it's more about the action performed.
+2. **Emotional Trauma**: High, due to the uncomfortable and awkward nature of the task.
+3. **Long-term Psychological Impact**: Possibly moderate, potentially causing lasting embarrassment or anxiety.
+
+Considering these aspects, it's likely to have a moderately high misery score, but probably not as high as a life-threatening or severely physically painful event. Given these factors, I would estimate the misery rating to fall around the mid to high range.
+
+My final answer is: {{{62}}}
+
+Host: The rating for the story was 28. You were off by 34 points! Let's start the Bonus Round, Margin of Misery.
+## Story: You Get Trapped in a Stranger's Garage
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: You Get Trapped in a Stranger's Garage involves a mix of emotional distress and potential psychological impact due to being confined against your will in an unfamiliar place. It might not necessarily involve significant physical pain but can certainly trigger anxiety and fear, with some long-term psychological impact depending on the duration and circumstances of the entrapment.
+
+Considering these factors, the misery rating for this story could be moderate. 
+
+I'll choose a mid-range interval for my guess:
+
+My final answer is: {{{45 - 75}}}
+
+Host: You are CORRECT! The rating for the story was 49. Let's go to the next question.
+## Story: Stranger Spits Food in Your Mouth during a road rage incident
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: The story of a stranger spitting food in your mouth during a road rage incident likely involves a significant amount of emotional trauma and revulsion, as well as social and psychological impact. 
+
+1. **Physical Pain**: Minimal, unless there's physical force involved.
+2. **Emotional Trauma**: High, due to the unexpected and disgusting nature of the event.
+3. **Long-term Psychological Impact**: Possible, as this could lead to anxieties about personal safety or social interactions.
+
+Given these factors, this situation stands out as particularly distressing and disgusting, though not physically dangerous in a severe way. This suggests a higher-than-average rating, focusing on emotional and psychological distress.
+
+Based on this assessment, I would place the misery rating in the higher range more towards the upper part of the scale for distress but below the most extreme events.
+
+My final answer is: {{{60 - 80}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 52. Let's go to the next question.
+## Story: You suffered rectal blowout after your friends put air compressor into your anus
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: This story involves severe physical trauma, significant emotional distress, and potentially long-term psychological impact. Let's analyze the three pillars of misery for this story:
+
+1. **Physical Pain**: Extremely high, as a rectal blowout is a serious injury with potentially severe health consequences.
+2. **Emotional Trauma**: High, due to the invasive and humiliating nature of the incident, compounded by it being perpetrated by friends.
+3. **Long-term Psychological Impact**: High, as this could result in lasting physical complications and enduring emotional distress or even PTSD.
+
+Given these factors, this story is likely to receive a very high misery rating due to the combination of intense physical pain, emotional trauma, and psychological impact.
+
+I would estimate the misery rating to fall towards the higher end of the scale, within a tightest range, given the severity of the situation.
+
+My final answer is: {{{85 - 95}}}
+
+Host: You are CORRECT! The rating for the story was 86. Thank you for playing!

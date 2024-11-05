@@ -1,0 +1,172 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: A Hawk Steals Your Puppy. Misery Rating = 61
+## Hypothetical Situation 2: Brother-In-Law is in Love With You. Misery Rating = 37
+## Story: You Accidentally Kick a Baby in the Face
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Given the two hypothetical situations:
+
+- Situation 1: A Hawk Steals Your Puppy (Misery Rating = 61)
+- Situation 2: Brother-In-Law is in Love With You (Misery Rating = 37)
+
+The story presented is: You Accidentally Kick a Baby in the Face.
+
+This story likely involves significant emotional trauma due to the harm caused to a baby, and potential long-term psychological impact on both the person who kicked the baby and the baby's family. Therefore, it probably falls above the misery rating of 37 (Brother-In-Law is in Love With You). However, it may not be as high as 61 (A Hawk Steals Your Puppy) due to the potential physical impact of losing a pet.
+
+Based on this analysis, I would place the misery rating for "You Accidentally Kick a Baby in the Face" between the two hypothetical situations.
+
+My final answer is: {{{between}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 35. Let's go to the next question. 
+## Story: Your First Kiss Ever is at Your Wedding
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Analyzing the situation:
+
+- Situation 1: A Hawk Steals Your Puppy (Misery Rating = 61)
+- Situation 2: Brother-In-Law is in Love With You (Misery Rating = 37)
+
+The story presented is: Your First Kiss Ever is at Your Wedding.
+
+This scenario might cause personal awkwardness or distress due to a lack of experienced intimacy before a significant life event, but it doesn't seem to reach the level of emotional trauma or long-term psychological impact that might be associated with either losing a pet or dealing with a complicated relationship with a family member. Thus, it could potentially be viewed as having less impact in terms of misery compared to these situations.
+
+Therefore, I would expect the misery rating for "Your First Kiss Ever is at Your Wedding" to fall below the lower of the two given situations.
+
+My final answer is: {{{below}}}
+
+Host: You are CORRECT! The rating for the story was 21. Let's start the Round 2, More or Less Miserable.
+## Story 1: You are blinded by hair dye allergy. Misery Rating = 51
+## Story 2: A Tooth is Growing in Your Nose
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To analyze the given stories:
+
+- Story 1: You are blinded by a hair dye allergy (Misery Rating = 51). This involves significant physical pain and a long-term psychological impact due to losing sight.
+
+- Story 2: A Tooth is Growing in Your Nose. This situation is unusual and may involve physical discomfort or medical procedures to correct it, but it likely doesn't have the same level of long-term impact compared to losing one's sight.
+
+Considering the level of physical pain, emotional trauma, and psychological impact of being blinded, I would expect that the misery rating for "A Tooth is Growing in Your Nose" is likely lower than that for being blinded.
+
+My final answer is: {{{lower}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 70. Let's go to the next question.
+## Story 1: You Mistakenly overshare With Your Uber Driver. Misery Rating = 11
+## Story 2: Online Dating Match Mocks Your Late Boyfriend
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To evaluate the given stories:
+
+- **Story 1**: You mistakenly overshare with your Uber driver (Misery Rating = 11). This involves potential emotional discomfort or embarrassment but is unlikely to have enduring psychological consequences.
+  
+- **Story 2**: Online dating match mocks your late boyfriend. This scenario would likely cause significant emotional trauma due to the sensitivity of losing a loved one and how the memory is treated. The action of mocking a late boyfriend might trigger deeper feelings of grief and distress.
+
+Given the nature of both stories, I would expect that the emotional trauma and potential long-term psychological impact associated with story 2 would result in a higher misery rating compared to the embarrassment of oversharing with an Uber driver.
+
+My final answer is: {{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 27. Let's start the Round 3, Master of Misery.
+## Story: You're Forced to Get a Jaden Smith Tattoo
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: To determine the misery rating for the story "You're Forced to Get a Jaden Smith Tattoo," we need to evaluate the physical pain, emotional trauma, and long-term psychological impact based on the "Three Pillars of Misery."
+
+- **Physical Pain**: There is some physical discomfort involved in getting a tattoo, but it is generally considered tolerable.
+- **Emotional Trauma**: Being forced into this situation can lead to feelings of embarrassment or distress, especially if this is unwanted or if there's a significant social or personal stigma attached to having this tattoo.
+- **Long-term Psychological Impact**: The permanence of a tattoo can have lasting effects, particularly if it might cause regret or diminish self-esteem over time due to societal perceptions or personal feelings.
+
+Given these factors, this story likely involves a combination of emotional trauma and a potential long-term psychological impact. However, it likely doesn't approach the high levels of misery associated with life-threatening or very emotionally damaging events.
+
+Balancing these considerations, I estimate the misery rating to be moderate but not exceedingly high. Therefore, I would assign it a rating of:
+
+{{{45}}}
+
+Host: The rating for the story was 52. You were off by 7 points! Let's start the Bonus Round, Margin of Misery.
+## Story: Your Hand Gets Stuck in the Toilet and it Goes Viral
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To determine an appropriate interval for the misery rating of the story "Your Hand Gets Stuck in the Toilet and it Goes Viral," let's analyze the situation based on the "Three Pillars of Misery":
+
+- **Physical Pain**: There may be some minor physical discomfort, but it is likely not severe.
+  
+- **Emotional Trauma**: The primary source of misery here could be the embarrassment and distress caused by the situation going viral. This might lead to significant short-term humiliation and anxiety about how others perceive you.
+
+- **Long-term Psychological Impact**: The story going viral may have lasting effects on one's social image and self-esteem, potentially affecting personal and professional relationships.
+
+Considering these factors, the situation seems to involve low physical pain but significant emotional trauma and some potential for long-term psychological effects. While it's unlikely to be rated extremely high, it may have a moderate-to-high rating due to the social and emotional implications.
+
+Assuming the center of my interval is moderately high due to the public exposure element, I can place this in an interval where the mid-point reflects a reasonable estimate. Let’s choose an interval around a moderate-to-high rating:
+
+{{{50 - 80}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 47. Let's go to the next question.
+## Story: You Nearly Drown in a Wave Pool
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To determine the appropriate interval for the misery rating of the story "You Nearly Drown in a Wave Pool," let's evaluate the situation based on the "Three Pillars of Misery":
+
+- **Physical Pain**: The experience may involve significant physical discomfort and danger, as drowning is associated with a struggle for breath and the risk of physical harm.
+  
+- **Emotional Trauma**: The experience of nearly drowning can be extremely traumatic, as it is both a life-threatening event and a highly distressing situation. This can lead to intense fear and anxiety during and after the incident.
+
+- **Long-term Psychological Impact**: Surviving a near-drowning experience may lead to long-term effects such as fear of water or post-traumatic stress, affecting future behavior and well-being.
+
+Considering these factors, this story involves substantial physical pain, emotional trauma, and potential long-term psychological impact, suggesting a higher misery rating. Given the risk of life-threatening harm and the typical response to such an event, an appropriate interval would reflect a high level of misery.
+
+Assuming the rating is significantly high, let's choose a reasonable interval that captures these aspects:
+
+{{{65 - 85}}}
+
+Host: You are CORRECT! The rating for the story was 66. Let's go to the next question.
+## Story: unlicensed doctor Leaves You Wtih One-inch Penis during operation
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To determine the appropriate interval for the misery rating of the story "Unlicensed Doctor Leaves You with One-Inch Penis during Operation," let's consider the "Three Pillars of Misery":
+
+- **Physical Pain**: There is likely significant physical distress involved due to the botched operation. 
+
+- **Emotional Trauma**: This situation could cause profound emotional trauma, due to the dramatic and intimate nature of the physical alteration, potentially affecting one's body image and sexual identity.
+
+- **Long-term Psychological Impact**: The long-term consequences could be severe, including impacts on personal relationships, self-esteem, and quality of life. The psychological toll could be immense because of permanent physical change resulting from medical malpractice.
+
+Considering these factors, this scenario scores high in all three pillars, suggesting a very high misery rating.
+
+Given this analysis, the interval should reflect a significantly high level of misery associated with the physical, emotional, and psychological repercussions:
+
+{{{85 - 95}}}
+
+Host: You are CORRECT! The rating for the story was 93. Thank you for playing!

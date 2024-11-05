@@ -1,0 +1,203 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: You Are Mistakenly Deported. Misery Rating = 81
+## Hypothetical Situation 2: Find Your Grandpa's Diary; Discover He Was a Nazi. Misery Rating = 43
+## Story: There's a Live Leech up Your Nose
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Given the story "There's a Live Leech up Your Nose," let's consider the potential misery involved:
+
+- **Physical pain:** Having a live leech in your nose would be certainly unpleasant and could involve discomfort or pain, but it might not be as severe as some other physical ailments.
+- **Emotional trauma:** This could be quite disturbing emotionally, as dealing with a parasite in your body might invoke feelings of disgust or fear.
+- **Long-term psychological impact:** While it's an uncomfortable and memorable experience, it may not cause significant long-term psychological issues compared to more extreme scenarios.
+
+Comparing this to the hypothetical situations:
+
+1. **Being mistakenly deported (Misery Rating = 81):** This involves significant disruption in life, potential loss of contact with family, and possible legal battles, resulting in high misery.
+2. **Finding out your grandpa was a Nazi (Misery Rating = 43):** This would be considerable emotional trauma, but with less direct physical or immediate life upheaval.
+
+A leech in the nose might be more distressing than discovering unsettling family history due to the immediate physical and emotional impact but likely less significant than the life-altering experience of deportation. 
+
+Hence, I would place it between these two situations.
+
+My final answer is: {{{between}}}
+
+Host: You are CORRECT! The rating for the story was 58. Let's go to the next question. 
+## Story: You're a Principal who hired a pole dancer to welcome kindergartners to school
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Let's evaluate the story "You're a Principal who hired a pole dancer to welcome kindergartners to school" in terms of the "Three Pillars of Misery":
+
+- **Physical pain:** There is unlikely to be any physical pain involved in this scenario.
+- **Emotional trauma:** This situation could be highly embarrassing and might cause emotional distress due to public backlash and potential damage to one's reputation.
+- **Long-term psychological impact:** The long-term impact could be significant if it affects your career, personal reputation, and community standing.
+
+Now, let's compare this to the hypothetical situations:
+
+1. **Being mistakenly deported (Misery Rating = 81):** This involves serious legal and personal upheaval, along with the potential for significant life disruption, and is typically a high-misery scenario.
+2. **Finding out your grandpa was a Nazi (Misery Rating = 43):** This might cause emotional disturbance and lead to family tensions but lacks the immediate professional and public consequences of the current story.
+
+Hiring a pole dancer for kindergartners is likely to receive immense media attention, resulting in severe professional and social consequences. This situation may be more immediately impactful than discovering disturbing family history (rating 43) but likely less severe than the life-altering effects of deportation (rating 81).
+
+Therefore, I would place it between the two situations.
+
+My final answer is: {{{between}}}
+
+Host: You are CORRECT! The rating for the story was 63. Let's start the Round 2, More or Less Miserable.
+## Story 1: You Meet a Friendly Masturbator. Misery Rating = 38
+## Story 2: You Almost Get Carjacked by a Naked Man
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Let's analyze the two stories for their misery potential:
+
+1. **Meeting a Friendly Masturbator (Misery Rating = 38):**
+   - **Physical pain:** There's generally no physical pain involved in this scenario.
+   - **Emotional trauma:** The situation is awkward and possibly uncomfortable, but it's more about an embarrassing or awkward encounter.
+   - **Long-term psychological impact:** This is usually a fleeting, albeit unpleasant, experience without significant long-term effects.
+
+2. **Almost Getting Carjacked by a Naked Man:**
+   - **Physical pain:** While you might escape unharmed, the threat of physical danger is more immediate compared to the first scenario.
+   - **Emotional trauma:** This situation could be quite frightening and stressful due to the potential for violence or danger.
+   - **Long-term psychological impact:** The experience of almost getting carjacked, regardless of the carjacker's state, is likely to have a more lasting impact than an awkward encounter.
+
+Given these factors, "almost getting carjacked" seems more distressing due to the potential danger and the emotional trauma involved. 
+
+Therefore, I would consider Story 2 to have a higher misery rating than Story 1.
+
+My final answer is: {{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 45. Let's go to the next question.
+## Story 1: You Accidentally Sext Your Dad. Misery Rating = 50
+## Story 2: Your Dad Accidentally Sexts You
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Let's evaluate the two stories in terms of their potential misery:
+
+1. **Accidentally Sexting Your Dad (Misery Rating = 50):**
+   - **Physical pain:** There is no physical pain involved.
+   - **Emotional trauma:** This is a highly awkward and embarrassing situation, which can cause significant discomfort and anxiety.
+   - **Long-term psychological impact:** It may have lingering awkwardness but is typically resolved with time and communication.
+
+2. **Your Dad Accidentally Sexting **
+   - **Physical pain:** Again, there is no physical pain involved.
+   - **Emotional trauma:** This situation could be even more awkward and disturbing, given the reversal of roles and the potential implications for your perception of familial boundaries.
+   - **Long-term psychological impact:** The discomfort and potential impact on your relationship with your father might be more significant here, possibly leading to a more profound and unsettling experience.
+
+Considering the above points, the situation where your dad accidentally sexts you might be more distressing due to the reversal of roles and potential implications, potentially leading to a higher misery rating.
+
+My final answer is: {{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 61. Let's start the Round 3, Master of Misery.
+## Story: You Suck a Lady's Dirty Foot
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: Let's evaluate the story "You Suck a Lady's Dirty Foot" in terms of the "Three Pillars of Misery":
+
+- **Physical pain:** There is no physical pain involved in this action.
+- **Emotional trauma:** This situation could be extremely distressing and embarrassing due to the unsanitary and uncomfortable nature of the act.
+- **Long-term psychological impact:** Depending on the context, it could lead to lasting feelings of shame or discomfort, especially if it involved a public or unexpected scenario.
+
+Based on previous scenarios and their ratings:
+
+- Stories with significant social awkwardness or embarrassment, such as accidentally sexting a parent, have ratings around the 50s and low 60s.
+- More distressing situations, like almost getting carjacked, fall in the mid-40s.
+
+Given the intimate and potentially humiliating nature of this scenario, with emphasis on the emotional discomfort and embarrassment it could cause, I'd estimate its misery rating to be moderately high due to those factors.
+
+My final answer is: {{{55}}}
+
+Host: The rating for the story was 45. You were off by 10 points! Let's start the Bonus Round, Margin of Misery.
+## Story: You found a dead mouse inside your can of Red Bull after taking a sip and feeling something hit your lip.
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Let's evaluate the story "You found a dead mouse inside your can of Red Bull after taking a sip and feeling something hit your lip" in terms of the "Three Pillars of Misery":
+
+- **Physical pain:** There isn't physical pain, but there is a strong revulsion factor upon realization of what has happened.
+- **Emotional trauma:** This scenario is likely extremely distressing and could even cause a gag reflex or vomiting due to how gross the experience is.
+- **Long-term psychological impact:** This situation could leave you wary of drinking from cans again, potentially resulting in lasting changes to habits or a mild lingering phobia around beverages.
+
+For context:
+
+- Situations involving intense gross-out factors and surprise/disgust often hover around the mid to high range, considering their short-lived but powerful impact.
+
+To frame this scenario within a suitable range:
+
+- Similar scenarios of unexpected disgusting events can usually hit ratings in the mid-50s to high 60s.
+
+Given the acute shock factor and potential for subsequent queasiness and distrust in packaged beverages, I'd place the misery rating slightly on the higher end of moderate discomfort.
+
+My final answer is: {{{55 - 85}}}
+
+Host: You are CORRECT! The rating for the story was 65. Let's go to the next question.
+## Story: You Eat 2 Lbs of Your Own Hair which is then removed from your stomach by doctors
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Let's evaluate the story "You Eat 2 Lbs of Your Own Hair which is then removed from your stomach by doctors" in terms of the "Three Pillars of Misery":
+
+- **Physical pain:** There could be significant discomfort and pain associated with having that much hair in your stomach and the subsequent medical procedure to remove it.
+- **Emotional trauma:** This is a distressing and bizarre situation that could involve embarrassment and anxiety due to the unusual nature of the situation.
+- **Long-term psychological impact:** The incident may have lasting emotional effects, such as shame or anxiety about eating behaviors.
+
+For context:
+
+- Situations involving medical intervention for unusual or self-inflicted problems can elevate the misery scale into the higher range due to both physical and emotional factors.
+
+Considering previous scenarios and the level of physical and emotional distress involved, this situation could be fairly high on the misery scale.
+
+Given the combination of physical discomfort, medical intervention, and psychological factors, I'd estimate the rating to fall on the higher side of moderate-to-severe discomfort.
+
+My final answer is: {{{60 - 80}}}
+
+Host: You are CORRECT! The rating for the story was 71. Let's go to the next question.
+## Story: You Have One Happy Day in 129 Years
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Let's evaluate the story "You Have One Happy Day in 129 Years" in terms of the "Three Pillars of Misery":
+
+- **Physical pain:** There isn't direct physical pain in this description, but the implication of an extraordinarily long life with only one happy day can be mentally distressing.
+- **Emotional trauma:** This situation involves a profound sense of emotional deprivation and sadness, suggesting a life overwhelmingly filled with sorrow.
+- **Long-term psychological impact:** This is potentially extreme, as the narrative suggests a near-lifelong absence of joy, posing severe implications on one's mental well-being.
+
+For context:
+
+- Situations with profound emotional and psychological suffering often rank very high in terms of misery, due to their deep and lasting effects on a person's psyche.
+
+Given the intensity of the emotional and psychological implications, the rating would likely fall towards the top of the scale, reflecting severe and enduring misery.
+
+My final answer is: {{{90 - 100}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 45. Thank you for playing!

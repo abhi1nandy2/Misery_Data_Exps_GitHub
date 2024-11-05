@@ -1,0 +1,517 @@
+Ep #,Misery,Score,VNTO,Reward,Win,Comments,question_tag,level
+1x01,You Send a Nude Selfie to HR by mistake,70,T,,,,1_base,
+1x01,You find Maggots in your Fried Rice,45,T,,,,1_base,
+1x01,You are Attacked by a bear after Reasoning with the bear,52,V,500,n,,1_1,higher
+1x01,You Left your Mic On and Went Toilet,49,V,500,y,,1_2,
+1x01,You go to a doctor. Doctor Borrows $300k from you and  then diagnoses you with Dementia,76,N,,,,2_1_base,
+1x01,You are breastfed until you are 9,63,N,,,,2_2_base,
+1x01,You are Fired After Donating Kidney to help your Boss,69,N,1000,n,,2_1,
+1x01,You as a Teen are forced by your parents to Live in Woods for eating a pop-tart,69,N,1000,y,,2_2,
+1x01,You offend a room of feminist panelists,47,V,2000,y,,3,51
+1x01,You discover your wife cheating in your Uber,76,N,5000,n,,4_1,lower
+1x01,You are in an Escalator which Speeds Up,32,V,10000,y,,4_2,
+1x01,Your testicles get stuck in the shower stool,49,N,15000,y,,4_3,
+1x02,Your Parents Leave You in a Corn Maze,75,N,,,,2_1_base,
+1x02,You bite Your Tongue Off,73,T,,,,1_base,
+1x02,Your Wife Calls out Your Cheating on Billboard,71,N,1000,y,(Snopes says did not happen),2_2,
+1x02,You Burn Your Penis Trying to Whiten It,69,N,1000,n,,2_1,
+1x02,Your Toes Replace Your Fingers,68,V,500,y,,1_1,
+1x02,You Plummet 30 Stories (you survived it!),67,V,500,n,(can't find exact video),1_2,higher
+1x02,Wife Buys Newspaper Ad About You and Baby Mama,62,N,,,,2_2_base,
+1x02,You Think You Won a Prize; Actually Getting Arrested,62,V,10000,n,,4_2,lower
+1x02,Your Daughter Marries a Roller Coaster,60,N,15000,y,,4_3,
+1x02,You are attacked by a Swarm of Bees,44,T,,,,1_base,
+1x02,You Publicly Ask for Toilet Paper while you are pooping in the toilet,38,V,2000,y,,3,36
+1x02,You Have a Giant Black Pimple,37,N,5000,y,,4_1,
+1x03,You Lose an Arm in Grinder,96,N,1000,y,,2_1,
+1x03,You Contract Super-Gonorrhea,81,N,,,,2_2_base,
+1x03,You're an Anti-gay Pastor Caught on Grindr,74,N,,,,2_1_base,
+1x03,Live Tapeworm in Your Brain,73,N,1000,n,,2_2,
+1x03,Fired for Letting Kids Drive Your Bus,71,V,2000,y,(can't find exact video),3,56
+1x03,You're Taken Hostage During a Bank Robbery,67,T,,,,1_base,
+1x03,Doctors Misplace Your Bladder,64,V,5000,y,(can't find video),4_1,
+1x03,You Faint During Bride's Vows,58,V,500,y,,1_2,
+1x03,You Butt Dial Your Victim,52,N,15000,n,,4_3,higher
+1x03,You and Mom Are Addicted to Cosmetic Surgery,48,N,500,n,,1_1,lower
+1x03,You are Stuck in Elevator Overnight with Mariah's X-Mas Song on Repeat as the Elevator Song,42,T,,,,1_base,
+1x03,Pop Rocks in Your Vagina,40,N,10000,n,,4_2,higher
+1x04,Your Wife Cuts off Your Genitals Twice,92,N,15000,y,,4_3,
+1x04,Dad Tries to Kill You with a Chainsaw,83,N,,,,2_1_base,
+1x04,You're Stuck in Traffic for 11 Days,79,N,5000,n,,4_1,lower
+1x04,Dad Tries to Circumcise You at 20,78,N,1000,n,,2_1,
+1x04,Your Doctor Isn't a Doctor Just A Teen,71,N,,,,2_2_base,
+1x04,Live Eel Removed from Your Body,70,N,500,y,,1_2,
+1x04,Your Butt Implants Leak,64,N,1000,n,,2_2,
+1x04,Your Boyfriend Pushes You off a Cliff (you survived it),59,V,500,y,,1_1,
+1x04,You Have a Wet Dream About Your Dad,54,T,,,,1_base,
+1x04,You lose an election to a dead pimp,57,V,2000,y,,3,46
+1x04,You Slam Your Car into a Building,51,N,10000,n,,4_2,lower
+1x04,You Are Sprayed by a Skunk,37,T,,,,1_base,
+1x05,Your Surgeon's Mistake Leaves You Legless,100,N,10000,n,,4_2,lower
+1x05,Your Landlord pees on Your Lunch,80,V,500,n,,1_2,middle
+1x05,You Have a Permanent Bald Spot,76,N,1000,y,,2_1,
+1x05,You Go Hang... Gliding,75,V,2000,y,,3,76
+1x05,You Are Attacked by a Sea Lion,69,V,1000,y,,2_2,
+1x05,You are Struck by Lightning 3 Times,67,V,5000,n,,4_1,lower
+1x05,Surprise! You're Having Triplets at 50,60,T,,,,1_base,
+1x05,Your Breast Implants Make Fart Noises,59,N,,,,2_1_base,
+1x05,Your Parents Terrify You,53,V,,,(can't find video),2_2_base,
+1x05,You're Caught Lying on TV,50,V,500,y,,1_1,
+1x05,You have a Drunken Makeout with an Old Lady,28,V,15000,n,(can't find video),4_3,higher
+1x05,Your Drunk Mom Complains About her Sex Life,27,T,,,,1_base,
+1x06,Exploding Vape Breaks Your Jaw,81,N,15000,n,,4_3,higher
+1x06,Severely Burn Your Junk,80,N,1000,y,,2_1,
+1x06,You Get Accidental Man Boobs,73,V,1000,y,(can't find video),2_2,
+1x06,You Give Birth to Twins 87 Days Apart,71,N,,,,2_2_base,
+1x06,Your Wife Changes Your Dating Profile,69,N,10000,y,,4_2,
+1x06,You Find a Spider Living in Your Ear,62,V,500,n,,1_1,middle
+1x06,You Win Powerball but you lose the Ticket,58,T,,,,1_base,
+1x06,You Experience Pains of Labor,57,V,2000,y,,3,59
+1x06,Watch Your Parents Filming Sex Scenes,52,N,,,,2_1_base,
+1x06,You are accused of chicken shack bomb threat; clarified it was a bowel explosion,43,N,5000,n,,4_1,lower
+1x06,Surprise! You Were a Surprise,32,T,500,y,(can't find video),1_2,
+1x06,Your Pubes are Caught in your Zipper,21,T,,,,1_base,
+1x07,Explosive Diarrhea Every Time You Orgasm,66,T,,,,1_base,
+1x07,You Have 232 Teeth Removed,65,N,5000,y,,4_1,
+1x07,You receive 65000 Texts After One Date,60,V,500,y,,1_1,
+1x07,Trapped in Your Tub for 5 Days,59,N,,,,2_2_base,
+1x07,You try to Go to Jail to Escape Wife,59,N,10000,n,,4_2,lower
+1x07,Python in Your Toilet,54,V,1000,n,(can't find video),2_2,
+1x07,You all Prayed the Wrong Way for 37 Years,51,N,,,,2_1_base,
+1x07,Dad Nearly Drowns You for Clicks,44,V,500,n,(can't find video),1_2,higher
+1x07,You're Not Infertile Just Doing It Wrong (Anal Sex),44,N,1000,y,,2_1,
+1x07,You Tank a Wedding Toast,42,V,2000,,,3,36
+1x07,You're Stuck on 8 Hour Flight with Demon Child,37,V,15000,n,,4_3,higher
+1x07,Your Dog Eats Your Neighbor's Bunny,35,T,,,,1_base,
+1x08,Your Dog Loves Bones,91,N,10000,y,,4_2,
+1x08,You Confuse a Stick of Dynamite for a Candle,81,V,15000,y,,4_3,
+1x08,Your Mom Marries Your Son,76,V,500,y,(can't find video),1_1,
+1x08,You Snort Grandpa's ashes,69,N,5000,n,,4_1,lower
+1x08,You Wake up Covered in Fire Ants,68,T,,,,1_base,
+1x08,Your Husband Wins lottery and Leaves You,66,N,1000,y,,2_1,
+1x08,You Are Impaled Ta-Dah!,64,N,500,n,,1_2,higher
+1x08,Everyone Knows You Hate Babies,59,N,,,(article has diff pic than show),2_2_base,
+1x08,You Get a Public Prostate Exam,47,V,4000,y,,3,47
+1x08,Your Husband Fakes Death to Avoid Paying You,41,N,,,,2_1_base,
+1x08,Your Partner Screams Their Ex's Name During Sex,37,T,,,,1_base,
+1x08,Yes Even YOU as a Bill Mitchell Can Be Hacked,35,O,1000,n,(orig tweets deleted),2_2,
+1x09,You Are Mistakenly Deported,81,T,,,,1_base,
+1x09,You Eat 2 Lbs of Your Own Hair which is then removed from your stomach by doctors,71,N,10000,n,,4_2,lower
+1x09,You found a dead mouse inside your can of Red Bull after taking a sip and feeling something hit your lip.,65,N,5000,n,,4_1,lower
+1x09,You're a Principal who hired a pole dancer to welcome kindergartners to school,63,N,500,y,,1_2,
+1x09,Your Dad Accidentally Sexts You,61,N,1000,y,,2_2,
+1x09,There's a Live Leech up Your Nose,58,N,500,y,,1_1,
+1x09,You Accidentally Sext Your Dad,50,N,,,(can't find article),2_2_base,
+1x09,You Almost Get Carjacked by a Naked Man,45,N,1000,y,,2_1,
+1x09,You Suck a Lady's Dirty Foot,45,V,2000,y,,3,34
+1x09,You Have One Happy Day in 129 Years,45,N,15000,n,,4_3,higher
+1x09,Find Your Grandpa's Diary; Discover He Was a Nazi,43,T,,,,1_base,
+1x09,You Meet a Friendly Masturbator,38,N,,,,2_1_base,
+1x10,Oops! You Married Your Father,90,N,500,y,,1_1,
+1x10,You Are Stuck Inside Your Mistress,84,N,1000,y,,2_1,
+1x10,You Get Mauled by a Chimp,70,T,,,,1_base,
+1x10,You Are Addicted to Fortnite,69,N,5000,n,,4_1,lower
+1x10,Your Bride Reads Your Sexts from your affair as Vows,68,N,,,,2_1_base,
+1x10,You Leak Brain Fluid,64,N,15000,y,,4_3,
+1x10,You Destroy Kids' Art,48,V,4000,y,,3,48
+1x10,Your Bedtime Story; Alcoholic Dad,40,O,,,,2_2_base,
+1x10,You Pass a Kidney Stone,39,T,,,,1_base,
+1x10,Your Bedtime Story; Parents Who Fight,38,O,1000,n,,2_2,
+1x10,Your First Kiss Goes Viral,33,V,500,y,,1_2,
+1x10,Your Seatmate Dries her Underwear,32,N,10000,y,,4_2,
+2x01,unlicensed doctor Leaves You Wtih One-inch Penis during operation,93,N,15000,y,,4_3,
+2x01,A Tooth is Growing in Your Nose,70,N,1000,y,,2_1,
+2x01,You Nearly Drown in a Wave Pool,66,N,10000,y,,4_2,
+2x01,A Hawk Steals Your Puppy,61,T,,,,1_base,
+2x01,You're Forced to Get a Jaden Smith Tattoo,52,V,2000,y,,3,43
+2x01,You are blinded by hair dye allergy,51,N,,,,2_1_base,
+2x01,Your Hand Gets Stuck in the Toilet and it Goes Viral,47,V,5000,y,,4_1,
+2x01,Brother-In-Law is in Love With You,37,T,,,,1_base,
+2x01,You Accidentally Kick a Baby in the Face,35,V,500,n,,1_1,middle
+2x01,Online Dating Match Mocks Your Late Boyfriend,27,T,1000,y,(fake ? text message exchange),2_2,
+2x01,Your First Kiss Ever is at Your Wedding,21,V,500,y,,1_2,
+2x01,You Mistakenly overshare With Your Uber Driver,11,T,,,(fake ? text message exchange),2_2_base,
+2x02,You Get Hit by a Bus,88,V,1000,y,,2_2,
+2x02,You Find Out Your Lover is Your Brother,79,V,500,y,(can't find video),1_1,
+2x02,You Shoot Yourself During Gun Demo,78,V,500,y,,1_2,
+2x02,Husband Bulldozes Your House while you were out,65,N,15000,n,,4_3,higher
+2x02,You slip and Break Your Face on TV,63,V,4000,y,,3,63
+2x02,Your Head Gets Stuck in Subway Doors,59,N,,,,2_2_base,
+2x02,You Botch The National Anthem on TV,56,T,,,,1_base,
+2x02,You Have Rubbish Teeth,50,N,1000,y,,2_1,
+2x02,You Choke on a Crumpet During High Tea,39,T,,,,1_base,
+2x02,You Fall During the Changing of the Guard,37,V,10000,n,,4_2,lower
+2x02,Your Neighbors Have the Loudest Sex in NY,34,N,,,,2_1_base,
+2x02,Rats Steal Your Toddler's Snacks,33,N,5000,y,,4_1,
+2x03,You Drive an SUV Off a Cliff,83,V,1000,y,,2_1,
+2x03,Bleeding occurred in ears & noses because Your Flight Crew Forgets to Pressurize the Plane,74,N,15000,n,,4_3,higher
+2x03,You Catch Your Wife Cheating on Google Street View,68,N,,,,2_1_base,
+2x03,You wrongly hear Your Plane is Crashing,64,N,1000,y,DailyMail version not avail?,2_2,
+2x03,You Accidentally Trigger a false Incoming Missile Alert,61,N,,,,2_2_base,
+2x03,You Get Hit by a sports Car,60,V,500,y,,1_2,
+2x03,Accidentally CC the Person You're S**t-Talking,56,T,,,,1_base,
+2x03,Your Toddler is Trapped Inside a Skee-Ball Machine,46,N,10000,y,,4_2,
+2x03,You Drop a Baby,41,V,500,y,,1_1,
+2x03,A Python Comes Out of Your Bathroom,39,V,5000,y,,4_1,
+2x03,Stuck in Jail Overnight With Your Ex,38,T,,,,1_base,
+2x03,You Pee Your Pants in Public,34,V,4000,y,,3,34
+2x04,Ruptured Your Bladder Jumping a Fence,80,T,,,,1_base,
+2x04,See Your Dad in a Vintage Porno,55,T,,,,1_base,
+2x04,You Get Run Over by a Boat,69,V,500,y,,1_1,
+2x04,You Flash Everyone at Your Wedding,59,V,500,y,,1_2,
+2x04,A Python Bites Your Penis while you are sitting on a toilet,83,N,1000,y,,2_1,
+2x04,A Potato Is Growing in Your Vagina,60,N,,,,2_1_base,
+2x04,Your Car is Kangarooed,38,V,,,,2_2_base,
+2x04,A Cow Kicks Your Ass,56,V,1000,y,,2_2,
+2x04,You Lose Your Eyebrows,36,V,2000,y,,3,38
+2x04,You Poop so Hard You Forget a Decade,63,N,5000,y,,4_1,
+2x04,A Cliff Falls on You,81,V,10000,n,,4_2,lower
+2x04,Dentures are Lodged In Your Throat eight days after surgery,61,N,15000,n,,4_3,lower
+2x05,You Fall off a Cruise Ship Taking a Selfie,80,T,,,,1_base,
+2x05,You Live Below a Tap Dance Studio,55,T,,,,1_base,
+2x05,Your Plane Hits a Plane,93,V,500,y,,1_1,
+2x05,A Dog Crashes Into Your Store,63,V,500,n,,1_2,lower
+2x05,You and Your Family Accidentally Join ISIS,62,N,1000,n,,2_1,
+2x05,You're Accidentally Circumcised at 70 due to hospital mix-up,77,N,,,,2_1_base,
+2x05,You Freeze on Live TV,44,V,,,,2_2_base,
+2x05,You Stab Yourself on Live TV on Shop at Home Network,63,V,1000,y,,2_2,
+2x05,You're a Cow's Midwife,28,V,2000,y,,3,35
+2x05,You Walk Into a Streetlight,22,V,5000,y,,4_1,
+2x05,26 Cockroaches Are Living In Your Ear,60,N,10000,y,,4_2,
+2x05,You Rip Out all your eyelashes off because of an eyelash curler,36,O,15000,n,,4_3,higher
+2x06,Poison Ivy in Your Mouth and Throat,68,T,,,,1_base,
+2x06,You Drop Grandma and She Chips Her last Tooth,48,T,,,,1_base,
+2x06,You Dive Into the High Dive naked,53,V,500,n,,1_1,higher
+2x06,You Get Sucked Into the Escalator,75,V,500,y,,1_2,
+2x06,You End Up Drunk & Pantless on a Train,57,N,,,,2_1_base,
+2x06,You Drive Your Scooter into a Sinkhole,69,V,1000,y,,2_1,
+2x06,You Accidentally Eat Hash Cake at a Funeral,41,N,1000,n,,2_2,
+2x06,You Find Human Remains Outside of a Chili's,43,V,,,,2_2_base,
+2x06,You Cause Your Kid to Get Hit by a Car,89,O,2000,y,(no video story told by Sal's dad),3,75
+2x06,Your Towed Car Rolls into Pool,46,V,5000,y,,4_1,
+2x06,Boiling Butter Poured Down Your Butt and you got burnt,81,N,10000,n,,4_2,lower
+2x06,You Find a Clown in Your Bedroom,50,N,15000,n,,4_3,higher
+2x07,You Sit Next to the Bathroom on a 14-Hour Flight,28,T,,,,1_base,
+2x07,You Get Stuck in a Meat Locker,67,T,,,,1_base,
+2x07,An Elephant Hits You in the Face,45,V,500,y,,1_1,
+2x07,You Base Jump Into a Cliff,73,V,500,y,,1_2,
+2x07,Your Dad is Sleeping With a Sex Doll,39,V,1000,y,,2_1,
+2x07,Your Mom Talks About Anal,38,V,,,,2_1_base,
+2x07,Doctors plucked an active inch-long parasitic worm From Your Eye,70,N,,,,2_2_base,
+2x07,You Cough Up a Lung-Shaped Blood Clot,79,N,1000,y,,2_2,
+2x07,You're Hit Repeatedly With a Baseball Bat as a pinata,50,V,2000,y,,3,59
+2x07,You Keep Getting Dropped From a Stretcher during a soccer match,49,V,5000,y,,4_1,
+2x07,Allergic to Your Husband's Semen,76,N,10000,y,,4_2,
+2x07,You Lose Half Your Head due to drugs lab explosion,97,N,15000,y,,4_3,
+2x08,You're Subpoenaed to Testify Before Congress,49,T,,,,1_base,
+2x08,Your Ex Makes a Sex Doll of You,28,T,,,,1_base,
+2x08,You Get Kicked in the Head by a Groomsman,51,V,500,n,,1_1,middle
+2x08,Your Neighbor's Halloween Display Gives You Nightmares,35,N,500,y,,1_2,
+2x08,You Get Arrested for Giving a Fake Name even though you have a tattoo with your actual name,43,N,,,,2_1_base,
+2x08,You are a burglar and the Ski Mask on the face drawn using marker Doesn't Fool the Police,56,N,1000,y,,2_1,
+2x08,You're Trapped on a Flaming Tree,73,V,1000,y,,2_2,
+2x08,Train Hits You With a Snow Tsunami,37,V,,,,2_2_base,
+2x08,You're Stuck in an Elevator With a Cat & a Sick Person,40,V,2000,y,,3,43
+2x08,Everyone But You Wins the Lottery,51,N,5000,y,,4_1,
+2x08,After you advocated caning for adultery you got caned for adultery,62,N,10000,y,,4_2,
+2x08,A Carnival Ride Almost Kills You,72,V,15000,n,,4_3,higher
+2x09,You Shred Your Knuckles on a Cheese Grater,47,T,,,,1_base,
+2x09,Oops! You Live-Streamed Yourself Masturbating,73,T,,,,1_base,
+2x09,Your Meal Walks off the Plate,42,V,500,n,,1_1,middle
+2x09,Your Cat Eats Your Squirrel,55,V,500,y,,1_2,
+2x09,You Get Shot in the Heart With Crossbow,78,N,1000,y,,2_1,
+2x09,Your Wife divorces You for the Wedding DJ,63,N,,,,2_1_base,
+2x09,A Ghost Scares Your Baby,53,V,,,,2_2_base,
+2x09,A Home Invader Watches Your Sleep,62,V,1000,y,,2_2,
+2x09,A Stranger urinates on You,49,V,2000,y,,3,40
+2x09,You're Allergic to Everything including your own hair,86,N,5000,y,,4_1,
+2x09,You Fly Off a Water Slide,55,V,10000,n,,4_2,higher
+2x09,You woke up without a penis,95,N,15000,y,,4_3,
+2x10,Your Ex is Dating a Brazilian Model,35,T,,,,1_base,
+2x10,Person Giving You Mouth-to-Mouth Has Oozing Sore,65,T,,,,1_base,
+2x10,Your Penis is Stuck in a Toilet Pipe,70,N,500,y,,1_1,
+2x10,You Cause a Bike-a-lanche while riding a cycle down an ice-capped mountain. When you stumble and fall other people riding cycles behind crash into your bike and fall down.,66,V,500,y,,1_2,
+2x10,Frozen excrement dropped from plane crashed through your roof,50,N,,,,2_1_base,
+2x10,1700 bats invaded your tiny flat & started mating,60,N,1000,y,,2_1,
+2x10,You Knock Out your Accomplice,45,V,1000,y,,2_2,
+2x10,911 Operator Threatens to Shoot Your Daughter,41,V,,,,2_2_base,
+2x10,You Lose Your Phone in a Trash Barge,50,V,2000,y,,3,27
+2x10,Your Friend Bites Your Ear Off and tells cops she was a wolf,78,N,5000,y,,4_1,
+2x10,You Pass Out in a Urine Trough,48,N,10000,y,,4_2,
+2x10,You explode while on BBC,80,V,15000,y,,4_3,
+2x11,Hairdresser Sneezes and Gives You Bangs,44,T,,,,1_base,
+2x11,Your Child Joins an A Cappella Group,20,T,,,,1_base,
+2x11,A Woman Gives Birth In Your Cab,33,V,500,y,,1_1,
+2x11,You Faint During Your Friend's Wedding,32,V,500,n,Yet 58 for fainting during your bride's vows,1_2,higher
+2x11,Your Anger Management Classmate Stabs You,78,N,1000,y,,2_1,
+2x11,Your Home is Trashed in a Drug-Fueled Orgy,73,V,,,,2_1_base,
+2x11,You are caught after Falling Asleep During Sex in Public in a university hallway,52,N,1000,y,,2_2_base,
+2x11,Dad Steals Your Girl Scout Cookie Money for an Erotic Massage,50,N,,,,2_2,
+2x11,A Creepy Stranger Watches You Workout,21,V,2000,y,,3,24
+2x11,You Get Bitten by a Snake While Sleeping,70,V,5000,y,,4_1,
+2x11,Your Car is Dragged for Miles,57,V,10000,y,,4_2,
+2x11,You are a doctor who Sucks Out a Passenger's Urine for 37 Minutes Mid-Flight to save his life,56,N,15000,n,,4_3,higher
+2x12,Your Luggage Arrives Soaking Wet,37,T,,,,1_base,
+2x12,You See Your Mom on an Ad for Escorts,62,T,,,,1_base,
+2x12,Your Wedding Officiant Pukes Mid-Vows,38,V,500,y,,1_1,
+2x12,Your Doctor Disses You During Surgery,51,V,500,y,,1_2,
+2x12,Your Kid Drops the Cymbals in their School Assembly while playing the national anthem,18,V,,,,2_1_base,
+2x12,Your Kid Mocks Your Sex Noises,36,V,1000,y,,2_1,
+2x12,You Discover Your Ex was Living in Your Attic 12 years after breakup,71,N,1000,y,,2_2,
+2x12,Your Girlfriend removed Her Belly Button and gifted it to you,44,N,,,,2_2_base,
+2x12,You're Tortured With Spiders,48,V,2000,y,,3,39
+2x12,Your Head Is Stuck in a Tailpipe,64,V,5000,y,,4_1,
+2x12,You discover that you are the Face of  Ukrainian Erectile Dysfunction Pills,39,N,10000,n,,4_2,lower
+2x12,Flight Takes Off Without Your Baby and has to turn around,75,N,15000,y,,4_3,
+2x13,Lose Your Sense of Smell,66,T,,,,1_base,
+2x13,You're Ignored in a Threesome,39,T,,,,1_base,
+2x13,A Freeway Sign Crushes Your Car,77,V,500,y,,1_1,
+2x13,You Look Like a Doodle,34,V,500,y,,1_2,
+2x13,You Can't Find Your Car for a Week,41,N,,,,2_1_base,
+2x13,You escaped injury when cactus pierced windshield,51,N,1000,y,,2_1,
+2x13,A Moose Knocks You Off Your Bike,39,V,,,,2_2_base,
+2x13,Your Dog Pees in Your Mouth,37,V,1000,n,,2_2,
+2x13,You Have to Jerk Off an Old Man's Toe,28,V,2000,y,,3,23
+2x13,You Get Trapped in a Stranger's Garage,49,V,5000,n,,4_1,lower
+2x13,Stranger Spits Food in Your Mouth during a road rage incident,52,N,10000,y,,4_2,
+2x13,You suffered rectal blowout after your friends put air compressor into your anus,86,N,15000,n,,4_3,higher
+2x14,Glass Thermometer Shatters in Your Mouth,58,T,,,,1_base,
+2x14,Your Feet Appear on a Fetish Website,30,T,,,,1_base,
+2x14,A Snake Bites Your Face,62,V,500,y,,1_1,
+2x14,You Pass Out on Live TV,44,V,500,y,,1_2,
+2x14,You're Trapped in a Coma for 12 Years,85,N,1000,y,didn't mention 'Barney' aspect?!,2_1,
+2x14,You are a patient with bizarre form of amnesia and you feel like you are still in 2005 after a routine dental treatment,83,N,,,,2_1_base,
+2x14,You're Addicted to Cat Fur,57,V,,,,2_2_base,
+2x14,An Octopus is Stuck on Your Face,49,V,1000,n,,2_2,
+2x14,You're Forced to Go Skydiving,35,V,2000,y,,3,47
+2x14,You are a woman who has 44 Kids by age 36,74,N,5000,n,Title used from DailyMail article though,4_1,lower
+2x14,Your Bus Breaks in Half at the middle while you are standing in the back,45,V,10000,y,,4_2,
+2x14,You Have a Fork in Your Penis that is surgically removed,80,N,15000,y,,4_3,
+2x15,Your Fingernails Fall Off,62,T,,,,1_base,
+2x15,Coworker Keeps Eating Your Lunch,37,T,,,,1_base,
+2x15,You Can't Stop Orgasming,56,V,500,n,,1_1,higher
+2x15,You Are Windmilled,31,V,500,n,,1_2,middle
+2x15,Surprise! You're Related to Your Husband,70,N,1000,y,,2_1,
+2x15,Surprise! Your Husband has a Micropenis,59,N,,,,2_1_base,
+2x15,Your Halloween Fangs are Permanently Attached and you are unable to remove them,54,N,,,,2_2_base,
+2x15,You Grow a Devil Horn and it is taken off,72,N,1000,y,,2_2,
+2x15,A Stranger Ruins Your UNIVERSAL STUDIOS Tour,20,V,2000,y,,3,36
+2x15,You Super Glue Your Eyelid Shut,68,V,5000,y,,4_1,
+2x15,Your Girlfriend left $5K tip on Your Credit Card because she was angry at you,51,N,10000,n,,4_2,lower
+2x15,A Frog Jumps In Your Mouth,39,V,15000,y,,4_3,
+2x16,Your Nose Job Gets Botched,75,T,,,,1_base,
+2x16,You Are the Ugly Twin,51,T,,,,1_base,
+2x16,Your Daughter Can Only Fall in Love with Objects in San Francisco,61,V,500,y,,1_1,
+2x16,You're Thrown From a Carnival Ride,64,V,500,n,,1_2,higher
+2x16,You caught your husband having sex with your identical twin,59,N,,,,2_1_base,
+2x16,Whoops! You Accidentally Shoot Your Mother-in-Law with bullet after shooting at an armadillo,70,N,1000,y,,2_1,
+2x16,You farted during surgery to set operating room on fire,66,N,,,,2_2_base,
+2x16,Your audible fart gave away your hiding place (when you are a suspect) which led to your arrest,51,N,1000,n,,2_2,
+2x16,Your Best Friend Marries Your Sister,45,V,2000,y,,3,55
+2x16,You Cliff Dive Into a Boat,64,V,5000,y,,4_1,
+2x16,You reported not many rattlesnakes under home but a removal company found 45,57,N,10000,n,,4_2,lower
+2x16,You Get Trapped in a Car Wash,50,V,15000,y,,4_3,
+2x17,You Ski Into a Grizzly Bear,77,T,,,,1_base,
+2x17,Your Long-Lost Sibling is an A-Hole,39,T,,,,1_base,
+2x17,You are a pilot in a jet and are about to start the plane on the runway while another plane on the runway hits your plane and you survive,71,V,500,y,,1_1,
+2x17,You Have Bees Living in Your Eye,65,V,500,n,(diff video),1_2,higher
+2x17,You Have a Baby With Your Half Sibling,76,N,,,(orig article gone? this is a follow-up),2_1_base,
+2x17,Your Penis rotted after you injected it with petroleum jelly,86,N,1000,y,,2_1,
+2x17,You're Convinced There's a Zombie Apocalypse,45,V,1000,y,,2_2,
+2x17,You Launch Your Kid Into a Wall,30,V,,,,2_2_base,
+2x17,You Take a Public Lie Detector Test,43,V,2000,y,,3,39
+2x17,Your Drunken Donkey Ride (you are passed out) while being followed by Security Officers Goes Viral,40,V,5000,y,,4_1,
+2x17,You Destroy a 100-Year-Old Painting,66,N,10000,n,,4_2,lower
+2x17,Your Dog Ate Your Toes,72,N,15000,y,,4_3,
+2x18,You're Bonked on the Head and Forget How to Read,81,T,,,,1_base,
+2x18,Sister-in-Law Pulls You into a Pyramid Scheme,36,T,,,,1_base,
+2x18,You're Crushed by Broken Glass,95,V,500,y,,1_1,
+2x18,You ate cat vomit on TV and thought it was Grape-Nuts,32,V,500,n,,1_2,middle
+2x18,You're a Priest Who Gets Caught Having Sex With a Nun,76,N,1000,y,,2_1,
+2x18,You went to jail for Masturbating in Horse Fields,64,N,,,,2_1_base,
+2x18,You Hit the Ceiling During Extreme Turbulence,51,V,1000,y,,2_2,
+2x18,Your Seat Mate's Leg Oozes Pus,38,O,,,,2_2_base,
+2x18,Your Lyft Driver is a Nightmare,19,V,2000,y,,3,18
+2x18,Your Husband Has the World's Longest Ear Hair,28,N,5000,y,,4_1,
+2x18,You Shoot Yourself With a Nail Gun in the leg,60,V,10000,y,,4_2,
+2x18,You Have Two Vaginas,65,N,15000,n,,4_3,higher
+2x19,Mother-In-Law Pokes Holes in Your Condoms,62,T,,,,1_base,
+2x19,You Gulp a Mouthful of Las Vegas Pool Party Water,33,T,,,,1_base,
+2x19,You Destroy a Warehouse,64,V,500,y,,1_1,
+2x19,Your Kids Give Themselves Haircuts,26,V,500,n,,1_2,middle
+2x19,You Get Tapeworms From Sashimi,73,N,,,,2_1_base,
+2x19,Your are suffering from a Brain Leak From Pilates,69,N,1000,n,,2_1,
+2x19,Whoops! You Eat a Quart of Paint when you thought it was yogurt,36,N,,,,2_2_base,
+2x19,You Get Hit by Bull Semen due to Semen explosion at bull insemination plant,49,N,1000,y,,2_2,
+2x19,You Get Both Nipples Pierced,38,V,2000,y,,3,35
+2x19,Your Snot Drips on Live TV,34,V,5000,y,,4_1,
+2x19,It's Raining Spiders on You,53,N,10000,n,,4_2,higher
+2x19,A Street Eats You,83,V,15000,y,,4_3,
+2x20,You're Crushed in a Black Friday Stampede,56,T,,,,1_base,
+2x20,Oops! You Re-Gift a Present to the Person Who Gave it to You,38,T,,,,1_base,
+2x20,Camel Falls on You,47,V,500,y,,1_1,
+2x20,You're Dangling Above a Mall Dressed as Santa,30,V,500,n,,1_2,middle
+2x20,Stranger broke into your home and put up Christmas decorations,51,N,,,Original article 404,2_1_base,
+2x20,Your Stalker is Stuck in Your Chimney,60,N,1000,y,,2_1,
+2x20,Your Present Flies Into the Fire,26,V,,,,2_2_base,
+2x20,You Ruin Christmas for Your Kids,41,V,1000,y,,2_2,
+2x20,You're Offered Taint for Your Christmas Meal,14,V,2000,y,(can't find video),3,13
+2x20,Your Holiday Turkey has a diseased muscle,33,N,5000,y,,4_1,
+2x20,You mistakenly write 'Molotov' Instead of 'Mazel Tov' to prominent Jewish attorney,38,N,10000,y,,4_2,
+2x20,You Crash Into the Christmas Tree,24,V,15000,y,,4_3,
+3x1,Your Ex Has a New Podcast About You,50,T,,,,1_base,
+3x1,Your New Psychiatrist Keeps Saying Yikes,35,T,,,,1_base,
+3x1,You Have a Bug Living in Your Ear,55,V,500,y,,1_1,
+3x1,You Live To Be 110,37,V,500,y,,1_2,
+3x1,You're Arrested for Having Sex with a Pile of Leaves,55,N,,,,2_1_base,
+3x1,Your Wife Won't Have Sex with You,62,N,1000,n,,2_1,
+3x1,Your Coworkers Won't Miss You,40,O,,,,2_2_base,
+3x1,porta-potty flew in the air & sprayed water on you,56,V,1000,y,,2_2,
+3x1,Your'e Attacked by a Goat,41,O,2000,y,Link to video but game was audio only to start,3,38
+3x1,Your Delivery Truck Rolls Away,48,V,5000,y,,4_1,
+3x1,You Crash Into a Bonfire after colliding with someone,71,V,10000,y,,4_2,
+3x1,You admitted murder while having a heart attack and would survive,76,N,15000,y,,4_3,
+3x2,Your Daughter Demands Emancipation on TikTok,68,T,,,,1_base,
+3x2,You Get peed on at a Music Festival,42,T,,,,1_base,
+3x2,Your umbrella caught fire after you were struck by lightning,87,V,500,y,,1_1,
+3x2,You Cannonball into a Frozen Lake,49,V,500,y,,1_2,
+3x2,Old Woman went nude during Your Zoom Bat Mitzvah,47,N,1000,y,,2_1,
+3x2,Your Toddler's Birthday Cake Calls Her a Loser,33,N,,,,2_1_base,
+3x2,You're a child and are Attacked by a Bird while riding a scooter,42,V,,,,2_2_base,
+3x2,You Are Mounted by a Stallion,60,V,1000,y,,2_2,
+3x2,Your Dental Assitant is Reckless,35,V,2000,y,,3,39
+3x2,You Dive Into a Piranha Party,67,V,5000,y,,4_1,
+3x2,You are a motorcyclist who fell off the ramp at the start of a race you've Fallen and Can't Get Up,52,V,10000,y,,4_2,
+3x2,You walked in on your hubby possibly having sex with his mom when you were already suspicious of incest,89,N,15000,y,,4_3,
+3x3,Proctologist Tells You They Love You,36,T,,,,1_base,
+3x3,Your Wife Is having sex with the Weatherman,75,T,,,,1_base,
+3x3,Your Son has sex with His Car,69,V,500,n,,1_1,higher
+3x3,Your Bump N' Grind Burns You,52,V,500,y,,1_2,
+3x3,You mistakenly became a getaway driver after a first date ended with a bank robbery,77,N,1000,n,,2_1,
+3x3,Your Head Gets Stuck in Stair Railing Mid-Railing after you tried to spice things up,60,N,,,,2_1_base,
+3x3,Your Boyfriend Slept with Your Mom while on his way to meeting her,66,N,,,,2_2_base,
+3x3,Your Son is Dating a Cockroach for a year,55,N,1000,n,,2_2,
+3x3,An Entire Stadium of People Hates You,42,V,2000,y,,3,41
+3x3,Your Pastor is Caught Having Sexy-Time,58,N,5000,y,,4_1,
+3x3,Your Husband Virtually Kills You,35,V,10000,y,,4_2,
+3x3,You fell into water & inadvertently got kicked in the face after trying to propose to your girlfriend while she was on a motorboat,51,V,15000,n,,4_3,lower
+3x4,You're Still a Virgin at 75,67,T,,,,1_base,
+3x4,Your Plus-One to a Wedding Hijacks the Mic,36,T,,,,1_base,
+3x4,Your Bungee Cord Snaps,87,V,500,y,,1_1,
+3x4,Your Hide-a-Bed Eats You,27,V,500,y,,1_2,
+3x4,You are a Naked sunbatherer and you chased a wild boar after it stole your laptop,45,N,1000,y,,2_1,
+3x4,Oops! You Take Your Dog to a Furry Convention,28,N,,,,2_1_base,
+3x4,Ding Dong! Someone licked Your Doorbell for 3 hours,41,V,,,,2_2_base,
+3x4,You Find Human Tongues in Your House that possibly belonged to a previous owner,45,N,1000,y,,2_2,
+3x4,You Have to Pick Up Dog poop Barehanded,44,V,2000,y,(video story told by AEW's Jon Moxley for show),3,28
+3x4,A Priest Drops Your Baby,49,V,5000,y,,4_1,
+3x4,Your Mom Ruins Your Audition,34,V,10000,y,,4_2,
+3x4,Your Doctor Removes the Wrong testicle and they were unable to reattach it so you being the patient sued them,94,N,15000,y,,4_3,
+3x5,You're Stuck Behind a Garbage Truck for 15 Miles,32,T,,,,1_base,
+3x5,You Call Your Boss Mommy During All-Staff Meeting,50,T,,,,1_base,
+3x5,You jumped onto a trampoline and then crashed into the Side of a Pool missing the water,67,V,500,y,,1_1,
+3x5,Kid Crawls into Your Bathroom Stall,38,V,500,n,,1_2,lower
+3x5,Your Groin is Split by the Wooden Horse,95,P,1000,y,,2_1,
+3x5,Your Knee Is Crushed by the Knee Splitter,91,P,,,,2_1_base,
+3x5,You Spend a Day in the Scold's Bridle that includes an iron mask with a metal tongue depressor,77,P,1000,y,,2_2,
+3x5,You Spend a Day Wearing the Shame Flute,62,P,,,,2_2_base,
+3x5,You Get Dragged by a Horse,47,V,2000,y,,3,38
+3x5,Your Stretcher Tips Over,61,V,5000,y,,4_1,
+3x5,No One Comes to Your Loneliness Seminar,41,P,10000,y,,4_2,
+3x5,A Toaster Toasts You,62,V,15000,n,,4_3,higher
+3x6,You Reel in a Trash Bag of Body Parts,67,T,,,,1_base,
+3x6,You Help a Friend Move in 100 Degree Heat,42,T,,,,1_base,
+3x6,You're Almost Run Over by a Truck after falling off a motorcycle,79,V,500,y,,1_1,
+3x6,Monkey Tries To Kidnap Your Baby,59,V,500,y,,1_2,
+3x6,Your Brother Wins Millions while You Win $7 on POWERBALL,47,N,,,,2_1_base,
+3x6,You are drunk and you pass Out Naked in a Bank as you mistook the bank for bedroom,57,N,1000,y,,2_1,
+3x6,You are Caught Smelling Your Crotch on TV,60,V,,,,2_2_base,
+3x6,You are a lady. Your odd ear condition makes you unable to hear male voices,68,N,1000,y,,2_2,
+3x6,You fall on your face after stopping yourself from false-starting at the beginning of a track race and lose the race,31,V,2000,y,,3,42
+3x6,Your Psychic Powers Fail - as a psychic and you get hit by car,70,V,5000,y,,4_1,
+3x6,You're In a Wood War with Your Neighbor,36,V,10000,n,,4_2,higher
+3x6,You Have 420 Kidney Stones Removed,79,N,15000,y,,4_3,
+3x7,You find Out Via Venmo that your Partner is Cheating,68,T,,,,1_base,
+3x7,Your Chinese Symbol Tattoo Means Big Load,45,T,,,,1_base,
+3x7,A Car Knocks You into a Sewer and you needed surgery for a spinal cord injury,73,V,500,y,,1_1,
+3x7,You Have a Really Big Toe,56,V,500,y,,1_2,
+3x7,You're Stuck in a Public Toilet,66,N,1000,y,,2_1,
+3x7,Your Salsa Gets Tea-Bagged,51,N,,,,2_1_base,
+3x7,Your Wine Cellar Self-Destructs on You,54,V,,,,2_2_base,
+3x7,You Get KO'd by a Cat,52,V,1000,n,,2_2,
+3x7,You are covered in hair removal strips,49,O,2000,y,Audio only clip but judges saw full video to score,3,43
+3x7,You Get Launched at Work,59,V,5000,y,,4_1,
+3x7,You've Been Swallowed by a Hippo 3 Times and you survived,81,N,10000,y,,4_2,
+3x7,You Blow Yourself Up,89,V,15000,n,,4_3,lower
+3x8,Your Henna Tattoo Gives you Hep-C,75,T,,,,1_base,
+3x8,You Spill Glitter All Over Your Couch,24,T,,,,1_base,
+3x8,Your Boat Explodes,78,V,500,n,,1_1,middle
+3x8,Your Dog Embarrasses you by holding onto your SUV's car horn for a long time,18,V,500,y,,1_2,
+3x8,Your Wife Marries Your Stepson,86,N,1000,y,,2_1,
+3x8,You Get Stuck In a Grease Vent,85,N,,,,2_1_base,
+3x8,Fish is removed from your rectum (by doctors) after sitting on it by mistake,66,N,1000,y,,2_2,
+3x8,You Crash into a Seafood Truck While Masturbating when driving,50,N,,,,2_2_base,
+3x8,You're Handcuffed to a Mime for 24 Hours,50,V,2000,y,,3,53
+3x8,You Break Your Body on the Escalator,57,V,5000,y,,4_1,
+3x8,You're Stuck in the pavement hole for Two Hours,72,N,10000,n,,4_2,lower
+3x8,You Get Hit by a Drift Car,75,V,15000,n,,4_3,higher
+3x9,Hockey Puck Bursts Your Implant,66,T,,,,1_base,
+3x9,You Slide into First & Feel Something Burst,43,T,,,,1_base,
+3x9,You Get Pummeled by the Vault,62,V,500,y,,1_1,
+3x9,You are the goalie. After a soccer ball was saved from going into the goal you celebrated prematurely only for the ball to bounce into the goal,44,V,500,n,,1_2,lower
+3x9,Nobody Bids on Your Signed Merch at an auction put on by the Anti-Cruelty Society,44,N,,,,2_1_base,
+3x9,You're Unknowingly the Face of an Erotic Novel,37,N,1000,n,,2_1,
+3x9,You Dive Through Plate Glass,69,V,,,,2_2_base,
+3x9,You Are Gored by a Bull,83,N,1000,y,,2_2,
+3x9,You Crap Out During Your Big Interview,60,V,2000,y,,3,46
+3x9,You Get Traded for Hotel Reservations,54,N,5000,y,,4_1,
+3x9,You're Tackled by a Cart,49,V,10000,y,,4_2,
+3x9,Your Ice Hockey Team Can't Skate and the players fell while getting on the ice,25,V,15000,y,,4_3,
+3x10,Surprise! Your Spouse Has Another Family,82,T,,,,1_base,
+3x10,No One Remembers You at HS Reunion,47,T,,,,1_base,
+3x10,You're Crushed by Rolling Logs from a truck,92,V,500,y,,1_1,
+3x10,The Product You're Selling on an infomercial Falls,45,V,500,y,,1_2,
+3x10,You are a 52-yr-old woman swinger who had a heart attack at a sex festival,76,N,,,,2_1_base,
+3x10,You were hospitalized after your wife placed a chastity nut on your penis during your sleep,81,N,1000,y,,2_1,
+3x10,Your Car Gets Stolen & So Do You,66,V,1000,y,,2_2,
+3x10,You are arrested for throwing beer cans out of a horse buggy while drunk in the afternoon,57,N,,,,2_2_base,
+3x10,You Have to Search for car keys through Elephant poop,48,V,2000,y,,3,43
+3x10,Your Workout Doesn't Work Out and is a failure,52,V,5000,n,(Can't find exact video),4_1,higher
+3x10,You attempted to steal bus petrol but instead siphoned raw sewage,61,N,10000,y,,4_2,
+3x10,You survived being put through a woodchipper,86,N,15000,y,,4_3,
+3x11,Your Ice Sculpture Melts Before the Contest,50,T,,,,,
+3x11,You're Tickled by a Mall Santa in April,31,T,,,,,
+3x11,Your Cramp is Alive,46,V,500,y,,,
+3x11,You Can't Park Anything,58,V,500,n,,,
+3x11,An Alligator Bites You,62,V,,,(Can't find exact video),,
+3x11,You Get a DUI Driving Your Lawn Mower,63,V,1000,n,,,
+3x11,Oops! You Married Your Grandpa,51,N,,,,,
+3x11,A Monkey Gives You Herpes,67,N,1000,y,,,
+3x11,You Throw Up While Proposing,44,V,2000,y,,,
+3x11,You've Been Praying to a Public Toilet,51,N,5000,y,,,
+3x11,You're Arrested at a Strip Club During a Field Trip,64,N,10000,y,,,
+3x11,You Fall Off a Cliff,90,V,15000,y,,,
+3x12,Your Grandma Falls Into a Swamp,52,T,,,,,
+3x12,Your Date Won't Shutup About Intermittent Fasting,32,T,,,,,
+3x12,You Hear Your Parents Having Sex Three Times,39,V,500,n,,,
+3x12,You're As High As a Kite,59,V,500,y,,,
+3x12,Your  Neighbor Has an Emotional Support Rooster,42,N,,,,,
+3x12,Your Dog Smashes the Coffee Table,38,V,1000,n,,,
+3x12,You're Trapped in a Well & Mistaken for a Ghost,83,N,1000,y,,,
+3x12,You  Dangle from a Cliff Then Get Hit by a Bus,81,N,,,,,
+3x12,You Explode Your Face on Halloween,57,V,2000,y,(Celebrity story),,
+3x12,Your Child Falls Through a Manhole,75,V,5000,y,,,
+3x12,You Drop Your Dinner,28,V,10000,n,,,
+3x12,You Have a Hard C**k Life,82,N,15000,y,,,
+3x13,Barber Slices Half Your Ear Off,77,T,,,,,
+3x13,You Attend 5-Hour Wedding: No Drinks No Booze,47,T,,,,,
+3x13,You Motorcyle off a Cliff,73,V,500,n,,,
+3x13,You Fight with Your Coworker on Live TV,50,V,500,y,,,
+3x13,You're Allergic to Water,87,T,1000,y,,,
+3x13,You Have the Hiccups Forever,86,V,,,,,
+3x13,You Hit a Nun with a Golf Ball,26,T,1000,n,,,
+3x13,Your Pastor Refers to Women as Penis Homes,50,T,,,,,
+3x13,You're Harassed by a Camel,44,O,,,Audio only clip, but judges saw full video to score,
+3x13,You Get Kicked in the Head by a Train Conductor,51,V,5000,y,,,
+3x13,You're Trapped in Your Car for 13 Hours,72,T,10000,n,,,
+3x13,You Bounce Into a Pool,56,V,15000,n,,,

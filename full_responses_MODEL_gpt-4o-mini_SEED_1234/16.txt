@@ -1,0 +1,88 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: You Sit Next to the Bathroom on a 14-Hour Flight. Misery Rating = 28
+## Hypothetical Situation 2: You Get Stuck in a Meat Locker. Misery Rating = 67
+## Story: An Elephant Hits You in the Face
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: {{{between}}}
+
+Host: You are CORRECT! The rating for the story was 45. Let's go to the next question. 
+## Story: You Base Jump Into a Cliff
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: {{{above}}}
+
+Host: You are CORRECT! The rating for the story was 73. Let's start the Round 2, More or Less Miserable.
+## Story 1: Your Mom Talks About Anal. Misery Rating = 38
+## Story 2: Your Dad is Sleeping With a Sex Doll
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: {{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 39. Let's go to the next question.
+## Story 1: Doctors plucked an active inch-long parasitic worm From Your Eye. Misery Rating = 70
+## Story 2: You Cough Up a Lung-Shaped Blood Clot
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: {{{lower}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 79. Let's start the Round 3, Master of Misery.
+## Story: You're Hit Repeatedly With a Baseball Bat as a pinata
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: {{{82}}}
+
+Host: The rating for the story was 50. You were off by 32 points! Let's start the Bonus Round, Margin of Misery.
+## Story: You Keep Getting Dropped From a Stretcher during a soccer match
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: {{{20 - 50}}}
+
+Host: You are CORRECT! The rating for the story was 49. Let's go to the next question.
+## Story: Allergic to Your Husband's Semen
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: {{{40 - 60}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 76. Let's go to the next question.
+## Story: You Lose Half Your Head due to drugs lab explosion
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: {{{70 - 80}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 97. Thank you for playing!

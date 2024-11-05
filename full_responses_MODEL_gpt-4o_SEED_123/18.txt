@@ -1,0 +1,156 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: You Shred Your Knuckles on a Cheese Grater. Misery Rating = 47
+## Hypothetical Situation 2: Oops! You Live-Streamed Yourself Masturbating. Misery Rating = 73
+## Story: Your Meal Walks off the Plate
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: To determine where "Your Meal Walks off the Plate" falls in terms of misery, we should consider the potential factors of the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+- Physical Pain: Unlikely in this scenario.
+- Emotional Trauma: Could be quite embarrassing or disturbing, but subjective.
+- Long-term Psychological Impact: Likely minimal compared to the other scenarios.
+
+Given these considerations, it seems that "Your Meal Walks off the Plate" would likely have a lower misery rating than both "Oops! You Live-Streamed Yourself Masturbating" (73) and "You Shred Your Knuckles on a Cheese Grater" (47).
+
+Therefore, "Your Meal Walks off the Plate" falls below. My final answer is: {{{below}}}
+
+Host: You are CORRECT! The rating for the story was 42. Let's go to the next question. 
+## Story: Your Cat Eats Your Squirrel
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: To decide where "Your Cat Eats Your Squirrel" falls in terms of misery, let's again evaluate the "Three Pillars of Misery":
+
+- Physical Pain: Unlikely applicable.
+- Emotional Trauma: For someone who is attached to their squirrel as a pet, this could be very emotionally disturbing and sad.
+- Long-term Psychological Impact: There could be some lasting sadness or guilt, especially if the squirrel was a beloved pet.
+
+Comparing this to the other scenarios:
+- "You Shred Your Knuckles on a Cheese Grater" (47): This involves significant physical pain.
+- "Oops! You Live-Streamed Yourself Masturbating" (73): This involves significant emotional trauma from public embarrassment.
+
+"Your Cat Eats Your Squirrel" likely has more emotional trauma than shredding knuckles but less public embarrassment than live-streaming a private moment. Therefore, it may fall between these two scenarios. My final answer is: {{{between}}}
+
+Host: You are CORRECT! The rating for the story was 55. Let's start the Round 2, More or Less Miserable.
+## Story 1: Your Wife divorces You for the Wedding DJ. Misery Rating = 63
+## Story 2: You Get Shot in the Heart With Crossbow
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To decide whether "You Get Shot in the Heart With a Crossbow" has a higher or lower misery rating compared to "Your Wife Divorces You for the Wedding DJ," let's evaluate the potential misery factors:
+
+- Physical Pain: Getting shot in the heart with a crossbow undoubtedly involves a significant amount of physical pain, potentially being lethal.
+- Emotional Trauma: Being shot has immediate life-threatening consequences, and could result in fear and trauma. On the flip side, being divorced for the wedding DJ carries significant emotional trauma due to personal and social implications.
+- Long-term Psychological Impact: While divorce has a long-term impact on personal relationships and emotional well-being, being shot could lead to long-term physical consequences or trauma if survived.
+
+Overall, being shot in the heart seems to have a more extreme immediate physical and traumatic impact than the divorce scenario. Therefore, "You Get Shot in the Heart With a Crossbow" likely has a higher misery rating. My final answer is: {{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 78. Let's go to the next question.
+## Story 1: A Ghost Scares Your Baby. Misery Rating = 53
+## Story 2: A Home Invader Watches Your Sleep
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To determine whether "A Home Invader Watches You Sleep" has a higher or lower misery rating compared to "A Ghost Scares Your Baby," let's consider the misery factors:
+
+- Physical Pain: Not directly applicable in either scenario, unless there is an escalation in the home invasion.
+- Emotional Trauma: A home invader watching you sleep is extremely unsettling and frightening due to the invasion of personal space and potential danger. This is likely very high in emotional discomfort. A ghost scaring your baby involves fear and concern for your child’s safety and well-being but is generally less tangibly threatening.
+- Long-term Psychological Impact: A home invasion can lead to significant lasting fear regarding personal safety and security. The ghost scenario is unsettling but may be perceived as less real or tangible, potentially leading to lesser psychological impact over time.
+
+Considering these factors, "A Home Invader Watches Your Sleep" is likely to have a higher misery rating due to the immediate and significant threat perception and ongoing psychological impact. Therefore, my final answer is: {{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 62. Let's start the Round 3, Master of Misery.
+## Story: A Stranger urinates on You
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: To evaluate the story "A Stranger Urinates on You" in terms of misery, let's consider the "Three Pillars of Misery":
+
+- Physical Pain: Likely minimal or non-existent.
+- Emotional Trauma: This scenario could cause significant emotional trauma due to the violation of personal boundaries, embarrassment, and the disgusting nature of the act.
+- Long-term Psychological Impact: There could be some lasting psychological impact, particularly anxiety or fear of similar situations happening again.
+
+Based on these factors, the scenario is very uncomfortable and may rank moderately high on the misery scale due to the emotional and social distress involved. Considering past examples, it might be similar or just slightly less distressing than "Oops! You Live-Streamed Yourself Masturbating" which had a misery rating of 73.
+
+Therefore, I will estimate a misery rating of approximately 68. My final answer is: {{{68}}}
+
+Host: The rating for the story was 49. You were off by 19 points! Let's start the Bonus Round, Margin of Misery.
+## Story: You're Allergic to Everything including your own hair
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To estimate the misery rating for the story "You're Allergic to Everything including your own hair," let's consider the "Three Pillars of Misery":
+
+- Physical Pain: Constant physical discomfort and potential pain from allergic reactions.
+- Emotional Trauma: This situation could cause significant emotional distress, as it severely limits daily activities and quality of life.
+- Long-term Psychological Impact: Chronic health issues and restrictions can lead to significant psychological impact, including anxiety and depression.
+
+Given these factors, the misery rating is likely to be quite high due to the constant and pervasive nature of the condition affecting all aspects of life. 
+
+Considering the overall scale from previous rounds where very severe situations have been in the 70s or 80s, this scenario could reasonably fall somewhere in the upper middle of the scale. I will choose a midpoint and use a 30-point interval.
+
+Therefore, the interval I will choose is {{{65 - 95}}}.
+
+Host: You are CORRECT! The rating for the story was 86. Let's go to the next question.
+## Story: You Fly Off a Water Slide
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To estimate the misery rating for the story "You Fly Off a Water Slide," let's consider the "Three Pillars of Misery":
+
+- **Physical Pain**: There's a likely chance of injury from the fall or impact, which could range from minor to severe.
+- **Emotional Trauma**: The unexpected nature of flying off a water slide can be frightening and embarrassing, especially in a public setting.
+- **Long-term Psychological Impact**: Depending on the severity of the incident, there could be some lasting fear or anxiety associated with going on water slides in the future.
+
+Considering these factors, the scenario likely has a moderate to high misery rating, particularly if injury is involved. It's less severe than life-threatening or highly embarrassing scenarios, but could still be quite impactful.
+
+Based on comparisons to previous stories, a reasonable interval might place this scenario higher than the lower 50s but not as high as seriously traumatic incidents.
+
+Therefore, the interval I will choose is {{{55 - 75}}}.
+
+Host: You are CORRECT! The rating for the story was 55. Let's go to the next question.
+## Story: You woke up without a penis
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To estimate the misery rating for the story "You woke up without a penis," let's assess the "Three Pillars of Misery":
+
+- **Physical Pain**: There may or may not be immediate physical pain, depending on the circumstances surrounding the loss.
+- **Emotional Trauma**: The shock and emotional distress of waking up to such a drastic change would likely be immense, involving a profound sense of loss and identity crisis.
+- **Long-term Psychological Impact**: This could lead to severe long-term psychological effects, including depression and anxiety, as well as significant impacts on one's personal and social life.
+
+Given these factors, this scenario likely ranks very high on the misery scale due to the severe and personal nature of the situation, potentially similar to or even exceeding the severity of some previously rated high-impact situations.
+
+Taking into account previous ratings, particularly extreme personal scenario ratings, I would expect this to fall within a very high range. Given the requirement to choose a 10-point interval, I will select:
+
+{{{85 - 95}}}
+
+Host: You are CORRECT! The rating for the story was 95. Thank you for playing!

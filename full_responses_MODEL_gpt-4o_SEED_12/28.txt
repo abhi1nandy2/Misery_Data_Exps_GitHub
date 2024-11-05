@@ -1,0 +1,198 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: Mother-In-Law Pokes Holes in Your Condoms. Misery Rating = 62
+## Hypothetical Situation 2: You Gulp a Mouthful of Las Vegas Pool Party Water. Misery Rating = 33
+## Story: You Destroy a Warehouse
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: To determine where the story of "You Destroy a Warehouse" falls on the Misery Index, we need to evaluate its potential impact in terms of the three pillars of misery: physical pain, emotional trauma, and long-term psychological impact.
+
+1. **Physical Pain**: Destroying a warehouse might not involve direct physical pain unless it was an accident that caused physical harm.
+   
+2. **Emotional Trauma**: There could be significant emotional trauma involved if the destruction was accidental, especially if others were affected or if there was a severe financial impact.
+
+3. **Long-term Psychological Impact**: The psychological impact could be substantial depending on the circumstances. Loss of property or livelihoods could weigh heavily on a person's conscience and mental well-being.
+
+Comparing this to the given situations:
+
+- **Mother-In-Law Pokes Holes in Your Condoms (62)**: This situation involves potential unintended consequences related to parenthood, trust issues, and invasions of privacy, which can be very stressing and have long-term implications.
+  
+- **You Gulp a Mouthful of Las Vegas Pool Party Water (33)**: This situation seems more about immediate discomfort or disgust, with less long-term psychological impact.
+
+Considering the factors, destroying a warehouse likely has more significant and lasting emotional and psychological consequences than gulping pool water, but it might not reach the level of invasive and potentially life-changing family trust violations. Thus, the warehouse situation seems to fit between these two.
+
+ {{{between}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 64. Let's go to the next question. 
+## Story: Your Kids Give Themselves Haircuts
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: When considering the story "Your Kids Give Themselves Haircuts," let's evaluate it in terms of the three pillars of misery: physical pain, emotional trauma, and long-term psychological impact.
+
+1. **Physical Pain**: There is typically no physical pain involved in children giving themselves haircuts.
+
+2. **Emotional Trauma**: While it might be frustrating or upsetting for a parent, the emotional trauma is usually mild and temporary, since hair grows back and the situation is more of a social faux pas or a humorous family anecdote.
+
+3. **Long-term Psychological Impact**: The long-term impact is likely minor, as this is generally a situation that is quickly remedied and often laughed about later.
+
+Comparing this to the given situations:
+
+- **Mother-In-Law Pokes Holes in Your Condoms (62)**: This situation involves serious potential consequences, including unintended parenthood and betrayal, which are significantly more distressing.
+  
+- **You Gulp a Mouthful of Las Vegas Pool Party Water (33)**: This situation is unpleasant but not overly traumatic, with no substantial long-term effects.
+
+Giving consideration to the relatively low impact of the kids' self-inflicted haircuts, it's reasonable to conclude that this scenario is less severe than both the mother-in-law incident and possibly more comparable to the pool water situation but likely less impactful.
+
+Therefore, the story "Your Kids Give Themselves Haircuts" likely falls below the two situations.
+
+{{{below}}}
+
+Host: You are CORRECT! The rating for the story was 26. Let's start the Round 2, More or Less Miserable.
+## Story 1: You Get Tapeworms From Sashimi. Misery Rating = 73
+## Story 2: Your are suffering from a Brain Leak From Pilates
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To determine whether "suffering from a brain leak from Pilates" has a higher or lower rating compared to "you get tapeworms from sashimi," let's consider the three pillars of misery:
+
+1. **Physical Pain**: A brain leak could potentially involve significant physical discomfort, depending on its severity and treatment. Tapeworm infections can also cause discomfort but may vary in severity.
+
+2. **Emotional Trauma**: A brain leak might cause substantial emotional distress due to the fear of potential complications with such a sensitive organ. Tapeworms, while unsettling, might cause less emotional trauma as they are generally treatable.
+
+3. **Long-term Psychological Impact**: A brain leak could have significant long-term psychological effects if there are prolonged health complications or fears of recurrence. Tapeworms, after treatment, usually don't involve long-term psychological effects.
+
+Given these considerations, "suffering from a brain leak from Pilates" may be seen as more severe than getting tapeworms due to the potential seriousness of complications with the brain. Therefore, it's likely that Story 2 has a higher rating.
+
+{{{higher}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 69. Let's go to the next question.
+## Story 1: Whoops! You Eat a Quart of Paint when you thought it was yogurt. Misery Rating = 36
+## Story 2: You Get Hit by Bull Semen due to Semen explosion at bull insemination plant
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To determine whether "getting hit by bull semen due to semen explosion at a bull insemination plant" has a higher or lower rating compared to "eating a quart of paint when you thought it was yogurt," let's break down the scenarios based on the three pillars of misery:
+
+1. **Physical Pain**: Eating paint could involve potential physical harm, as paint is not meant for ingestion and could cause stomach upset or poisoning. Being hit by bull semen might be more of a shock rather than causing actual physical pain.
+
+2. **Emotional Trauma**: Both scenarios are quite embarrassing, but being splashed with bull semen might cause greater immediate embarrassment and disgust due to the nature of the substance involved.
+
+3. **Long-term Psychological Impact**: Eating paint when mistaking it for food might result in lasting embarrassment or hesitation with food consumption, but likely not severe long-term psychological issues. The bull semen incident is more of a traumatic experiential story that one might be hesitant to share but might not have long-lasting impacts once the initial shock is over.
+
+Given these considerations, getting hit by bull semen might have a higher rating than eating paint because of the gross-out factor and immediate emotional response.
+
+{{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 49. Let's start the Round 3, Master of Misery.
+## Story: You Get Both Nipples Pierced
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: To estimate the misery rating for the story "You Get Both Nipples Pierced," let's evaluate it based on the three pillars of misery:
+
+1. **Physical Pain**: Getting nipple piercings can involve significant physical pain, as it's a sensitive area of the body. However, the pain is typically short-lived and part of a voluntary process for those who choose piercings.
+
+2. **Emotional Trauma**: For individuals uncomfortable with the idea or who face unexpected difficulties (such as infections), there could be emotional distress. Generally, this is a controlled and planned scenario, so emotional trauma may not be significant for those who opt for it willingly.
+
+3. **Long-term Psychological Impact**: Usually, there is minimal long-term psychological impact in getting piercings unless complications arise. The decision is often based on personal preference and bodily autonomy.
+
+Considering these factors, and the fact that nipple piercings are a common body modification choice and often done voluntarily, the misery rating might not be exceedingly high. It involves pain, but since it's self-inflicted for aesthetic reasons, it likely falls in a moderate range.
+
+I would estimate the rating to be around 45, noting that it might be uncomfortable but lacks severe long-term emotional or psychological consequences.
+
+{{{45}}}
+
+Host: The rating for the story was 38. You were off by 7 points! Let's start the Bonus Round, Margin of Misery.
+## Story: Your Snot Drips on Live TV
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To determine the appropriate interval for "Your Snot Drips on Live TV," let's assess the situation using the three pillars of misery:
+
+1. **Physical Pain**: There is no significant physical pain involved in this scenario.
+
+2. **Emotional Trauma**: Receiving unwanted attention or embarrassment on live TV could cause notable emotional trauma due to public exposure and potential ridicule.
+
+3. **Long-term Psychological Impact**: The long-term impact depends on individual resilience and public reception, but it could lead to a lasting sense of embarrassment or social anxiety.
+
+Considering these factors, this incident might not rank extremely high on the misery scale, as it involves embarrassment more than severe trauma or pain. 
+
+Looking at the prior stories, it likely compares to situations with mid-range ratings. Given this, a reasonable interval estimate would have a midpoint centered around moderate social mishaps. 
+
+I would propose an interval of:
+
+{{{40 - 70}}}
+
+The lower end accounts for the non-severe nature, while the higher end factors in potential significant embarrassment.
+
+Host: Sorry, you are WRONG! The rating for the story was 34. Let's go to the next question.
+## Story: It's Raining Spiders on You
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To gauge the appropriate interval for "It's Raining Spiders on You," let's consider it using the three pillars of misery:
+
+1. **Physical Pain**: There is no direct physical pain from having spiders rain down on you, but there may be discomfort or risk if some are venomous or if one has allergies.
+
+2. **Emotional Trauma**: This situation can be highly traumatic for those with arachnophobia or a general fear of insects, leading to strong emotional reactions. Even for those without specific fears, the unexpected nature could cause a shock.
+
+3. **Long-term Psychological Impact**: The long-term psychological impact could be significant for someone with an intense fear, potentially leading to anxiety in similar situations or lasting stress.
+
+Given these considerations, the scenario could have a relatively high misery rating due to the fear factor and potential long-term effects for those who are extremely uncomfortable with spiders.
+
+Based on these reflections, my estimate for an appropriate interval is:
+
+{{{60 - 80}}} 
+
+This range accounts for the high emotional trauma potential, particularly for individuals with relevant fears.
+
+Host: Sorry, you are WRONG! The rating for the story was 53. Let's go to the next question.
+## Story: A Street Eats You
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To evaluate the appropriate interval for "A Street Eats You," let's analyze it using the three pillars of misery:
+
+1. **Physical Pain**: Depending on the context, there could be significant physical pain if the scenario involves being caught in a sinkhole or other dangerous situation. This increases the potential for injury.
+
+2. **Emotional Trauma**: This scenario can be highly stressful and terrifying due to the unexpected nature and potential danger of the event. It could also be distressing due to the fear of being trapped.
+
+3. **Long-term Psychological Impact**: The psychological impact could be substantial, leading to ongoing anxiety or trauma related to public spaces or similar environments.
+
+Given these considerations, the situation likely ranks quite high on the misery scale due to the combination of physical danger and emotional trauma.
+
+Considering the higher potential for both physical injury and significant emotional distress, I would estimate a relatively high interval:
+
+{{{75 - 85}}}
+
+This range reflects the severity of the potential experience based on the pillars of misery.
+
+Host: You are CORRECT! The rating for the story was 83. Thank you for playing!

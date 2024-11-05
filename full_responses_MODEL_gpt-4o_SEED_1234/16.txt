@@ -1,0 +1,124 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: You Sit Next to the Bathroom on a 14-Hour Flight. Misery Rating = 28
+## Hypothetical Situation 2: You Get Stuck in a Meat Locker. Misery Rating = 67
+## Story: An Elephant Hits You in the Face
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Considering the situation where an elephant hits you in the face, this likely results in significant physical pain and possibly serious injury, which may include emotional trauma as well. It seems like a scenario that would have a substantial misery rating, potentially higher than sitting next to a bathroom on a long flight and maybe even comparable to being stuck in a meat locker due to the danger and injury involved. Therefore, the story likely falls above sitting next to the bathroom (28) and around the level of or just above being stuck in a meat locker (67).
+
+Taking all that into account, my final answer is that it is {{{above}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 45. Let's go to the next question. 
+## Story: You Base Jump Into a Cliff
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Base jumping into a cliff is extremely dangerous and likely results in severe physical injury, if not worse. This scenario is certain to have a high misery rating due to the significant physical pain, possible emotional trauma, and the long-term psychological impact associated with such a catastrophic event. 
+
+Given that sitting next to the bathroom on a 14-hour flight has a rating of 28 and getting stuck in a meat locker has a rating of 67, base jumping into a cliff is almost certainly worse than both of these scenarios. It involves potentially life-threatening injuries and substantial trauma, which should result in a very high misery index.
+
+Therefore, my final answer is that it is {{{above}}}.
+
+Host: You are CORRECT! The rating for the story was 73. Let's start the Round 2, More or Less Miserable.
+## Story 1: Your Mom Talks About Anal. Misery Rating = 38
+## Story 2: Your Dad is Sleeping With a Sex Doll
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: The scenario involving your dad sleeping with a sex doll may evoke significant emotional discomfort and awkwardness, but it likely lacks the same level of personal involvement and direct emotional trauma perceived in a conversation with your mom about a sensitive subject like anal. Based on the nature of these two stories, Story 2 probably has a lower misery rating compared to Story 1, as it might involve less emotional trauma and psychological impact.
+
+My final answer is that Story 2 is {{{lower}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 39. Let's go to the next question.
+## Story 1: Doctors plucked an active inch-long parasitic worm From Your Eye. Misery Rating = 70
+## Story 2: You Cough Up a Lung-Shaped Blood Clot
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Given that having a parasitic worm plucked from your eye already has a high misery rating of 70, we need to consider the physical pain, emotional trauma, and potential long-term psychological impact of coughing up a lung-shaped blood clot. 
+
+Coughing up a lung-shaped blood clot could be terrifying due to the implications for one's health, potential severity, and immediate fear of what might be happening to your body. This situation likely involves significant emotional distress and fear, as well as substantial physical discomfort.
+
+Although both scenarios are quite distressing, the immediacy and fear factor associated with coughing up something as alarming as a lung-shaped blood clot might edge it out as slightly higher on the misery index compared to having a worm removed from one's eye.
+
+My final answer is that Story 2 is {{{higher}}}.
+
+Host: You are CORRECT! The rating for the story was 79. Let's start the Round 3, Master of Misery.
+## Story: You're Hit Repeatedly With a Baseball Bat as a pinata
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: Being hit repeatedly with a baseball bat as if you were a piñata involves extreme physical pain, potentially severe injury, and a significant amount of emotional trauma due to the violent nature of the act. The long-term psychological impact can also be considerable due to the potential for lasting physical damage and emotional distress.
+
+Considering these factors, this situation is very likely to have a high misery index rating. Compared to the previous stories, such as base jumping into a cliff which was rated at 73, this story could potentially be even higher due to the repeated nature of the trauma and the violent context.
+
+Therefore, my guess for the misery index rating of this story is {{{85}}}.
+
+Host: The rating for the story was 50. You were off by 35 points! Let's start the Bonus Round, Margin of Misery.
+## Story: You Keep Getting Dropped From a Stretcher during a soccer match
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Being repeatedly dropped from a stretcher during a soccer match would likely involve significant physical pain, embarrassment, and a moderate level of emotional trauma, though perhaps less severe than some of the earlier scenarios involving life-threatening or extremely violent situations. 
+
+Given the Index ratings we've seen so far, such as being hit by an elephant (45) and a parent awkward moment (38/39), this scenario might fall somewhere in a similar or slightly higher range due to the combination of physical and emotional stress involved.
+
+Given the need to be within a 30-point margin, I would estimate it might be in a range slightly above 28 (sitting next to the bathroom) and perhaps not as high as something more physically harmful or emotionally traumatic.
+
+I'll choose a conservative interval, so my guess for the misery index range is {{{40 - 70}}}.
+
+Host: You are CORRECT! The rating for the story was 49. Let's go to the next question.
+## Story: Allergic to Your Husband's Semen
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: The situation of being allergic to your husband's semen would likely involve both physical discomfort and emotional stress, considering the impact on a personal and intimate relationship. It presents a unique set of challenges, given the consequences for marital intimacy and the potential emotional strain it could place on both partners.
+
+While it may not involve the severe physical pain or immediate danger seen in some other scenarios, the ongoing nature of this issue could contribute to significant emotional distress and relationship challenges. Given previous ratings, such as 38 for a conversation about an awkward topic and 45 for being hit by an elephant, this situation might land somewhere in between those due to its personal and ongoing nature.
+
+To select an interval of 20 points that adequately captures the rating, I would consider placing it higher than awkward conversations but not as high as severe physical incidents or illnesses.
+
+My guess for the misery index range is {{{45 - 65}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 76. Let's go to the next question.
+## Story: You Lose Half Your Head due to drugs lab explosion
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Losing half your head in a drugs lab explosion is a catastrophic event. This situation entails extreme physical pain, severe and life-altering injury, significant emotional trauma, and a profound long-term psychological impact. Given its severity, it likely has one of the highest possible misery index ratings.
+
+Compared to previous stories, such as base jumping into a cliff (73) and being used as a piñata (50), this scenario is likely rated even higher due to the magnitude of its physical and emotional consequences.
+
+Given the need to choose an interval of 10 points, this scenario should be placed near the top of the scale due to the severity and life-changing implications.
+
+My guess for the misery index range is {{{90 - 100}}}.
+
+Host: You are CORRECT! The rating for the story was 97. Thank you for playing!

@@ -1,0 +1,88 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: You find Out Via Venmo that your Partner is Cheating. Misery Rating = 68
+## Hypothetical Situation 2: Your Chinese Symbol Tattoo Means Big Load. Misery Rating = 45
+## Story: A Car Knocks You into a Sewer and you needed surgery for a spinal cord injury
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: {{{above}}}
+
+Host: You are CORRECT! The rating for the story was 73. Let's go to the next question. 
+## Story: You Have a Really Big Toe
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: {{{below}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 56. Let's start the Round 2, More or Less Miserable.
+## Story 1: Your Salsa Gets Tea-Bagged. Misery Rating = 51
+## Story 2: You're Stuck in a Public Toilet
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: {{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 66. Let's go to the next question.
+## Story 1: Your Wine Cellar Self-Destructs on You. Misery Rating = 54
+## Story 2: You Get KO'd by a Cat
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: {{{higher}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 52. Let's start the Round 3, Master of Misery.
+## Story: You are covered in hair removal strips
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: {{{38}}}
+
+Host: The rating for the story was 49. You were off by 11 points! Let's start the Bonus Round, Margin of Misery.
+## Story: You Get Launched at Work
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: {{{40 - 70}}}
+
+Host: You are CORRECT! The rating for the story was 59. Let's go to the next question.
+## Story: You've Been Swallowed by a Hippo 3 Times and you survived
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: {{{70 - 90}}}
+
+Host: You are CORRECT! The rating for the story was 81. Let's go to the next question.
+## Story: You Blow Yourself Up
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: {{{85 - 95}}}
+
+Host: You are CORRECT! The rating for the story was 89. Thank you for playing!

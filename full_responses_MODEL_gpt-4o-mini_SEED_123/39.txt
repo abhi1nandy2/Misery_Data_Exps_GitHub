@@ -1,0 +1,140 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: Surprise! Your Spouse Has Another Family. Misery Rating = 82
+## Hypothetical Situation 2: No One Remembers You at HS Reunion. Misery Rating = 47
+## Story: You're Crushed by Rolling Logs from a truck
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Given the situations, I would say that being crushed by rolling logs is a significant physical pain that likely surpasses the emotional trauma of a spouse having another family and is likely more miserable than simply being forgotten at a high school reunion. 
+
+I believe this story falls above Hypothetical Situation 1 (82) because of the severity of the physical pain involved.
+
+So, my final answer is {{{above}}}.
+
+Host: You are CORRECT! The rating for the story was 92. Let's go to the next question. 
+## Story: The Product You're Selling on an infomercial Falls
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Considering the context of the two hypothetical situations, the story about a product falling during an infomercial likely represents a more humorous, embarrassing scenario rather than a deeply distressing one. 
+
+Hypothetical Situation 1 (Surprise! Your Spouse Has Another Family, Rating = 82) involves significant emotional trauma, while Hypothetical Situation 2 (No One Remembers You at HS Reunion, Rating = 47) involves social anxiety and a sense of worthlessness.
+
+I would argue that this story about a product falling is less impactful emotionally than either of the two situations. Therefore, I believe this story falls below both situations.
+
+So, my final answer is {{{below}}}.
+
+Host: You are CORRECT! The rating for the story was 45. Let's start the Round 2, More or Less Miserable.
+## Story 1: You are a 52-yr-old woman swinger who had a heart attack at a sex festival. Misery Rating = 76
+## Story 2: You were hospitalized after your wife placed a chastity nut on your penis during your sleep
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To determine which story has a higher rating, I need to consider the severity of both situations.
+
+Story 1 involves a heart attack, which is a serious medical emergency that could have significant physical pain and emotional trauma associated with it, especially in the context of a sex festival.
+
+Story 2 involves a rather bizarre and painful situation, potentially leading to psychological embarrassment and trauma, but it doesn't reflect a life-threatening scenario like a heart attack.
+
+Given that Story 1 relates to a heart attack, which is typically rated higher on the misery scale due to its serious nature, I believe that Story 1 has a higher rating than Story 2.
+
+Thus, my final answer is {{{lower}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 81. Let's go to the next question.
+## Story 1: You are arrested for throwing beer cans out of a horse buggy while drunk in the afternoon. Misery Rating = 57
+## Story 2: Your Car Gets Stolen & So Do You
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To assess which story has a higher rating, I’ll evaluate both situations carefully.
+
+Story 1 involves being arrested for a relatively humorous and low-stakes situation of throwing beer cans out of a horse buggy while drunk, which likely indicates some level of embarrassment but minimal lasting emotional damage, leading to a Misery Rating of 57.
+
+Story 2 describes a scenario where someone’s car gets stolen along with them. This situation could involve significant emotional distress due to the violation of personal space and safety, especially if it leads to a traumatic experience during the theft.
+
+Considering the immediate emotional trauma and potential psychological impact of being stolen along with a car, I would conclude that Story 2 is likely to have a higher misery rating than Story 1.
+
+So, my final answer is {{{higher}}}.
+
+Host: You are CORRECT! The rating for the story was 66. Let's start the Round 3, Master of Misery.
+## Story: You Have to Search for car keys through Elephant poop
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: To evaluate the misery rating for the story "You Have to Search for car keys through Elephant poop," I consider both the physical discomfort and the emotional distress this situation might entail. 
+
+Searching through elephant poop is not just physically unpleasant but can also evoke feelings of frustration, disgust, and perhaps embarrassment. However, it lacks the severe physical pain and long-term trauma associated with many higher-rated scenarios.
+
+Taking into account the humorous aspect of the situation and the discomfort involved, I would estimate that this story likely falls in the moderate range of misery ratings. 
+
+I would place the rating around 55.
+
+So, my final answer is {{{55}}}.
+
+Host: The rating for the story was 48. You were off by 7 points! Let's start the Bonus Round, Margin of Misery.
+## Story: Your Workout Doesn't Work Out and is a failure
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To estimate the misery rating for the story "Your Workout Doesn't Work Out and is a failure," I consider the emotional impact of personal fitness goals not being met. This scenario might lead to feelings of disappointment, frustration, and low self-esteem, but it generally does not imply severe physical pain or long-term psychological trauma.
+
+Given that the situation is likely to be distressing but not extremely miserable in comparison to more serious stories, I estimate the misery rating is on the lower end of the scale.
+
+If I assume the rating might be around the lower to moderate range, I think it might fall between approximately 30 and 60.
+
+Thus, my final answer (covering a range of 30 points) would be {{{30 - 60}}}.
+
+Host: You are CORRECT! The rating for the story was 52. Let's go to the next question.
+## Story: You attempted to steal bus petrol but instead siphoned raw sewage
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: For the story "You attempted to steal bus petrol but instead siphoned raw sewage," I will assess the emotional and physical implications of this situation. 
+
+Attempting to siphon petrol and accidentally siphoning raw sewage likely involves feelings of disgust, embarrassment, and perhaps some level of physical discomfort from the sewage. However, it does not indicate serious physical pain or long-term psychological trauma. The situation could certainly impact one's self-esteem and lead to social embarrassment.
+
+Given these factors, I would estimate the misery rating to be in the lower to moderate range. Taking into account that this scenario is certainly unpleasant but not extremely miserable, I believe the rating might fall between approximately 40 and 60.
+
+As such, my final answer (covering a range of 20 points) would be {{{40 - 60}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 61. Let's go to the next question.
+## Story: You survived being put through a woodchipper
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To evaluate the story "You survived being put through a woodchipper," I need to consider the severity and implications of this situation. Surviving such an ordeal would involve extreme physical pain and trauma, which makes it one of the more serious and impactful experiences one can endure. 
+
+The psychological impact of such a survival would likely also be significant, leading to long-lasting emotional and mental health issues. Given the extreme nature of this experience, I would anticipate the misery rating to be very high.
+
+Estimating the rating for such a horrific situation, I would place it in the higher range. I would say a reasonable range considering the intensity of the experience might be 90 to 100.
+
+So, my final answer would be {{{90 - 100}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 86. Thank you for playing!

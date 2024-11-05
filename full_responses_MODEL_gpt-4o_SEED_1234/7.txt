@@ -1,0 +1,174 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: You Wake up Covered in Fire Ants. Misery Rating = 68
+## Hypothetical Situation 2: Your Partner Screams Their Ex's Name During Sex. Misery Rating = 37
+## Story: Your Mom Marries Your Son
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Given the two hypothetical situations:
+
+1. Waking up covered in fire ants has a Misery Rating of 68, which suggests significant physical discomfort and perhaps some emotional trauma due to the suddenness and intensity.
+2. Having your partner scream their ex's name during sex has a Misery Rating of 37, implying a lower level of emotional distress and embarrassment.
+
+The story of "Your Mom Marries Your Son" likely involves high levels of emotional trauma and long-term psychological impact due to the complicated family dynamics and social stigma. This would likely create a situation considered more miserable than the second scenario, and possibly more so than the first due to its enduring and complex emotional implications.
+
+Therefore, it's reasonable to conclude that the story of "Your Mom Marries Your Son" would fall above the given misery ratings for both hypothetical situations.
+
+My final answer is: {{{above}}}.
+
+Host: You are CORRECT! The rating for the story was 76. Let's go to the next question. 
+## Story: You Are Impaled Ta-Dah!
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: In analyzing the potential misery for the story "You Are Impaled Ta-Dah!," we need to consider the significant physical pain and potential long-term psychological impact this scenario might entail. Compare it to the hypothetical situations:
+
+1. Waking up covered in fire ants is primarily about physical pain and some emotional distress, with a Misery Rating of 68.
+2. Your partner screaming their ex's name during sex is mainly emotional and has a Misery Rating of 37.
+
+Being impaled likely involves considerable physical pain, potentially far more severe than waking up covered in fire ants, along with possible trauma and long-term psychological effects from the event itself. Given this, it would likely be rated higher than waking up covered in fire ants and much higher than the partner scenario.
+
+Therefore, the story "You Are Impaled Ta-Dah!" would likely fall above the given misery ratings for both hypothetical situations.
+
+My final answer is: {{{above}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 64. Let's start the Round 2, More or Less Miserable.
+## Story 1: Your Husband Fakes Death to Avoid Paying You. Misery Rating = 41
+## Story 2: Your Husband Wins lottery and Leaves You
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: When comparing the two stories:
+
+1. "Your Husband Fakes Death to Avoid Paying You" has a Misery Rating of 41. This situation involves significant emotional betrayal and financial implications.
+
+2. "Your Husband Wins Lottery and Leaves You" also involves profound emotional betrayal, coupled with the financial implications of missing out on shared wealth due to the lottery win.
+
+The situation where your husband wins the lottery and leaves you carries a strong emotional punch due to the sudden windfall he receives and then the betrayal. This might be considered even more distressing than faking death because it involves immediate, tangible loss and abandonment.
+
+Therefore, it's reasonable to assume that Story 2, "Your Husband Wins Lottery and Leaves You," has a higher misery rating than Story 1.
+
+My final answer is: {{{higher}}}.
+
+Host: You are CORRECT! The rating for the story was 66. Let's go to the next question.
+## Story 1: Everyone Knows You Hate Babies. Misery Rating = 59
+## Story 2: Yes Even YOU as a Bill Mitchell Can Be Hacked
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: When comparing the two stories:
+
+1. "Everyone Knows You Hate Babies" has a Misery Rating of 59. This situation likely involves social stigma and emotional discomfort, as it affects one's reputation and relationships.
+
+2. "Yes Even YOU as a Bill Mitchell Can Be Hacked" would involve concerns about privacy, security, and potential identity theft, which might lead to significant stress and long-term implications.
+
+While both scenarios have potential for emotional distress, the dynamic of being hacked can carry serious personal and financial consequences, making it a prolonged ordeal beyond initial embarrassment or social discomfort.
+
+Therefore, it's reasonable to assume that Story 2, "Yes Even YOU as a Bill Mitchell Can Be Hacked," has a higher misery rating than Story 1.
+
+My final answer is: {{{higher}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 35. Let's start the Round 3, Master of Misery.
+## Story: You Get a Public Prostate Exam
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: Given the story "You Get a Public Prostate Exam," we need to assess the potential levels of physical discomfort, emotional trauma, and long-term psychological impact.
+
+1. **Physical Discomfort:** The prostate exam itself may cause some physical discomfort, but it is not extreme.
+   
+2. **Emotional Trauma:** The public nature of the exam introduces significant embarrassment and humiliation, impacting one's dignity and potentially leading to social anxiety.
+
+3. **Long-term Psychological Impact:** The event may lead to moderate long-term effects due to the public exposure and potential ongoing embarrassment.
+
+Balancing these factors, a public prostate exam combines both initial embarrassment and potential social implications, likely placing the rating below extreme physical pain scenarios but significantly above trivial emotional annoyances. 
+
+Taking these considerations into account, the story likely has a mid-range to upper-mid-range misery rating. I'd estimate it around:
+
+{{{62}}}
+
+Host: The rating for the story was 47. You were off by 15 points! Let's start the Bonus Round, Margin of Misery.
+## Story: You Snort Grandpa's ashes
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To estimate the misery rating for "You Snort Grandpa's Ashes," let's evaluate the components:
+
+1. **Physical Pain:** There might not be significant physical pain involved in this scenario.
+
+2. **Emotional Trauma:** This could be quite distressing emotionally, given the shocking and disrespectful nature of the act.
+
+3. **Long-term Psychological Impact:** The event could lead to lasting emotional consequences, especially when considering the grief and respect associated with a loved one’s remains.
+
+Given these factors, the total misery rating will likely lean more on the emotional trauma and long-term impact rather than physical pain. It's unlikely to be one of the highest misery scores but still above average due to the emotional implications.
+
+With this in mind, I will estimate a range for the misery rating as follows:
+
+{{{50 - 80}}}
+
+Host: You are CORRECT! The rating for the story was 69. Let's go to the next question.
+## Story: Your Dog Loves Bones
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Given the story "Your Dog Loves Bones," we need to consider the potential levels of misery:
+
+1. **Physical Pain:** This scenario likely does not involve any physical pain.
+
+2. **Emotional Trauma:** Assuming the context is simply a humorous or benign observation about your dog, there is little to no emotional trauma. However, if there is a deeper or negative implication (such as the dog getting in trouble for its love for bones), this could affect the rating.
+
+3. **Long-term Psychological Impact:** This story is unlikely to result in long-term psychological impact unless it involves a significant adverse event related to the dog’s behavior.
+
+Based on these considerations, it seems likely that this story would have a low misery rating, as it appears to be a relatively normal or benign situation involving your dog.
+
+With this in mind, I would estimate a lower range for the misery rating as follows:
+
+{{{20 - 40}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 91. Let's go to the next question.
+## Story: You Confuse a Stick of Dynamite for a Candle
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: In addressing the story "You Confuse a Stick of Dynamite for a Candle," we should evaluate the components:
+
+1. **Physical Pain:** There is a significant risk of physical harm if the dynamite ignites, leading to potentially severe injuries or even fatal consequences.
+
+2. **Emotional Trauma:** The immediate shock and fear of such a mistake would be quite high, leading to acute emotional distress.
+
+3. **Long-term Psychological Impact:** Surviving such an event could lead to long-term psychological effects, including trauma, anxiety, and fear of similar objects or situations in the future.
+
+Considering these factors, the story is likely to have a high misery rating due to the extreme physical danger, emotional trauma, and potential long-term psychological impact.
+
+Given the severity, I would estimate a high range for the misery rating as follows:
+
+{{{80 - 90}}}
+
+Host: You are CORRECT! The rating for the story was 81. Thank you for playing!

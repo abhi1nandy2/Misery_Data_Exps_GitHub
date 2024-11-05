@@ -1,0 +1,112 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: You Have a Wet Dream About Your Dad. Misery Rating = 54
+## Hypothetical Situation 2: You Are Sprayed by a Skunk. Misery Rating = 37
+## Story: Your Boyfriend Pushes You off a Cliff (you survived it)
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Your Boyfriend Pushes You off a Cliff sounds like it would have a very high misery rating due to the physical danger, emotional betrayal, and potential long-term psychological impact.
+
+Given this, the story likely falls above both of the hypothetical situations provided. So my final answer is: {{{above}}}.
+
+Host: You are CORRECT! The rating for the story was 59. Let's go to the next question. 
+## Story: Live Eel Removed from Your Body
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Having a live eel removed from your body likely carries significant misery factors, such as intense physical discomfort and possibly long-term psychological impact. It seems more severe than the hypothetical situation of being sprayed by a skunk, which involves unpleasant odor but nothing invasive. It's also likely worse than having a wet dream about your dad, which is more about emotional discomfort.
+
+With this in mind, the story of a live eel being removed from your body likely falls above both hypothetical situations. My final answer is: {{{above}}}.
+
+Host: You are CORRECT! The rating for the story was 70. Let's start the Round 2, More or Less Miserable.
+## Story 1: Dad Tries to Kill You with a Chainsaw. Misery Rating = 83
+## Story 2: Dad Tries to Circumcise You at 20
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: The situation where "Dad Tries to Kill You with a Chainsaw" has a very high misery rating due to the immediate physical threat and severe emotional trauma involved. The second story, "Dad Tries to Circumcise You at 20," while significant in terms of physical and emotional impact, might not carry the same level of immediate life-threatening danger. Therefore, the chainsaw scenario would likely be rated higher due to the extreme threat to life. 
+
+Based on this reasoning, my final answer is: {{{lower}}}.
+
+Host: You are CORRECT! The rating for the story was 78. Let's go to the next question.
+## Story 1: Your Doctor Isn't a Doctor Just A Teen. Misery Rating = 71
+## Story 2: Your Butt Implants Leak
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Having a "Doctor" who is actually just a teenager involves significant risks to your health and likely causes considerable emotional trauma and potential long-term psychological impact, hence the high misery rating. On the other hand, the situation of "Your Butt Implants Leak" can involve physical pain and emotional distress, but it may not be as fundamentally alarming as having a non-doctor providing medical treatment.
+
+Considering the threat to personal health and the trust violation in the first story, it seems more severe than the physical and aesthetic concerns of the second. Therefore, I would expect the butt implants leaking to have a lower misery rating compared to the fake doctor scenario.
+
+My final answer is: {{{lower}}}.
+
+Host: You are CORRECT! The rating for the story was 64. Let's start the Round 3, Master of Misery.
+## Story: You lose an election to a dead pimp
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: Losing an election to a dead pimp would likely result in considerable emotional distress, embarrassment, and potential long-term psychological impact, particularly regarding reputation and self-esteem. However, it does not involve physical pain or life-threatening danger. Considering the balance of emotional trauma and potential long-term impact, a moderate to high misery rating is reasonable.
+
+Based on these factors, I would estimate the misery rating of the story to be around 62. My final answer is: {{{62}}}.
+
+Host: The rating for the story was 57. You were off by 5 points! Let's start the Bonus Round, Margin of Misery.
+## Story: You're Stuck in Traffic for 11 Days
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: being stuck in traffic for 11 days would involve significant frustration, physical discomfort, and emotional stress, though it doesn't pose immediate physical danger or severe psychological trauma like other situations. Given these factors, the misery rating is likely on the moderate to higher end but not extremely high.
+
+Considering the allowance for a 30-point margin of error, I would place the misery rating roughly in the middle range.
+
+My final answer is: {{{45 - 75}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 79. Let's go to the next question.
+## Story: You Slam Your Car into a Building
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Slaming your car into a building would likely involve a significant amount of physical pain potential injury and emotional distress. Additionally, there could be long-term psychological impacts especially related to fear or anxiety about driving. Considering these elements, I would expect the misery rating to be relatively high, given the potential for injury and trauma.
+
+With a 20-point margin of error to account for, I would place my guess higher on the scale.
+
+My final answer is: {{{65 - 85}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 51. Let's go to the next question.
+## Story: Your Wife Cuts off Your Genitals Twice
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Experiencing an event where your wife cuts off your genitals twice would encompass extreme physical pain, profound emotional trauma, and severe long-term psychological impact. The mixture of severe physical injury, emotional betrayal, and the potential for significant psychological distress would likely merit a very high misery rating.
+
+Given the severity of the situation and with a 10-point margin of error in mind, I would estimate that the misery rating is at the top end of the scale.
+
+My final answer is: {{{90 - 100}}}.
+
+Host: You are CORRECT! The rating for the story was 92. Thank you for playing!

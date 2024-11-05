@@ -1,0 +1,88 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: Your Daughter Demands Emancipation on TikTok. Misery Rating = 68
+## Hypothetical Situation 2: You Get peed on at a Music Festival. Misery Rating = 42
+## Story: Your umbrella caught fire after you were struck by lightning
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: {{{Above}}}
+
+Host: You are CORRECT! The rating for the story was 87. Let's go to the next question. 
+## Story: You Cannonball into a Frozen Lake
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: {{{Below}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 49. Let's start the Round 2, More or Less Miserable.
+## Story 1: Your Toddler's Birthday Cake Calls Her a Loser. Misery Rating = 33
+## Story 2: Old Woman went nude during Your Zoom Bat Mitzvah
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: {{{Higher}}}
+
+Host: You are CORRECT! The rating for the story was 47. Let's go to the next question.
+## Story 1: You're a child and are Attacked by a Bird while riding a scooter. Misery Rating = 42
+## Story 2: You Are Mounted by a Stallion
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: {{{Higher}}}
+
+Host: You are CORRECT! The rating for the story was 60. Let's start the Round 3, Master of Misery.
+## Story: Your Dental Assitant is Reckless
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: {{{78}}}
+
+Host: The rating for the story was 35. You were off by 43 points! Let's start the Bonus Round, Margin of Misery.
+## Story: You Dive Into a Piranha Party
+Output your final answer as the interval of ratings (interval size = 30) in three braces (STICK TO THIS FORMAT ONLY, NO OTHER FORMAT ALLOWED! LOWER LEVEL and HIGHER LEVEL are integers, empty values NOT ALLOWED!), like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: {{{45 - 75}}}
+
+Host: You are CORRECT! The rating for the story was 67. Let's go to the next question.
+## Story: You are a motorcyclist who fell off the ramp at the start of a race you've Fallen and Can't Get Up
+Output your final answer as the interval of ratings (interval size = 20) in three braces (STICK TO THIS FORMAT ONLY, NO OTHER FORMAT ALLOWED! LOWER LEVEL and HIGHER LEVEL are integers, empty values NOT ALLOWED!), like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: {{{25 - 45}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 52. Let's go to the next question.
+## Story: You walked in on your hubby possibly having sex with his mom when you were already suspicious of incest
+Output your final answer as the interval of ratings (interval size = 10) in three braces (STICK TO THIS FORMAT ONLY, NO OTHER FORMAT ALLOWED! LOWER LEVEL and HIGHER LEVEL are integers, empty values NOT ALLOWED!), like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: {{{60 - 80}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 89. Thank you for playing!

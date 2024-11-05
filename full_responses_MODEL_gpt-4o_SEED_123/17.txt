@@ -1,0 +1,194 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: You're Subpoenaed to Testify Before Congress. Misery Rating = 49
+## Hypothetical Situation 2: Your Ex Makes a Sex Doll of You. Misery Rating = 28
+## Story: You Get Kicked in the Head by a Groomsman
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: To determine where "You Get Kicked in the Head by a Groomsman" falls, we need to consider the likely impact in terms of the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+1. **Physical Pain**: Getting kicked in the head could involve significant physical pain and possibly even injury, which might contribute to a high score on this pillar.
+2. **Emotional Trauma**: The incident could be embarrassing, unexpected, and possibly happen in a social situation like a wedding, adding to emotional trauma.
+3. **Long-term Psychological Impact**: Depending on the severity, there could be lasting effects such as fear, anxiety, or even physical symptoms like headaches.
+
+Comparing these with the hypothetical situations:
+- Being subpoenaed to testify before Congress likely involves significant stress, especially emotionally and psychologically, with less immediate physical pain.
+- An ex making a sex doll could induce distress more on an emotional and psychological level, possibly revealing personal issues or privacy violations.
+
+"Kicked in the Head by a Groomsman" seems to have a significant immediate physical impact and potential for emotional trauma comparable to, or possibly surpassing, the hypothetical situations.
+
+Given these considerations, the story likely falls between a 28 and 49 on the Misery Rating scale.
+
+My final answer is: {{{between}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 51. Let's go to the next question. 
+## Story: Your Neighbor's Halloween Display Gives You Nightmares
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: To determine where "Your Neighbor's Halloween Display Gives You Nightmares" falls, let's evaluate it based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+1. **Physical Pain**: This situation likely involves no physical pain, as it is about having nightmares.
+2. **Emotional Trauma**: The nightmares suggest some emotional disturbance, especially if the display is particularly frightening or triggers specific fears, but this is likely temporary.
+3. **Long-term Psychological Impact**: Unless the nightmares are severe and persistent, the long-term psychological impact is probably limited.
+
+Comparing this situation with the hypothetical ones:
+- Being subpoenaed to testify before Congress involves more significant stress and potential long-term impacts, giving it a higher rating.
+- Your ex making a sex doll could cause a personal violation and emotional distress, but the impact may vary widely depending on personal circumstances.
+
+"Your Neighbor's Halloween Display Gives You Nightmares" seems less severe than being subpoenaed to testify before Congress (rating 49) and likely less severe than the emotional violation of a sex doll (rating 28).
+
+Therefore, given these considerations, the story likely falls below a 28 on the Misery Rating scale.
+
+My final answer is: {{{below}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 35. Let's start the Round 2, More or Less Miserable.
+## Story 1: You Get Arrested for Giving a Fake Name even though you have a tattoo with your actual name. Misery Rating = 43
+## Story 2: You are a burglar and the Ski Mask on the face drawn using marker Doesn't Fool the Police
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To determine if "You are a burglar and the Ski Mask on the face drawn using marker Doesn't Fool the Police" has a higher or lower Misery Rating compared to "You Get Arrested for Giving a Fake Name even though you have a tattoo with your actual name," let's analyze the potential for misery in each scenario.
+
+1. **Physical Pain**: Neither of these situations inherently involves physical pain, so this pillar is likely not a primary factor.
+   
+2. **Emotional Trauma**: Both situations are embarrassing, but being a burglar caught in a failed disguise might carry a greater level of public humiliation compared to the tattoo scenario. Both involve legal issues, but being caught due to a failed disguise could be seen as more foolish and hence more emotionally traumatic.
+
+3. **Long-term Psychological Impact**: Both situations could result in legal consequences that impact one's life, but again, getting caught due to a poorly executed disguise as a burglar might carry additional stigma and personal regret.
+
+Given these factors, while both stories involve legal trouble and embarrassment, the scenario involving the failed burglar disguise could be considered more prone to public ridicule and thus might have a slightly higher misery rating.
+
+My final answer is: {{{higher}}}.
+
+Host: You are CORRECT! The rating for the story was 56. Let's go to the next question.
+## Story 1: Train Hits You With a Snow Tsunami. Misery Rating = 37
+## Story 2: You're Trapped on a Flaming Tree
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To determine if "You're Trapped on a Flaming Tree" has a higher or lower Misery Rating compared to "Train Hits You With a Snow Tsunami," let's evaluate the potential for misery in each scenario:
+
+1. **Physical Pain**: Being trapped on a flaming tree poses a direct threat of serious physical harm, including burns or injuries from trying to escape. In contrast, a "snow tsunami" might cause discomfort and a temporary physical shock but is less likely to result in significant physical injury.
+
+2. **Emotional Trauma**: The experience of being trapped on a tree engulfed in flames could be intensely frightening and traumatic, with immediate danger to one's life or well-being. A train-induced snow tsunami may be startling, but the threat and potential for serious injury are lower.
+
+3. **Long-term Psychological Impact**: Surviving a life-threatening fire situation could lead to long-lasting psychological issues, such as post-traumatic stress disorder (PTSD), whereas being hit by a snow tsunami might only have short-lasting effects unless severe.
+
+Given these considerations, "You're Trapped on a Flaming Tree" likely involves more immediate danger, potential physical harm, and both emotional and psychological trauma than the scenario of being hit by a snow tsunami. Thus, it seems probable that the flaming tree scenario would have a higher misery rating.
+
+My final answer is: {{{higher}}}.
+
+Host: You are CORRECT! The rating for the story was 73. Let's start the Round 3, Master of Misery.
+## Story: You're Stuck in an Elevator With a Cat & a Sick Person
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: Let's evaluate the misery level for "You're Stuck in an Elevator With a Cat & a Sick Person" based on the "Three Pillars of Misery":
+
+1. **Physical Pain**: There is little to no direct physical pain unless one considers discomfort from being cramped or from the cat possibly causing scratches.
+
+2. **Emotional Trauma**: This scenario can induce stress due to the confined space, the presence of a potentially unwell person, and an animal that might become agitated. Fear and anxiety about the duration of entrapment and the health status of the sick person could add to emotional distress.
+
+3. **Long-term Psychological Impact**: Depending on how long one remains stuck and the nature of the sick person's condition, this situation might have lingering mental effects, particularly for someone claustrophobic or with health anxiety.
+
+Considering previous ratings:
+- "Snow Tsunami" was rated at 37, while "Flaming Tree" at 73, showing a range of emergencies versus serious danger.
+- "Burglar Ski Mask" was rated at 56; it involved higher ridicule and legal consequences.
+
+Being stuck in an elevator is less dangerous or embarrassing than many prior scenarios but involves significant discomfort and potential stress. 
+
+Given these considerations, a reasonable rating might be moderately high due to stress and confinement but lower than scenarios involving immediate physical danger or severe embarrassment.
+
+My final answer is: {{{48}}}.
+
+Host: The rating for the story was 40. You were off by 8 points! Let's start the Bonus Round, Margin of Misery.
+## Story: Everyone But You Wins the Lottery
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To determine the misery rating interval for "Everyone But You Wins the Lottery," let's evaluate based on the "Three Pillars of Misery":
+
+1. **Physical Pain**: There is no direct physical pain in this scenario.
+
+2. **Emotional Trauma**: The scenario can cause significant emotional distress. Being the only one left out can lead to feelings of isolation, envy, and regret.
+
+3. **Long-term Psychological Impact**: This might have a lasting psychological impact, especially if one becomes fixated on the perceived unfairness or misses opportunities as a result of not having won.
+
+Considering these factors and comparing to past scenarios:
+- It's likely less severe than being trapped on a flaming tree (73) but potentially more distressing than a snow tsunami (37), due to the emotional impact.
+- The social aspect could cause it to be similar to a high-impact embarrassment scenario like the burglar story (56).
+
+Given these considerations, the scenario seems to fit within a mid-range rating.
+
+My final answer is: {{{35 - 65}}}.
+
+Host: You are CORRECT! The rating for the story was 51. Let's go to the next question.
+## Story: After you advocated caning for adultery you got caned for adultery
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To determine the misery rating interval for "After you advocated caning for adultery you got caned for adultery," let's evaluate based on the "Three Pillars of Misery":
+
+1. **Physical Pain**: This scenario clearly involves significant physical pain due to the act of caning, which directly impacts the misery rating.
+
+2. **Emotional Trauma**: Beyond physical pain, there is also substantial emotional trauma due to the irony and public humiliation of being punished with a method you supported. The embarrassment and possible damage to one's reputation can be severe.
+
+3. **Long-term Psychological Impact**: This could result in a long-lasting psychological impact, such as regret, shame, or fear of further public speaking and judgment.
+
+Considering these factors and comparing to previous scenarios:
+- The physical and emotional trauma of this situation parallels high-impact scenarios. It's likely more severe than a scenario like "Everyone But You Wins the Lottery" (51) due to the physical element.
+- It could be comparable to serious physical or highly humiliating situations, suggesting it falls somewhere in a higher range.
+
+Given these considerations, a suitable rating bracket would likely be moderately high.
+
+My final answer is: {{{60 - 80}}}.
+
+Host: You are CORRECT! The rating for the story was 62. Let's go to the next question.
+## Story: A Carnival Ride Almost Kills You
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To determine the misery rating interval for "A Carnival Ride Almost Kills You," let's analyze the story using the "Three Pillars of Misery":
+
+1. **Physical Pain**: While the situation involves a near-death experience, physical pain may not be the primary factor unless there were injuries during the incident. However, the threat to life introduces significant potential for physical consequence.
+
+2. **Emotional Trauma**: A near-accident can cause intense fear and emotional distress. The adrenaline rush, the fear during the event, and the realization of how close one came to harm are significant contributors to emotional trauma.
+
+3. **Long-term Psychological Impact**: Such an experience can lead to long-lasting psychological effects, including anxiety related to carnival rides or similar situations, and maybe even symptoms of PTSD.
+
+Considering these factors and comparing to previous scenarios:
+- The experience likely exceeds the stress of "Everyone But You Wins the Lottery" (51) and considerably so compared to "You're Stuck in an Elevator With a Cat & a Sick Person" (40) due to the immediate danger involved.
+- It might approach the severity of something like "You're Trapped on a Flaming Tree" (73), although it might be slightly less if no injury occurred.
+
+Given these considerations, the rating would likely be placed in the upper range due to the intensity of the experience.
+
+My final answer is: {{{70 - 80}}}.
+
+Host: You are CORRECT! The rating for the story was 72. Thank you for playing!

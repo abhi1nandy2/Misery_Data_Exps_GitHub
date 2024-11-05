@@ -1,0 +1,182 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: You Botch The National Anthem on TV. Misery Rating = 56
+## Hypothetical Situation 2: You Choke on a Crumpet During High Tea. Misery Rating = 39
+## Story: You Find Out Your Lover is Your Brother
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: To evaluate the misery of the story "You Find Out Your Lover is Your Brother," let's consider the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+1. **Physical Pain**: There isn't any direct physical pain involved in this story.
+2. **Emotional Trauma**: Discovering that your lover is actually your sibling would likely result in significant emotional trauma. This kind of revelation can lead to feelings of disgust, betrayal, and confusion.
+3. **Long-term Psychological Impact**: This situation could have a profound and lasting psychological impact, affecting relationships with family and creating ongoing emotional stress. It can also lead to identity and trust issues.
+
+Given the high levels of emotional trauma and long-term psychological impact, this story seems more severe than both choking on a crumpet (rating = 39) and botching the National Anthem on TV (rating = 56). Therefore, the story's misery rating would likely be above both situations.
+
+My final answer is: {{{above}}}
+
+Host: You are CORRECT! The rating for the story was 79. Let's go to the next question. 
+## Story: You Shoot Yourself During Gun Demo
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: To evaluate the misery of the story "You Shoot Yourself During Gun Demo," let's consider the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+1. **Physical Pain**: This situation involves significant physical pain, as shooting oneself would likely cause serious injury and immediate intense pain.
+2. **Emotional Trauma**: There could be substantial emotional trauma from accidentally shooting oneself, possibly including feelings of embarrassment, fear, and regret.
+3. **Long-term Psychological Impact**: The long-term impact could include trauma from the experience, possible lingering physical issues, and a change in perception about handling firearms. It could also affect one's self-confidence and possibly lead to mental health struggles such as PTSD.
+
+Given the presence of both significant physical pain and potential long-term psychological impact, this story seems more severe than choking on a crumpet (rating = 39), and potentially more severe than botching the National Anthem on TV (rating = 56), depending on the extent of the injuries and emotional trauma involved.
+
+My guess is that the misery rating for this story falls above both hypothetical situations. Therefore, my final answer is: {{{above}}}
+
+Host: You are CORRECT! The rating for the story was 78. Let's start the Round 2, More or Less Miserable.
+## Story 1: Your Neighbors Have the Loudest Sex in NY. Misery Rating = 34
+## Story 2: You Have Rubbish Teeth
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To determine whether "You Have Rubbish Teeth" has a higher or lower misery rating compared to "Your Neighbors Have the Loudest Sex in NY," let's evaluate both scenarios based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+1. **Physical Pain**:
+   - "Your Neighbors Have the Loudest Sex in NY": There is no direct physical pain involved.
+   - "You Have Rubbish Teeth": This can lead to physical pain, as having poor dental health can cause discomfort, pain, and difficulty eating.
+
+2. **Emotional Trauma**:
+   - "Your Neighbors Have the Loudest Sex in NY": This might cause annoyance or embarrassment, but likely not severe emotional trauma.
+   - "You Have Rubbish Teeth": This can lead to feelings of embarrassment, low self-esteem, and social anxiety, especially if it affects one’s appearance.
+
+3. **Long-term Psychological Impact**:
+   - "Your Neighbors Have the Loudest Sex in NY": Likely minimal long-term impact.
+   - "You Have Rubbish Teeth": Poor dental health could lead to ongoing self-consciousness, affect social interactions, and cause distress about health or appearance.
+
+Given the potential for both physical pain and significant long-term psychological impact, "You Have Rubbish Teeth" is likely to have a higher misery rating than the inconvenience and annoyance caused by noisy neighbors.
+
+My final answer is: {{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 50. Let's go to the next question.
+## Story 1: Your Head Gets Stuck in Subway Doors. Misery Rating = 59
+## Story 2: You Get Hit by a Bus
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To determine whether "You Get Hit by a Bus" has a higher or lower misery rating compared to "Your Head Gets Stuck in Subway Doors," let's evaluate both scenarios based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+1. **Physical Pain**:
+   - "Your Head Gets Stuck in Subway Doors": This likely involves some physical pain and discomfort from being trapped, as well as possible injuries.
+   - "You Get Hit by a Bus": This scenario would likely involve severe physical pain, potential life-threatening injuries, and significant medical intervention.
+
+2. **Emotional Trauma**:
+   - "Your Head Gets Stuck in Subway Doors": This might cause embarrassment and fear during and shortly after the incident.
+   - "You Get Hit by a Bus": This would likely result in significant emotional trauma, fear, and shock from experiencing such a severe accident.
+
+3. **Long-term Psychological Impact**:
+   - "Your Head Gets Stuck in Subway Doors": While the incident might be unpleasant, it is unlikely to have a substantial long-term psychological impact.
+   - "You Get Hit by a Bus": This could lead to long-term psychological issues, including PTSD, anxiety about road safety, and ongoing health problems.
+
+Given the significantly greater physical pain and long-term psychological impact of being hit by a bus compared to having one's head stuck in subway doors, it is likely that "You Get Hit by a Bus" has a higher misery rating.
+
+My final answer is: {{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 88. Let's start the Round 3, Master of Misery.
+## Story: You slip and Break Your Face on TV
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: To estimate the misery rating of the story "You Slip and Break Your Face on TV," let's consider the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+1. **Physical Pain**: Breaking your face would cause considerable physical pain and likely require medical treatment such as surgery, which adds to the physical misery.
+
+2. **Emotional Trauma**: The incident happening on TV adds to the emotional trauma due to public embarrassment. People might replay the incident, increasing the feeling of exposure and humiliation.
+
+3. **Long-term Psychological Impact**: The long-term impact could include permanent physical changes, ongoing medical issues, and possible self-consciousness about one's appearance. The embarrassment of the event being televised could also have lasting psychological effects.
+
+Considering these factors and the potential severity of each pillar, I would estimate a reasonably high misery rating.
+
+My final answer is: {{{72}}}
+
+Host: The rating for the story was 63. You were off by 9 points! Let's start the Bonus Round, Margin of Misery.
+## Story: Rats Steal Your Toddler's Snacks
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To estimate the misery rating range for the story "Rats Steal Your Toddler's Snacks," let's consider the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+1. **Physical Pain**: There is no direct physical pain involved in this scenario.
+
+2. **Emotional Trauma**: The incident can be unsettling. The parent might feel a strong sense of anxiety or disgust due to the presence of rats around their child. It could also evoke feelings of helplessness or frustration at the situation.
+
+3. **Long-term Psychological Impact**: While the incident may disturb parents or caregivers, it might not have a substantial long-term psychological impact unless the rats cause significant harm or create ongoing problems.
+
+Given these considerations, the story likely has a relatively low to moderate misery rating. It is certainly less severe compared to physically injurious or life-threatening incidents but might still be a noticeable inconvenience or gross experience, suggesting a moderate rating.
+
+Considering the margin of error allowance, let's place the rating estimate moderately:
+
+My final answer is: {{{25-55}}}
+
+Host: You are CORRECT! The rating for the story was 33. Let's go to the next question.
+## Story: You Fall During the Changing of the Guard
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To estimate the misery rating range for the story "You Fall During the Changing of the Guard," let's consider the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+1. **Physical Pain**: The fall could result in minor physical pain or injuries, depending on the severity of the fall.
+
+2. **Emotional Trauma**: Falling in such a public setting could be embarrassing, especially if it happens during a formal event like the Changing of the Guard. The public nature of the event might amplify feelings of embarrassment or humiliation.
+
+3. **Long-term Psychological Impact**: While the incident may be embarrassing, it is unlikely to have a significant long-term psychological impact unless it results in a serious injury or becomes extremely viral or notorious.
+
+Given these considerations, the story likely has a moderate misery rating. It's more embarrassing than some situations but does not involve considerable physical harm or lasting psychological trauma, suggesting a moderate impact.
+
+Given the margin of error allowance, let's aim for a reasonable estimate within the moderate range:
+
+My final answer is: {{{40-60}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 37. Let's go to the next question.
+## Story: Husband Bulldozes Your House while you were out
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To estimate the misery rating range for the story "Husband Bulldozes Your House while you were out," let's consider the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+1. **Physical Pain**: There is no direct physical pain involved in this scenario, assuming no one was harmed during the bulldozing.
+
+2. **Emotional Trauma**: The emotional trauma could be significant. Losing your home unexpectedly is a major life upheaval, and knowing that your partner was responsible adds a layer of betrayal and shock.
+
+3. **Long-term Psychological Impact**: The long-term impact can be severe. Losing a home means losing memories, belongings, and security. It can lead to housing instability and financial strain and may have lasting effects on trust and mental health due to betrayal by a loved one.
+
+Given these considerations, the story likely has a high misery rating due to the emotional trauma and long-term psychological impact, even without physical pain.
+
+With a narrow margin of error for this question, my estimate would be within a higher range:
+
+My final answer is: {{{80-90}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 65. Thank you for playing!

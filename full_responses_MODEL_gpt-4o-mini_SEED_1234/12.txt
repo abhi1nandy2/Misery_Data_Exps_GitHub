@@ -1,0 +1,161 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: Accidentally CC the Person You're S**t-Talking. Misery Rating = 56
+## Hypothetical Situation 2: Stuck in Jail Overnight With Your Ex. Misery Rating = 38
+## Story: You Drop a Baby
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Given the hypothetical situations and their respective misery ratings, let's analyze the story "You Drop a Baby":
+
+- The rating for "Accidentally CC the Person You're S**t-Talking" is 56.
+- The rating for "Stuck in Jail Overnight With Your Ex" is 38.
+
+Dropping a baby is a serious situation, likely associated with significant physical pain, emotional trauma, and long-term psychological impact. It is likely more miserable than simply getting stuck overnight in jail with an ex but probably just as or more miserable than accidentally CC'ing someone while talking negatively about them, considering the severe consequences of dropping a baby.
+
+Considering these aspects, I would argue that the misery rating for "You Drop a Baby" is likely above 56.
+
+Thus, my final answer is {{{above}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 41. Let's go to the next question. 
+## Story: You Get Hit by a sports Car
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: In this case, let's analyze the story "You Get Hit by a Sports Car" in relation to the two hypothetical situations:
+
+- The rating for "Accidentally CC the Person You're S**t-Talking" is 56.
+- The rating for "Stuck in Jail Overnight With Your Ex" is 38.
+
+Getting hit by a sports car is likely to cause significant physical pain and could also result in emotional trauma, along with potential long-term psychological impacts depending on the severity of the incident. 
+
+Given that the severity of getting hit by a sports car likely exceeds both situations — particularly "Stuck in Jail Overnight With Your Ex" — it seems reasonable to conclude that the story is indeed more miserable than that situation. However, it could potentially be less miserable than accidentally CC'ing someone, as that situation (rated 56) deals with complex social dynamics, though physical injury from being hit by a car is quite severe.
+
+Considering these factors, I believe the story would fall between the two situations.
+
+Thus, my final answer is {{{between}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 60. Let's start the Round 2, More or Less Miserable.
+## Story 1: You Catch Your Wife Cheating on Google Street View. Misery Rating = 68
+## Story 2: You Drive an SUV Off a Cliff
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Let's analyze the two stories in Round 2, More or Less Miserable.
+
+- **Story 1:** You Catch Your Wife Cheating on Google Street View, which has a misery rating of 68. This scenario likely involves significant emotional trauma due to betrayal, which could have a long-lasting psychological impact.
+  
+- **Story 2:** You Drive an SUV Off a Cliff. This scenario likely involves severe physical pain, potential life-threatening injuries, and significant emotional trauma, especially if it results in serious consequences.
+
+Considering the severity of "Driving an SUV Off a Cliff," it is reasonable to assume that it would have a higher misery rating than the infidelity scenario, as life-threatening situations typically result in higher misery ratings.
+
+Therefore, I believe that Story 2 has a higher rating compared to Story 1.
+
+My final answer is {{{higher}}}.
+
+Host: You are CORRECT! The rating for the story was 83. Let's go to the next question.
+## Story 1: You Accidentally Trigger a false Incoming Missile Alert. Misery Rating = 61
+## Story 2: You wrongly hear Your Plane is Crashing
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Let's analyze the two stories in this question about "You Accidentally Trigger a False Incoming Missile Alert" and "You Wrongly Hear Your Plane is Crashing".
+
+- **Story 1:** You Accidentally Trigger a False Incoming Missile Alert has a misery rating of 61. This situation likely involves high levels of anxiety and potential chaos, but if it's a false alert, the physical danger might be minimal, though the emotional trauma can be significant.
+
+- **Story 2:** You Wrongly Hear Your Plane is Crashing. This scenario is likely to induce extreme panic and emotional trauma, with the added stress of a life-threatening situation. The fear and immediate psychological impact could be quite severe, perhaps more so than in the first story.
+
+Given the circumstances, I believe that the emotional and psychological distress from thinking your plane is crashing would lead to a higher misery rating than triggering a false missile alert.
+
+Thus, my final answer is {{{higher}}}.
+
+Host: You are CORRECT! The rating for the story was 64. Let's start the Round 3, Master of Misery.
+## Story: You Pee Your Pants in Public
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: In considering the story "You Pee Your Pants in Public," we should take into account the potential embarrassment, emotional trauma, and the long-term psychological impact that could arise from such an event. It could lead to a sense of humiliation and anxiety in social situations. 
+
+Rating it on the misery scale, it likely sits at a moderate level of misery due to the embarrassment factor and potential for emotional scars.
+
+Given these factors, I would guess the misery rating for "You Pee Your Pants in Public" to be around 50.
+
+Therefore, my final answer is {{{50}}}.
+
+Host: The rating for the story was 34. You were off by 16 points! Let's start the Bonus Round, Margin of Misery.
+## Story: A Python Comes Out of Your Bathroom
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To address the story "A Python Comes Out of Your Bathroom," we need to consider the potential for fear, emotional distress, and the immediate danger posed by a snake in your living space. While it can be quite terrifying, the long-term psychological impact might be less severe than some other miserable situations. 
+
+Given that the emotional trauma could be significant, but recognizing that this scenario might not be the most extreme, I would estimate the misery rating to be within a moderate range.
+
+Thus, I will estimate the interval as follows:
+
+Assuming the typical misery ratings range between 1 and 100, a possible estimate could be a midpoint such as 45. Therefore, the interval with a margin of 30 points would be:
+
+LOWER LEVEL: 15 (45 - 30) 
+HIGHER LEVEL: 75 (45 + 30)
+
+Thus, my final answer is {{{15 - 75}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 39. Let's go to the next question.
+## Story: Your Toddler is Trapped Inside a Skee-Ball Machine
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To evaluate the story "Your Toddler is Trapped Inside a Skee-Ball Machine," we must consider the potential for extreme emotional trauma and fear. The distress of a parent worrying about their toddler's safety in such a situation is significant, as it carries implications of both panic and possible long-term psychological effects.
+
+Given the severity and the immediate danger involved, I would estimate the misery rating to be on the higher end of the scale.
+
+If I assume a midpoint around 70, the interval with a margin of 20 points would be:
+
+LOWER LEVEL: 50 (70 - 20)  
+HIGHER LEVEL: 90 (70 + 20)
+
+Thus, my final answer is {{{50 - 90}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 46. Let's go to the next question.
+## Story: Bleeding occurred in ears & noses because Your Flight Crew Forgets to Pressurize the Plane
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: In analyzing the story "Bleeding occurred in ears & noses because Your Flight Crew Forgets to Pressurize the Plane," we need to consider the physical pain experienced during such an event, as well as the emotional trauma and the fear associated with a flight emergency.
+
+The potential for significant physical discomfort, combined with possible long-term psychological impact from a traumatic flight experience, suggests this situation could have a fairly notable misery rating.
+
+Assuming a reasonable midpoint estimate given the scenario might be around 70. The interval with a margin of 10 points would therefore be:
+
+LOWER LEVEL: 60 (70 - 10)  
+HIGHER LEVEL: 80 (70 + 10)
+
+So, my final answer is {{{60 - 80}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 74. Thank you for playing!

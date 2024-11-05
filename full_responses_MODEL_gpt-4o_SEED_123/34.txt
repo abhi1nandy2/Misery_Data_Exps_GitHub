@@ -1,0 +1,165 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: You're Stuck Behind a Garbage Truck for 15 Miles. Misery Rating = 32
+## Hypothetical Situation 2: You Call Your Boss Mommy During All-Staff Meeting. Misery Rating = 50
+## Story: You jumped onto a trampoline and then crashed into the Side of a Pool missing the water
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Based on the story, "You jumped onto a trampoline and then crashed into the Side of a Pool missing the water," it involves physical pain from the impact, potential emotional trauma from the embarrassment or injury, and possibly a psychological impact if there's a fear of attempting similar activities in the future.
+
+Comparing this to the hypothetical situations: 
+- Getting stuck behind a garbage truck has minor inconveniences and low physical or emotional impact.
+- Calling your boss "Mommy" in an all-staff meeting involves a significant amount of emotional trauma but minimal physical harm.
+
+Crashing into the side of a pool likely would be more severe than these due to the potential physical injuries and the associated trauma. Therefore, I would say the story falls above both situations. 
+
+My final answer is: {{{above}}}.
+
+Host: You are CORRECT! The rating for the story was 67. Let's go to the next question. 
+## Story: Kid Crawls into Your Bathroom Stall
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: The story "Kid Crawls into Your Bathroom Stall" involves mainly emotional trauma and a bit of embarrassment, but minimal physical pain or long-term psychological impact.
+
+Let's compare it to the two hypothetical situations:
+- Being stuck behind a garbage truck is a mild inconvenience with little emotional or physical distress.
+- Calling your boss "Mommy" carries more significant emotional trauma due to potential embarrassment.
+
+Having a child crawl into your bathroom stall is awkward, but it probably doesn't have as much long-term impact as calling your boss "Mommy" in a professional setting, which is very embarrassing.
+
+Therefore, I think the story falls between the two hypothetical situations.
+
+My final answer is: {{{between}}}.
+
+Host: You are CORRECT! The rating for the story was 38. Let's start the Round 2, More or Less Miserable.
+## Story 1: Your Knee Is Crushed by the Knee Splitter. Misery Rating = 91
+## Story 2: Your Groin is Split by the Wooden Horse
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: The story "Your Groin is Split by the Wooden Horse" likely involves an extremely high level of physical pain and long-term psychological impact due to the nature of the injury. 
+
+Comparatively:
+- The knee being crushed by the Knee Splitter already has a high misery rating due to the severe physical pain, potential trauma, and long-term effects on mobility.
+
+Considering this, splitting the groin could have even higher indices in physical pain and psychological impact because it involves a sensitive and critical area of the body, likely leading to significant distress.
+
+Therefore, I would expect Story 2 to have a higher rating than Story 1.
+
+My final answer is: {{{higher}}}.
+
+Host: You are CORRECT! The rating for the story was 95. Let's go to the next question.
+## Story 1: You Spend a Day Wearing the Shame Flute. Misery Rating = 62
+## Story 2: You Spend a Day in the Scold's Bridle that includes an iron mask with a metal tongue depressor
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: The story "You Spend a Day in the Scold's Bridle that includes an iron mask with a metal tongue depressor" involves significant discomfort and humiliation, as the scold's bridle is a historically notorious punishment device causing both physical discomfort and emotional trauma.
+
+Comparing this to "You Spend a Day Wearing the Shame Flute":
+- The Shame Flute involves embarrassment and mild physical discomfort.
+- The Scold's Bridle not only causes frustration and pain from the metal tongue depressor but also serves as a more severe form of public humiliation.
+
+Given the increased physical and emotional distress associated with the Scold's Bridle, it likely has a higher misery rating than the Shame Flute.
+
+Therefore, I believe Story 2 has a higher rating than Story 1.
+
+My final answer is: {{{higher}}}.
+
+Host: You are CORRECT! The rating for the story was 77. Let's start the Round 3, Master of Misery.
+## Story: You Get Dragged by a Horse
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: In the story "You Get Dragged by a Horse," there is likely significant physical pain involved, potential emotional trauma from the fear and helplessness of being dragged, and possibly long-term psychological impact from such a frightening experience.
+
+To gauge the misery rating, I compare it to other stories we've discussed:
+- A knee being crushed by the Knee Splitter got a rating of 91, largely due to intense physical pain, emotional trauma, and long-term psychological effects.
+- The emotional impact of being humiliated with the Scold's Bridle was rated at 77, mainly due to discomfort and embarrassment.
+
+Given these comparisons, being dragged by a horse involves considerable physical harm and potential for long-term psychological impact, but perhaps not quite as severe as a knee being crushed.
+
+Taking these factors into consideration, my best guess for the Misery Index rating for "You Get Dragged by a Horse" is {{{85}}}.
+
+Host: The rating for the story was 47. You were off by 38 points! Let's start the Bonus Round, Margin of Misery.
+## Story: Your Stretcher Tips Over
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: In the story "Your Stretcher Tips Over," this likely involves a mix of physical discomfort or pain from falling off a stretcher, as well as some degree of emotional trauma or embarrassment if it happens in a public setting. However, it may not have an extremely high long-term psychological impact, depending on the severity of the fall.
+
+To determine an appropriate rating interval, I'll compare it to known ratings:
+- Lower events like "Stuck Behind a Garbage Truck" rated at 32 involve more inconvenience than actual trauma.
+- Higher events like "Calling Your Boss Mommy" rated at 50 involve significant embarrassment but almost no physical harm.
+
+Given that tipping over on a stretcher usually results in some degree of physical discomfort and potential public embarrassment, this story might have a misery rating somewhere between those examples.
+
+Considering all this, my best estimation for the rating interval would be to start around an average inconvenience with some trauma. I would choose:
+
+{{{35 - 65}}}
+
+Host: You are CORRECT! The rating for the story was 61. Let's go to the next question.
+## Story: No One Comes to Your Loneliness Seminar
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: The story "No One Comes to Your Loneliness Seminar" likely involves significant emotional trauma due to the feelings of rejection and humiliation. However, it doesn't involve physical pain or have a severe long-term psychological impact, unless this occurrence is part of a larger pattern.
+
+To gauge the misery rating interval:
+
+- The embarrassment from calling your boss "Mommy," rated at 50, is comparable in terms of emotional distress.
+- The story involving a kid crawling into your bathroom stall, rated at 38, represents a scenario with minor embarrassment.
+
+Considering the emotional impact of preparing for an event like a seminar and facing complete rejection, the emotional trauma is quite significant but likely not as intense as severe physical injuries (such as the Scold's Bridle, rated at 77).
+
+Given these factors, I would estimate this story falls in the middle emotional distress range, so I would choose the interval:
+
+{{{40 - 60}}}
+
+Host: You are CORRECT! The rating for the story was 41. Let's go to the next question.
+## Story: A Toaster Toasts You
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: In the story "A Toaster Toasts You," it involves physical pain from burns, which can be quite severe depending on the extent of the injury. It also could involve emotional trauma due to the fear and shock of being accidentally burned by a household appliance. However, the long-term psychological impact might not be very high unless the burns are severe and lead to lasting trauma or scarring.
+
+To determine the appropriate misery rating interval, let's consider previous ratings:
+
+- Physical injuries like "Being Dragged by a Horse," which involve significant physical pain and potential trauma, had a rating of 47.
+- Emotional situations like "No One Comes to Your Loneliness Seminar," rated at 41, involve primarily emotional trauma without serious physical pain.
+
+Given that burns can be quite painful and cause immediate physical distress, it's likely more severe than being rejected at a seminar but possibly less impactful than being dragged by a horse, combining both physical and emotional elements.
+
+With these comparisons in mind, I would choose an interval on the higher side of moderate due to the physical pain:
+
+{{{55 - 65}}}
+
+Host: You are CORRECT! The rating for the story was 62. Thank you for playing!

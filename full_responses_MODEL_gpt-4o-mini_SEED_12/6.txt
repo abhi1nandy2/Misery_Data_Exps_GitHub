@@ -1,0 +1,144 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: Explosive Diarrhea Every Time You Orgasm. Misery Rating = 66
+## Hypothetical Situation 2: Your Dog Eats Your Neighbor's Bunny. Misery Rating = 35
+## Story: You receive 65000 Texts After One Date
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Given the scenarios presented, the first hypothetical situation about experiencing explosive diarrhea every time you orgasm (misery rating of 66) is clearly quite severe, involving both significant physical discomfort and emotional stress. The second situation about your dog eating your neighbor's bunny (misery rating of 35) is certainly unfortunate but comparatively less impactful.
+
+Receiving 65,000 texts after one date suggests overwhelming emotional distress and potential psychological impact, likely ranking it above the second hypothetical but below the first due to its lack of physical pain.
+
+Therefore, I would say the story falls between the two situations.
+
+My final answer is {{{between}}}.
+
+Host: You are CORRECT! The rating for the story was 60. Let's go to the next question. 
+## Story: Dad Nearly Drowns You for Clicks
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: In this case, the story "Dad Nearly Drowns You for Clicks" presents a scenario that involves serious physical danger and potential emotional trauma, which sets it apart from both hypothetical situations provided earlier. 
+
+The first hypothetical situation (Explosive Diarrhea Every Time You Orgasm) has a misery rating of 66 and involves both significant physical pain and potential emotional impacts. While the second situation (Your Dog Eats Your Neighbor's Bunny) is rated at 35, it is more humorous and lighthearted in nature with a lower impact. 
+
+Given that the current story involves a life-threatening situation and severe emotional consequences, I believe it ranks significantly higher than both hypothetical situations.
+
+Therefore, I would conclude that this story falls above the other two situations.
+
+My final answer is {{{above}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 44. Let's start the Round 2, More or Less Miserable.
+## Story 1: You all Prayed the Wrong Way for 37 Years. Misery Rating = 51
+## Story 2: You're Not Infertile Just Doing It Wrong (Anal Sex)
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To analyze the two stories, we have:
+
+- **Story 1**: "You all Prayed the Wrong Way for 37 Years" has a misery rating of 51. This scenario suggests a long-term emotional impact due to frustration and disappointment stemming from ineffectiveness in one’s spiritual practices over many years.
+
+- **Story 2**: "You're Not Infertile Just Doing It Wrong (Anal Sex)" likely involves an embarrassing realization and potential emotional pain related to misconceptions about fertility and sexual practices. However, this situation may have a more humorous undertone and less long-term trauma compared to Story 1.
+
+Considering that Story 1 has a defined misery rating of 51, and taking into account the nature and implications of Story 2, I lean towards the conclusion that it might have a lower impact than Story 1 due to both the potentially humorous aspect and the nature of the scenario.
+
+Therefore, my final answer is {{{lower}}}.
+
+Host: You are CORRECT! The rating for the story was 44. Let's go to the next question.
+## Story 1: Trapped in Your Tub for 5 Days. Misery Rating = 59
+## Story 2: Python in Your Toilet
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: To evaluate these two stories:
+
+- **Story 1**: "Trapped in Your Tub for 5 Days" with a misery rating of 59 presents a scenario that likely involves severe physical discomfort, potential dehydration, and significant emotional distress due to the feeling of entrapment and helplessness.
+
+- **Story 2**: "Python in Your Toilet" implies an unexpected and frightening encounter that could cause panic and fear, but it may not involve the same level of long-term discomfort or trauma that comes from being trapped for an extended period.
+
+Considering the severity of the situations, being trapped for 5 days seems to have a more enduring impact than simply encountering a python, which is likely more of a brief shock or fear.
+
+Thus, I would conclude that Story 2 likely has a lower rating compared to Story 1.
+
+My final answer is {{{lower}}}.
+
+Host: You are CORRECT! The rating for the story was 54. Let's start the Round 3, Master of Misery.
+## Story: You Tank a Wedding Toast
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: To gauge the misery rating for the story "You Tank a Wedding Toast," we should consider the components of embarrassment and social consequences. 
+
+A wedding toast that goes awry could lead to significant emotional trauma, particularly if it damages relationships with friends or family present. The implications of personal shame and the potential for long-lasting psychological impact from public embarrassment can be substantial. 
+
+Considering these factors and similar narratives, I would estimate the misery rating to be around 70. This suggests a significant level of distress while still allowing for some context of resilience and humor.
+
+My final answer is {{{70}}}.
+
+Host: The rating for the story was 42. You were off by 28 points! Let's start the Bonus Round, Margin of Misery.
+## Story: You Have 232 Teeth Removed
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To determine the interval for the story "You Have 232 Teeth Removed," I need to consider the physical pain involved, the emotional trauma, and the potential long-term psychological impact of having such a bizarre and extreme dental situation.
+
+Having 232 teeth removed suggests a significant amount of physical pain, potential embarrassment, and long-lasting effects on one's quality of life and self-image. This leads me to believe that the misery rating would be relatively high.
+
+Taking into account the defined margin of error of 30 points, I would estimate the misery rating to be in the range of 70 to 100 based on the impact of the events described.
+
+Therefore, my final answer is {{{70 - 100}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 65. Let's go to the next question.
+## Story: You try to Go to Jail to Escape Wife
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To evaluate the story "You try to Go to Jail to Escape Wife," we need to consider the emotional and psychological implications of such a drastic decision, as well as the potential for physical consequences related to attempting to engage with the legal system in this way.
+
+Wanting to go to jail to escape a spouse suggests a significant level of emotional distress, possibly involving feelings of desperation, unhappiness in the relationship, and a sense of hopelessness about the situation. This could lead to considerable emotional trauma and long-term psychological impact.
+
+Overall, I would estimate that this situation, while serious, might fall in a medium range rather than being at the very extreme end. Considering the margin of error of 20 points, I would estimate the misery rating to be around 50 to 70.
+
+So, my final answer is {{{50 - 70}}}.
+
+Host: You are CORRECT! The rating for the story was 59. Let's go to the next question.
+## Story: You're Stuck on 8 Hour Flight with Demon Child
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: To assess the story "You're Stuck on 8 Hour Flight with Demon Child," we should consider the extreme mental and emotional strain that would occur from being on a long flight with a disruptive child. The combination of being trapped in a confined space with loud or misbehaving children can lead to a significant amount of frustration, anxiety, and feelings of helplessness.
+
+While the situation is certainly unpleasant, it may not involve physical pain, but the psychological impact of such an experience could be considerable. Given that the impact likely varies widely from person to person, I would estimate that the misery rating for this situation could be around 40 to 60.
+
+Considering the interval size of 10 points, I would set the range accordingly.
+
+So, my final answer is {{{40 - 50}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 37. Thank you for playing!

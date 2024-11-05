@@ -1,0 +1,144 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: You're Bonked on the Head and Forget How to Read. Misery Rating = 81
+## Hypothetical Situation 2: Sister-in-Law Pulls You into a Pyramid Scheme. Misery Rating = 36
+## Story: You're Crushed by Broken Glass
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: To determine the misery rating of the story "You're Crushed by Broken Glass," let's evaluate where it might fall relative to the given hypothetical situations.
+
+1. **You're Bonked on the Head and Forget How to Read (Rating: 81)** - This situation likely involves significant emotional trauma and long-term psychological impact, as it affects one's ability to read permanently. Physical pain might be less compared to being crushed by glass.
+
+2. **Sister-in-Law Pulls You into a Pyramid Scheme (Rating: 36)** - This situation primarily involves emotional trauma and possibly some financial distress, with minimal physical pain or long-term psychological impact. 
+
+3. **You're Crushed by Broken Glass** - This situation likely involves significant physical pain due to injuries sustained from the glass. The emotional trauma and long-term impact could also be considerable, especially if the injuries are severe.
+
+Considering the substantial physical pain and potential trauma from "You're Crushed by Broken Glass," it seems reasonable to assume it is more miserable than a pyramid scheme but likely less miserable than permanent loss of a critical skill like reading. Therefore, it would most likely fall between the two given situations.
+
+My final answer is {{{between}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 95. Let's go to the next question. 
+## Story: You ate cat vomit on TV and thought it was Grape-Nuts
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Eating cat vomit on TV and thinking it was Grape-Nuts is definitely an unpleasant situation, primarily due to the significant emotional trauma and embarrassment involved. However, it might not entail as much sustained physical pain or long-term psychological impact as being crushed by broken glass or losing the ability to read.
+
+1. **You're Bonked on the Head and Forget How to Read (Rating: 81)** - As discussed, this situation involves significant long-term psychological impact and emotional trauma.
+
+2. **Sister-in-Law Pulls You into a Pyramid Scheme (Rating: 36)** - This situation has primarily emotional and possibly financial distress but limited physical pain.
+
+Eating cat vomit on TV has a strong element of embarrassment, which could lead to significant but possibly short-term emotional distress. It likely ranks higher than being tricked into a pyramid scheme due to the humiliation factor, but it doesn't seem to reach the severity of losing the ability to read. Therefore, the most likely position for this story is between the two situations.
+
+My final answer is {{{between}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 32. Let's start the Round 2, More or Less Miserable.
+## Story 1: You went to jail for Masturbating in Horse Fields. Misery Rating = 64
+## Story 2: You're a Priest Who Gets Caught Having Sex With a Nun
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: The story "You're a Priest Who Gets Caught Having Sex With a Nun" likely involves significant emotional trauma due to the violation of vows, potential loss of career, and public scandal. This situation can have both immediate and long-term psychological impacts, as well as substantial social consequences. 
+
+1. **You went to jail for Masturbating in Horse Fields (Rating: 64)** - This situation involves public shame, legal consequences, and some emotional trauma, but the impact may be more limited over the long term.
+
+The potential for embarrassment and life-altering repercussions as a priest caught in such a compromising situation likely leads to a higher rating than going to jail for public misconduct.
+
+Therefore, I predict that Story 2 has a higher rating compared to Story 1.
+
+My final answer is {{{higher}}}.
+
+Host: You are CORRECT! The rating for the story was 76. Let's go to the next question.
+## Story 1: Your Seat Mate's Leg Oozes Pus. Misery Rating = 38
+## Story 2: You Hit the Ceiling During Extreme Turbulence
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Experiencing extreme turbulence and hitting the ceiling of an aircraft can be a terrifying event involving significant physical pain, potential injury, and acute emotional trauma due to the sudden and intense nature of the experience.
+
+1. **Your Seat Mate's Leg Oozes Pus (Rating: 38)** - This situation primarily involves discomfort and disgust, potentially causing mild emotional trauma but likely lacking in physical pain or long-lasting effects.
+
+Given the higher likelihood of injury and the intense fear associated with hitting the ceiling during turbulence, this scenario likely has a higher misery rating due to its immediate danger and anxiety.
+
+Therefore, I predict that Story 2 has a higher rating compared to Story 1.
+
+My final answer is {{{higher}}}.
+
+Host: You are CORRECT! The rating for the story was 51. Let's start the Round 3, Master of Misery.
+## Story: Your Lyft Driver is a Nightmare
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: Having a "nightmare" Lyft driver could involve several factors contributing to misery, such as a dangerous driving style, inappropriate behavior, or other distressing interactions. This situation is likely to lead to temporary emotional stress and discomfort but would not involve significant physical pain or have a major long-term psychological impact compared to more severe situations.
+
+Given the potential for acute, short-term distress, I would estimate the misery rating to be moderate. Based on the ratings of previous stories, this seems most comparable to a situation involving mild to moderate discomforts, like your seat mate's leg oozing pus, which had a rating of 38.
+
+However, the context of being trapped in a vehicle with a problematic driver may push the rating slightly higher due to the stress of feeling unsafe or uncomfortable.
+
+Considering these aspects, I would estimate the misery rating of "Your Lyft Driver is a Nightmare" to be around {{{45}}}.
+
+Host: The rating for the story was 19. You were off by 26 points! Let's start the Bonus Round, Margin of Misery.
+## Story: Your Husband Has the World's Longest Ear Hair
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: For the story "Your Husband Has the World's Longest Ear Hair," the misery primarily involves embarrassment or mild annoyance and likely lacks significant physical pain or long-term psychological impact. This seems similar to a low-impact scenario like "Your Seat Mate's Leg Oozes Pus," which had a misery rating of 38.
+
+Given the mild nature of the situation, I would estimate the misery rating to be on the lower end of the scale. Therefore, I would suggest a rating interval that's positioned towards the lower part of the scale.
+
+Considering these aspects, my estimate for the interval is {{{10 - 40}}}.
+
+Host: You are CORRECT! The rating for the story was 28. Let's go to the next question.
+## Story: You Shoot Yourself With a Nail Gun in the leg
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Shooting yourself with a nail gun in the leg likely involves significant physical pain and possibly some emotional trauma, depending on the severity of the injury. However, it may not have the long-term psychological impact of some other scenarios. 
+
+When comparing this to previous stories, it's certainly more miserable than situations that only involve embarrassment or mild discomfort. It seems comparable to an event like "You're Crushed by Broken Glass," which had a high rating due to the physical injury involved, although it might not be as intense as the glass-crushing scenario.
+
+Given the substantial physical pain but potentially limited long-term impact, I would place the interval in the moderate to high range.
+
+Considering these factors, my estimate for the interval is {{{55 - 75}}}.
+
+Host: You are CORRECT! The rating for the story was 60. Let's go to the next question.
+## Story: You Have Two Vaginas
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: The situation "You Have Two Vaginas" is unique and could involve a mix of physical and emotional aspects. Depending on the context, this could lead to various experiences ranging from medical concerns to social stigma, which could contribute to both physical discomfort and emotional distress. The long-term psychological impact might vary greatly depending on personal circumstances and societal reactions.
+
+In terms of comparison with previous stories, it could be more impactful than immediate physical pain situations but might not reach the severity of cases with severe trauma or public disgrace, such as the "Priest Who Gets Caught Having Sex With a Nun" with a rating of 76. 
+
+Given the potential for significant emotional and personal impact, along with possible medical issues, I would place this situation in a relatively high range on the misery scale.
+
+With these considerations in mind, my estimated interval for the rating is {{{70 - 80}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 65. Thank you for playing!

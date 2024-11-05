@@ -1,0 +1,110 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: Your Ex is Dating a Brazilian Model. Misery Rating = 35
+## Hypothetical Situation 2: Person Giving You Mouth-to-Mouth Has Oozing Sore. Misery Rating = 65
+## Story: Your Penis is Stuck in a Toilet Pipe
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Your Penis is Stuck in a Toilet Pipe sounds like it would have a high misery rating due to physical pain, embarrassment, and potential long-term psychological impact. This situation seems more miserable than your ex dating a Brazilian model but less than having someone with an oozing sore give you mouth-to-mouth.
+
+ {{{between}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 70. Let's go to the next question. 
+## Story: You Cause a Bike-a-lanche while riding a cycle down an ice-capped mountain. When you stumble and fall other people riding cycles behind crash into your bike and fall down.
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Causing a "Bike-a-lanche" on an ice-capped mountain sounds quite harrowing. There's potential for physical pain both for you and the others involved, as well as emotional trauma from causing an accident and the possible long-term psychological impact of guilt or blame. Given these factors, I would think it's more miserable than having someone with an oozing sore give you mouth-to-mouth, which has a rating of 65.
+
+ {{{above}}}
+
+Host: You are CORRECT! The rating for the story was 66. Let's start the Round 2, More or Less Miserable.
+## Story 1: Frozen excrement dropped from plane crashed through your roof. Misery Rating = 50
+## Story 2: 1700 bats invaded your tiny flat & started mating
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Having 1700 bats invade your tiny flat and start mating sounds incredibly overwhelming and terrifying. While both situations are certainly inconvenient and shocking, the bats would contribute more significant emotional trauma and potential long-term psychological impact due to the massive infestation and potential health risks. I would think Story 2 has a higher misery rating compared to Story 1 with the frozen excrement.
+
+{{{higher}}}
+
+Host: You are CORRECT! The rating for the story was 60. Let's go to the next question.
+## Story 1: 911 Operator Threatens to Shoot Your Daughter. Misery Rating = 41
+## Story 2: You Knock Out your Accomplice
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Knocking out your accomplice could cause some physical harm, but it might not carry the same level of emotional trauma or long-term psychological impact as having a 911 operator threaten to shoot your daughter. The latter situation involves a serious threat to a loved one's life, which is likely to be far more distressing and terrifying.
+
+{{{lower}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 45. Let's start the Round 3, Master of Misery.
+## Story: You Lose Your Phone in a Trash Barge
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: Losing your phone in a trash barge seems to be more of an inconvenience and a financial setback rather than a profoundly miserable experience. While it can certainly be frustrating and cause some emotional trauma due to loss of important information or contacts, it likely won't have a significant long-term psychological impact or involve physical pain.
+
+Considering these factors, I would give it a moderate misery rating, perhaps around:
+
+{{{40}}}
+
+Host: The rating for the story was 50. You were off by 10 points! Let's start the Bonus Round, Margin of Misery.
+## Story: Your Friend Bites Your Ear Off and tells cops she was a wolf
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Having your friend bite your ear off is undoubtedly a traumatic and painful experience. This scenario involves significant physical pain, possible emotional trauma from the betrayal of a friend, and potential long-term psychological impact due to the incident's bizarre and violent nature. Given these factors, it seems likely to be rated quite high on the misery scale. I would estimate it falls in a range like:
+
+{{{70 - 100}}}
+
+Host: You are CORRECT! The rating for the story was 78. Let's go to the next question.
+## Story: You Pass Out in a Urine Trough
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Passing out in a urine trough sounds like an extremely embarrassing and unpleasant situation. The physical discomfort might not be as severe as in other scenarios, but the emotional trauma and the potential long-term impact due to the humiliation could make it quite miserable. However, it likely wouldn't be as high as situations involving severe physical harm or profound psychological impact.
+
+Considering these factors, I would estimate it falls in the following range:
+
+{{{50 - 70}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 48. Let's go to the next question.
+## Story: You explode while on BBC
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: You explode on live television, especially on a platform as prominent as the BBC, seems like an incredibly embarrassing and distressing event. The emotional trauma from such an embarrassing public spectacle and potential long-term impact, especially if it goes viral, could be substantial. 
+
+However, since "explode" is likely metaphorical and not indicating any physical harm, it may not reach the extremity of incidents involving severe physical pain or bystander injury. Considering this context and focusing on embarrassment and emotional turmoil, I would estimate the misery rating to fall within the following range:
+
+{{{40 - 50}}}
+
+Host: Sorry, you are WRONG! The rating for the story was 80. Thank you for playing!

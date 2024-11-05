@@ -1,0 +1,143 @@
+Gameplay
+The main game consists of three rounds that involve rating and ranking miserable true stories. Ratings are on a numerical scale of 1 to 100, as determined by a panel of psychologists, and are based on the "Three Pillars of Misery": physical pain, emotional trauma, and long-term psychological impact.
+
+
+
+Round 1: Misery Lane (consists of 2 questions)
+In each question, two hypothetical situations are presented to the contestant. The contestant must decide whether a given story falls above, below, or between the two hypothetical situations; a correct choice wins $500.
+
+
+
+Round 2: More or Less Miserable (consists of 2 questions)
+In each question, the contestant is shown two similar stories and must decide which one earned the higher Index rating, earning $1,000 for a correct guess.
+
+
+
+Round 3: Master of Misery (consists of 1 question)
+One miserable story is presented, and the contestant must guess its Index rating as closely as possible. The closer the guess, the higher the reward.
+
+
+
+Bonus Round: Margin of Misery (consists of 3 questions)
+The contestant is shown three miserable stories, one at a time, and must guess the Index rating of each within a specified margin of error in order to win additional money as follows.
+
+
+First story: $5,000 value, within 30 points 
+Second story: $10,000 value, within 20 points
+Third story: $15,000 value, within 10 points
+The contestant guesses by moving a range finder on a sliding scale, attempting to cover the actual rating, and has 10 seconds to lock in a guess on each story.
+
+
+
+You are a contestant in the aforementioned game show. This is the conversation during the gameshow between you and the game show host.
+
+
+
+Host: Let's start the Round 1, Misery Lane.  
+## Hypothetical Situation 1: You Ski Into a Grizzly Bear. Misery Rating = 77
+## Hypothetical Situation 2: Your Long-Lost Sibling is an A-Hole. Misery Rating = 39
+## Story: You are a pilot in a jet and are about to start the plane on the runway while another plane on the runway hits your plane and you survive
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Based on the available information, we have the following misery scenarios:
+
+- Skiing into a grizzly bear has a misery rating of 77, which likely involves a significant amount of physical danger and emotional trauma.
+- Discovering that your long-lost sibling is an unpleasant person has a misery rating of 39, which is likely less physically dangerous but emotionally distressing.
+
+The story presented involves being in a jet that gets hit by another plane on the runway. Surviving such a traumatic event likely involves significant emotional trauma and potential for long-term psychological impact, given the danger and potential for a catastrophic outcome.
+
+Based on this logic, I would place the misery of surviving a plane crash incident closer to the higher end of the scale, but possibly not as high as confronting a grizzly bear directly. Therefore, the story likely falls between the two given situations.
+
+So, my final answer is: {{{between}}}.
+
+Host: You are CORRECT! The rating for the story was 71. Let's go to the next question. 
+## Story: You Have Bees Living in Your Eye
+Does the story fall above, below, or between the two situations? Output your final answer as one of either above, below, or between in three braces, like {{{this}}}.
+
+You: Having bees living in your eye is an extremely distressing situation that likely involves a high level of physical pain, emotional trauma, and potential long-term psychological impact. The thought of insects inhabiting such a sensitive area of the body could cause significant fear and anxiety.
+
+Let's compare it to the hypothetical situations:
+
+- Skiing into a grizzly bear with a misery rating of 77 is associated with high physical danger and emotional stress.
+- Discovering your long-lost sibling is an unpleasant person holds a lower misery rating of 39, with primarily emotional distress.
+
+Bees living in your eye seems to be closer to the level of severity associated with facing a grizzly bear. In fact, given the severity, it could potentially be even more miserable.
+
+Therefore, my final answer is: {{{above}}}.
+
+Host: Sorry, you are WRONG! The rating for the story was 65. Let's start the Round 2, More or Less Miserable.
+## Story 1: You Have a Baby With Your Half Sibling. Misery Rating = 76
+## Story 2: Your Penis rotted after you injected it with petroleum jelly
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Both scenarios presented are deeply distressing and involve significant emotional and psychological impacts.
+
+- Story 1, having a baby with your half-sibling, likely carries a heavy emotional burden and societal implications, leading to a high misery rating of 76.
+- Story 2, where one's penis rotted after injecting it with petroleum jelly, involves severe physical pain and potential long-term psychological trauma due to the personal nature of the injury.
+
+Given the physical and emotional trauma associated with the second story, I would anticipate it to have an even higher misery rating than Story 1, due to the severe medical consequences and the sensitive nature of the injury.
+
+Therefore, my final answer is: {{{higher}}}.
+
+Host: You are CORRECT! The rating for the story was 86. Let's go to the next question.
+## Story 1: You Launch Your Kid Into a Wall. Misery Rating = 30
+## Story 2: You're Convinced There's a Zombie Apocalypse
+Does Story 2 have a higher or lower rating compared to Story 1? Output your final answer as one of either higher or lower in three braces, like {{{this}}}.
+
+You: Both scenarios are distressing in different ways.
+
+- Story 1, where you launch your kid into a wall, carries a misery rating of 30. This situation likely involves significant emotional trauma, guilt, and concern for the child, but the low rating suggests it might not involve severe long-term consequences or physical harm.
+
+- Story 2 involves being convinced there's a zombie apocalypse. This situation points to a high level of psychological distress and anxiety due to the perceived breakdown of society and threat to personal safety.
+
+The paranoia and fear induced by believing in a zombie apocalypse can lead to ongoing stress and psychological impact. Given this context, I would anticipate Story 2 to have a higher misery rating, as the psychological consequences could be quite severe.
+
+Therefore, my final answer is: {{{higher}}}.
+
+Host: You are CORRECT! The rating for the story was 45. Let's start the Round 3, Master of Misery.
+## Story: You Take a Public Lie Detector Test
+Output your final answer as the misery rating (on a numerical scale of 1 to 100) of this story in three braces, like {{{this}}}.
+
+You: Taking a public lie detector test likely involves a significant amount of emotional distress and embarrassment, especially if sensitive or personal information is revealed. The process could cause anxiety due to the public nature of the event and worry about the test's outcome. However, it might not involve severe physical pain or long-term psychological impact, unless the situation has severe personal or professional consequences.
+
+Given these considerations, I would estimate that the misery rating for taking a public lie detector test falls at a moderate level on the scale. It seems less severe than life-threatening or highly traumatic experiences, but more distressing than mildly uncomfortable scenarios.
+
+Therefore, my final answer is: {{{54}}}.
+
+Host: The rating for the story was 43. You were off by 11 points! Let's start the Bonus Round, Margin of Misery.
+## Story: Your Drunken Donkey Ride (you are passed out) while being followed by Security Officers Goes Viral
+Output your final answer as the interval of ratings (interval size = 30) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Riding a donkey while passed out, with the event being captured and going viral, is primarily a situation of emotional distress and embarrassment. There's potential for long-term psychological impact depending on the public reaction or personal repercussions.
+
+Given the playful nature and the embarrassment involved, it is likely to have a moderate misery rating. It's unlikely to have a high rating like a physically dangerous or deeply traumatic event, but it could still be significant due to the public exposure.
+
+I would place it somewhere around the middle of the scale, considering the emotional trauma involved but the lack of physical danger or severe long-term consequences.
+
+Therefore, my final answer for the interval is: {{{35 - 65}}}.
+
+Host: You are CORRECT! The rating for the story was 40. Let's go to the next question.
+## Story: You Destroy a 100-Year-Old Painting
+Output your final answer as the interval of ratings (interval size = 20) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Destroying a 100-year-old painting is a situation that can lead to considerable emotional distress and guilt, especially considering the historical and cultural value of the artwork. The psychological impact can be substantial if the person values art highly or is responsible for its care.
+
+However, the situation does not involve physical pain or threat to personal safety, so it is unlikely to reach the highest levels of the misery scale. The primary impact here is emotional and potentially social, depending on the circumstances under which the destruction happened.
+
+Taking these factors into account, I would place this scenario at a moderate to slightly high level of misery. 
+
+Therefore, my final answer for the interval is: {{{50 - 70}}}.
+
+Host: You are CORRECT! The rating for the story was 66. Let's go to the next question.
+## Story: Your Dog Ate Your Toes
+Output your final answer as the interval of ratings (interval size = 10) in three braces, like {{{LOWER LEVEL - HIGHER LEVEL}}}
+
+You: Having your dog eat your toes is a deeply distressing and painful experience, involving both physical pain and emotional shock. The severity depends on the circumstances, such as whether you were aware or if it happened due to a lack of sensation (for example, if you were unconscious or had a medical condition). The psychological impact of having a pet inflict such an injury can also be significant.
+
+Considering the blend of physical injury, emotional trauma, and potential long-term psychological consequences, this scenario likely has a high misery rating.
+
+Given the factors involved, I would place this situation towards the higher end of the misery scale.
+
+Therefore, my final answer for the interval is: {{{70 - 80}}}.
+
+Host: You are CORRECT! The rating for the story was 72. Thank you for playing!
