@@ -4,6 +4,9 @@
 - `utils.py` - functions for generating responsed from LLM functions
 - `eval.py` - evaluating the responses
 - `Misery_Data.csv` - data containing miserable situations, their annotated misery index values, contestant responses, and other metadata
+ - Run `python misery_index_game_show.py <SEED> <MODEL_NAME>
+  - <SEED> - 12, 123, 1234
+  - <MIDEL_NAME> - gpt-3.5-turbo, gpt-4, gpt-4-turbo, gpt-4o, gpt-4o-mini, o1, o1-mini
 
 ## Links used for gathering data 
 
