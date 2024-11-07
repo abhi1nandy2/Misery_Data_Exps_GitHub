@@ -10,6 +10,26 @@
     - `<SEED>` - 12, 123, 1234
     - `<MODEL_NAME>` - gpt-3.5-turbo, gpt-4, gpt-4-turbo, gpt-4o, gpt-4o-mini, o1, o1-mini
 
+## Progress
+
+- **Game-show setting**
+
+Column headers are seeds.
+
+|             | 12        | 123       | 1234      |
+|-------------|-----------|-----------|-----------|
+| gpt-3.5-turbo | ✅        | ✅        | ✅        |
+| gpt-4       | ✅        | ❌        | ❌        |
+| gpt-4-turbo | ✅        | ✅        | ✅        |
+| gpt-4o-mini | ✅        | ✅        | ✅        |
+| gpt-4o      | ✅        | ✅        | ✅        |
+| o1-preview  | ❌        | ❌        | ❌        |
+| o1-mini     | ❌        | ❌        | ❌        |
+
+- **Game-show setting with chain-of-thought**
+  
+- **Directly predicting the misery index**
+
 ## Links used for gathering data 
 
 - https://bobbymgsk.wordpress.com/category/the-misery-index/
