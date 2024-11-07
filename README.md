@@ -8,7 +8,7 @@
   - Run `python misery_index_game_show.py <SEED> <MODEL_NAME>`
    
     - `<SEED>` - 12, 123, 1234
-    - `<MODEL_NAME>` - gpt-3.5-turbo, gpt-4, gpt-4-turbo, gpt-4o, gpt-4o-mini, o1, o1-mini
+    - `<MODEL_NAME>` - gpt-3.5-turbo, gpt-4, gpt-4-turbo, gpt-4o, gpt-4o-mini, o1, o1-mini, gemini-1.5-pro
 
 ## Progress
 
