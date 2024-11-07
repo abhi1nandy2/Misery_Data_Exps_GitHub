@@ -25,6 +25,7 @@ Column headers are seeds.
 | gpt-4o      | ✅        | ✅        | ✅        |
 | o1-preview  | ❌        | ❌        | ❌        |
 | o1-mini     | ❌        | ❌        | ❌        |
+|gemini-1.5-pro| ❌        | ❌        | ❌        |
 
 - **Game-show setting with chain-of-thought**
   
