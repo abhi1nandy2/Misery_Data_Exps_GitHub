@@ -31,6 +31,8 @@ Column headers are seeds.
   
 - **Directly predicting the misery index**
 
+- **Binary Comparisons between situations**
+
 ## Links used for gathering data 
 
 - https://bobbymgsk.wordpress.com/category/the-misery-index/
